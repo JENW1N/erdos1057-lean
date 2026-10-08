@@ -1,0 +1,54 @@
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/CubeEigenrelation.lean:146:7: warning: Variable name `rootPolicy_complexSLTopology` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_complexSLTopology
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/CubeEigenrelation.lean:148:7: warning: Variable name `rootPolicy_complexSLTopology` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_complexSLTopology
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/CubeEigenrelation.lean:465:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/CubeEigenrelation.lean:483:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/CubeEigenrelation.lean:485:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/CubeEigenrelation.lean:496:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/CubeEigenrelation.lean:514:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/CubeEigenrelation.lean:535:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/CubeEigenrelation.lean:621:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`

@@ -1,0 +1,57 @@
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedThetaTwists.lean:191:42: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedThetaTwists.lean:268:20: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedThetaTwists.lean:391:29: warning: `dif_pos` has been deprecated: Use `dite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  d̵i̵f̵_̵p̵o̵s̵d̲i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedThetaTwists.lean:497:7: warning: Variable name `explicitWitness8` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _explicitWitness8
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedThetaTwists.lean:501:7: warning: Variable name `explicitWitness8` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _explicitWitness8
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedThetaTwists.lean:505:7: warning: Variable name `explicitWitness9` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _explicitWitness9
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedThetaTwists.lean:506:7: warning: Variable name `explicitWitness10` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _explicitWitness10
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedThetaTwists.lean:507:7: warning: Variable name `explicitWitness8` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _explicitWitness8
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedThetaTwists.lean:529:33: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedThetaTwists.lean:552:8: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedThetaTwists.lean:553:43: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedThetaTwists.lean:554:15: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲

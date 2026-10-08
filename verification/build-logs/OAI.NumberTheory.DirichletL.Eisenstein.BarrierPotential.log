@@ -1,0 +1,48 @@
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/BarrierPotential.lean:143:7: warning: Variable name `rootPolicy_complexSLTopology` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_complexSLTopology
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/BarrierPotential.lean:214:7: warning: Variable name `rootPolicy_complexSLTopology` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_complexSLTopology
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/BarrierPotential.lean:238:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/BarrierPotential.lean:239:7: warning: Variable name `rootPolicy_complexSLTopology` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_complexSLTopology
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/BarrierPotential.lean:240:7: warning: Variable name `rootPolicy_kernelQuotientVolume_finite` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_kernelQuotientVolume_finite
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/BarrierPotential.lean:241:5: warning: Variable name `hV` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hV
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/BarrierPotential.lean:264:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/Eisenstein/BarrierPotential.lean:267:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`

@@ -1,0 +1,42 @@
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean:491:51: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean:502:19: warning: Unused tactic linter: `funext t` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean:502:29: warning: Unused tactic linter: `dsimp [quadraticHeightDenominator]` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean:502:65: warning: Unused tactic linter: `ring` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean:502:29: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean:502:65: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean:502:82: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean:509:19: warning: Unused tactic linter: `funext t` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean:509:29: warning: Unused tactic linter: `dsimp [quadraticHeightDenominator]` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean:509:65: warning: Unused tactic linter: `ring` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean:509:29: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean:509:65: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean:509:82: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean:516:82: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`

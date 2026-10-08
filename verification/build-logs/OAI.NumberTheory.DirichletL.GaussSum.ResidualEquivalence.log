@@ -1,0 +1,24 @@
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/GaussSum/ResidualEquivalence.lean:210:7: warning: Variable name `explicitWitness25` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _explicitWitness25
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/GaussSum/ResidualEquivalence.lean:218:9: warning: Variable name `explicitWitness25` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _explicitWitness25
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/GaussSum/ResidualEquivalence.lean:260:9: warning: Variable name `explicitWitness25` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _explicitWitness25
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/GaussSum/ResidualEquivalence.lean:344:9: warning: Variable name `explicitWitness26` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _explicitWitness26
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`

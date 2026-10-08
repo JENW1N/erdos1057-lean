@@ -1,0 +1,9 @@
+{
+  "python_syntax": "PASS",
+  "check_sources_exit": 0,
+  "stdout": "{\"status\": \"SOURCE_CHECK_PASS\", \"files\": 516, \"baseline_modules\": 189, \"proof_modules\": 320, \"lean_invoked\": false}\n",
+  "stderr": "",
+  "lean_runs": 0,
+  "dependency_fetches": 0,
+  "full_build_executed": false
+}

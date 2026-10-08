@@ -1,0 +1,16 @@
+{
+  "scope": "current official FC source reconstruction; no proof imports rebuilt yet",
+  "created_utc": "2026-10-08T05:39:28.374365+00:00",
+  "base_commit": "7d1a8c9912747679d0093f6d1216420c33ee5ffa",
+  "patch_sha256": "2365fca1b52dd7a4ede116bd0ad0d12f51459bf5fd4ed3416214ee5c89577afd",
+  "official_commit": "4b69a7dca3e731dd1f28cb523b9ebd2ea32527f4",
+  "source_tree": "6f2a5130e24ffe9f12cd5db5c2dd310237462086",
+  "compiler": "/Users/jenwin/.elan/toolchains/leanprover--lean4---v4.35.0-rc2/bin/lean",
+  "compiler_version": "Lean (version 4.35.0-rc2, arm64-apple-darwin24.6.0, commit 11acb17ec6b07a8f9e9173e6845197929540936b, Release)",
+  "compiler_commit": "11acb17ec6b07a8f9e9173e6845197929540936b",
+  "toolchain": "leanprover/lean4:v4.35.0-rc2",
+  "mathlib_commit": "065356127b1dc0016f66b7283ce0ce2c4055aa55",
+  "target_source_sha256": "d6e21026808daaba5b5281b1b19b8cbb5a45e27f48cfeb979ea2b81dcbebb88f",
+  "prior_target_source_sha256": "390ca1cd366dd5a2f6afa4e7e7c129efe98260f125f0b13a238b024db3afb6a4",
+  "prior_checkout_unchanged": true
+}

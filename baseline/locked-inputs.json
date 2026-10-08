@@ -1,0 +1,13 @@
+{
+  "pins.lock.json": "2e06266cae70072be800d1cefaaaf2706b6616eee332cf3a80ae83a8671dddc4",
+  "manifest.json": "905554cbdcc54056f3d2e3ab8ac4f95a28aacdd5626c740c4ca38beab1b990c2",
+  "Challenge.lean": "02bc30f829bb04f99ba5359df0a849d2632fac7a79e6ee895ec685323bb68ac8",
+  "SolutionHeader.lean.txt": "9059045e3aa13cc8336608b3744a936a270d09981911867b3f92107a6362872b",
+  "SolutionFooter.lean.txt": "0eed8ce76c1cdb94613104059cf4e58d4d7860cc95bd85c234db2d73534a5fb9",
+  "formal-conjectures-audit-fixes.patch": "2365fca1b52dd7a4ede116bd0ad0d12f51459bf5fd4ed3416214ee5c89577afd",
+  "source-metadata.json": "c7b782711285931e45bd608834d5a3e80cc64b3f218067353f404894ff5b3a3f",
+  "pin_dependencies.sh": "c34a329ad79bdec855dfd6960c8b0263532bb5965d15140aa28d0191d7e28c90",
+  "static_checks.py": "ed9f2c773f4713979c7f4e967d929e4f5a15e7076076fb4e2a1e9e358ca86950",
+  "comparator-config.json": "7415f4e04c714829831824c8f31215983d0eafa25064418d4833de03e850bbf6",
+  "validator-pin-verification.json": "423024f68020a74e2d07d221769d8fb740f1ad64f29dfc31d42d0e46b4ea9f89"
+}

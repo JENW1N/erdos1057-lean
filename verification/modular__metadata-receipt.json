@@ -1,0 +1,12 @@
+{
+  "origin": "Fresh inventory from the completed canonical objects; copied unchanged",
+  "source_sha256": "0f73933901f6c437cbbb830458937360a523527b1afd2df41307aa66231fb4b2",
+  "inventory_sha256": "2741cf9f6660767e8518d073271aee6997f31d4d9b8e4d2ede3f8476df09212d",
+  "source_lock_sha256": "0f0ee393d8024ecd7b3ebf23889d7bb5bef3833328899cd51ba7cb2fbc213108",
+  "patches_sha256": "7fe41b7b809c1cbcb4a42e6b4367b40eb07baf82c6612ce74b8d689a0ba842f2",
+  "progress_sha256": "0717b7ec1e82d08c5003d15c705c97c0ada6b0de91acad39d7c85b2efcd4a3b1",
+  "compiler_commit": "11acb17ec6b07a8f9e9173e6845197929540936b",
+  "available_custom_declarations": 36659,
+  "kernel_reachable_custom_declarations": 24140,
+  "canonical_audit_receipt_sha256": "0fcdb62af156ce68fe7b87e6cc411063898bf470b006ee2cdeecf08b31f9c826"
+}

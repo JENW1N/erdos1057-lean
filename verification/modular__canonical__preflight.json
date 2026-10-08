@@ -1,0 +1,838 @@
+{
+  "started_at": "2026-10-08T16:26:23.647088+00:00",
+  "snapshot_lock_sha256": "0f0ee393d8024ecd7b3ebf23889d7bb5bef3833328899cd51ba7cb2fbc213108",
+  "profile": {
+    "signature_schema": 3,
+    "flags": [
+      "--trust=0",
+      "-Dweak.google.answer=always_true",
+      "-DElab.async=false"
+    ],
+    "runtime": {
+      "LEAN_NUM_THREADS": "1",
+      "LEAN_ABORT_ON_PANIC": "1"
+    },
+    "compiler_sha256": "d1d9c26a539f54fe839d2aa7760bf1ac1dd76a30b26e2c9684bebf2900038fcf",
+    "compiler_commit": "11acb17ec6b07a8f9e9173e6845197929540936b",
+    "builder_sha256": "282b9805fb5c166bb518e02605ce466abbf2507cd6cf1b52b01a5d70ff098773"
+  },
+  "baseline_digest": "e1be8422a104a2ce815250241505bf2e471faceed2a172bf1230d3ee6553ed8c",
+  "baseline_visible_artifacts": 58094,
+  "module_count": 320,
+  "workers": 4,
+  "seed_cache_reused": false,
+  "external_imports": {
+    "FormalConjectures.ErdosProblems.\u00ab1057\u00bb": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/build/lib/lean/FormalConjectures/ErdosProblems/1057.olean",
+      "sha256": "282c87d794cfd7f66d7790eea2daa2bab2125f06907e4e26e29b6d13a3859313"
+    },
+    "TaskSupport": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/TaskSupport.olean",
+      "sha256": "a40836d2e3f8c854373c097b0a8d2896bde4adf594948b002be16bf68c6f4d41"
+    },
+    "Mathlib.NumberTheory.LegendreSymbol.QuadraticChar.GaussSum": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/LegendreSymbol/QuadraticChar/GaussSum.olean",
+      "sha256": "f292f1d40381f4624a5a34de22f46ddd68d6c51fa618ecc63fb795a2ccb380ed"
+    },
+    "Mathlib.Topology.Maps.Proper.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Topology/Maps/Proper/Basic.olean",
+      "sha256": "087d22e7b28b2a07f18ddd5d41f9d5ce3fab942f4ccf2cbd0009951c77ea4092"
+    },
+    "Mathlib.MeasureTheory.Measure.Haar.InnerProductSpace": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Measure/Haar/InnerProductSpace.olean",
+      "sha256": "6c4428fefaa7a682f3ffdabcffa9c7e7ed843212a1b8567a167b33e313da6312"
+    },
+    "Mathlib.Analysis.Calculus.ParametricIntegral": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Calculus/ParametricIntegral.olean",
+      "sha256": "8462ca5b85790c8505b43dbdb7963f3b50fe79825de32914d994fda952ecde6e"
+    },
+    "Mathlib.Analysis.SpecialFunctions.Gaussian.GaussianIntegral": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecialFunctions/Gaussian/GaussianIntegral.olean",
+      "sha256": "0fc1374671b76dd9b314c6c45a15ff91fa9f01f5975d75684ea6f020fd6491fc"
+    },
+    "Mathlib.MeasureTheory.Integral.Gamma": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Integral/Gamma.olean",
+      "sha256": "601c33dd3abcf919fbb1c76ce17e73abe5394d993ac38d63f1d9e9cd0ed10d9a"
+    },
+    "Mathlib.Analysis.Distribution.AEEqOfIntegralContDiff": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Distribution/AEEqOfIntegralContDiff.olean",
+      "sha256": "ae1b4157ba5f27ff207f649594cfd07df1cd07bed263b204ed4873f22197717f"
+    },
+    "Mathlib.Analysis.Fourier.AddCircleMulti": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Fourier/AddCircleMulti.olean",
+      "sha256": "eca2d096ae15a7110bc72e421ab8ea0b2af1dbf9612943cd5463496caaeabb5c"
+    },
+    "Mathlib.LinearAlgebra.Matrix.FixedDetMatrices": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/LinearAlgebra/Matrix/FixedDetMatrices.olean",
+      "sha256": "53f34c076636271069ba619a8e195e525cdf0edcc06099664728608e90f919f2"
+    },
+    "Mathlib.Topology.ContinuousMap.Bounded.Normed": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Topology/ContinuousMap/Bounded/Normed.olean",
+      "sha256": "c07f4e055596c7d23fc427aa40e455f38d72dc87bb9570e5ba73e54d338970cd"
+    },
+    "Mathlib.Analysis.SpecialFunctions.Log.Summable": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecialFunctions/Log/Summable.olean",
+      "sha256": "767e032772dc87c40a667819c9d1529ba5ec4010463cb8427f74d94d6cfe1c0e"
+    },
+    "Mathlib.Analysis.Normed.Module.MultipliableUniformlyOn": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Normed/Module/MultipliableUniformlyOn.olean",
+      "sha256": "9839e8a361f42ee9bffee7283ebb5502da362d9e7bc3d1398aec0e85044027b6"
+    },
+    "Mathlib.Analysis.Meromorphic.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Meromorphic/Basic.olean",
+      "sha256": "d8cf27f44071d9f63de3f1f91f9fcfb37434d02f64a217bfe95a753fdbd812a8"
+    },
+    "Mathlib.Analysis.Complex.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Complex/Basic.olean",
+      "sha256": "a2fe64e57e9b32861e741fcf59cf5faf22e51dd74500c9ec370651f7f3befe60"
+    },
+    "Mathlib.Analysis.CStarAlgebra.ContinuousLinearMap": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/CStarAlgebra/ContinuousLinearMap.olean",
+      "sha256": "fe73a5e2dc4a5d3a069c05a77450be7cde38d460ef837b20422c0f7fecb5c725"
+    },
+    "Mathlib.Analysis.CStarAlgebra.Spectrum": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/CStarAlgebra/Spectrum.olean",
+      "sha256": "9e06e4d6bd65c0bca8553f63ec71e4f41f6a92a6e06771b3a9157c35ab1c4d96"
+    },
+    "Mathlib.Analysis.Normed.Operator.Compact.FiniteDimension": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Normed/Operator/Compact/FiniteDimension.olean",
+      "sha256": "902bf42a5f47fb235d5904dffe1cb91dae17fd7dbfcaae36b510bc119053f1d1"
+    },
+    "Mathlib.Analysis.Normed.Module.RCLike.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Normed/Module/RCLike/Basic.olean",
+      "sha256": "4779002eef000c94a28731c7171b9f3401bbedd570eb274ca2a357acaca35db4"
+    },
+    "Mathlib.Analysis.InnerProductSpace.Projection.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/InnerProductSpace/Projection/Basic.olean",
+      "sha256": "7c24ee9a5432709cc3ce202d7f319399d982a8fae30c1fabfba01dab922e5e2d"
+    },
+    "Mathlib.Analysis.Normed.Operator.Fredholm.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Normed/Operator/Fredholm/Basic.olean",
+      "sha256": "cd17a0a24bcab2822a5c12ef2f636a4b9faa514a727ebd16c7b1b8e855cce96d"
+    },
+    "Mathlib.Topology.Compactness.Lindelof": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Topology/Compactness/Lindelof.olean",
+      "sha256": "6868a8c01b3c31477d5a109938d458d19349131877b522a1789fe390137d786f"
+    },
+    "Mathlib.Analysis.InnerProductSpace.LinearPMap": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/InnerProductSpace/LinearPMap.olean",
+      "sha256": "31927afac03ebe6dba5133e31da2d2f9e36d7220ff3d969ed9a04155ebb979f5"
+    },
+    "Mathlib.Analysis.Normed.Operator.Extend": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Normed/Operator/Extend.olean",
+      "sha256": "ecb30f3f9cf7eac7426e63765334cabc9077b47fe977df5f59fdded5d4fdcb49"
+    },
+    "Mathlib.Analysis.Calculus.ContDiff.Defs": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Calculus/ContDiff/Defs.olean",
+      "sha256": "f19bfff0c525b5820e0f52f5869ab66cf4419ec5def266cfdb2750e26e3fe25f"
+    },
+    "Mathlib.Analysis.Calculus.ContDiff.Operations": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Calculus/ContDiff/Operations.olean",
+      "sha256": "04c968f61d85ee12d2b887267ec326af3238e78e6fbb95e3ab4549b7e54ca10b"
+    },
+    "Mathlib.Analysis.Calculus.Deriv.Mul": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Calculus/Deriv/Mul.olean",
+      "sha256": "750a5e446cdb3a0043d501a89c37dd98e6fc23b9681cae14098d12b9cf3c56c3"
+    },
+    "Mathlib.Analysis.Convolution": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Convolution.olean",
+      "sha256": "a09f76b8b573ce72e401f07943f7f04545e01d413db4784a00073da98d8b31cc"
+    },
+    "Mathlib.Analysis.Normed.Operator.Compact.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Normed/Operator/Compact/Basic.olean",
+      "sha256": "1aa708ded9e4908310417db7c0a9a99df8d62c96a41e1728b1f866b24de3a758"
+    },
+    "Mathlib.MeasureTheory.Function.LpSpace.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Function/LpSpace/Basic.olean",
+      "sha256": "61371028f9f2ae6611f3f8016151f8f38e0c14a94d800e6b6175c9ba278ab401"
+    },
+    "Mathlib.MeasureTheory.Function.LpSpace.Complete": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Function/LpSpace/Complete.olean",
+      "sha256": "f09f9e9b598b9bdd68cf6c8a452b82db10c7dce2e0ed3ab254c93ff1785cd53a"
+    },
+    "Mathlib.MeasureTheory.Function.LpSpace.Indicator": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Function/LpSpace/Indicator.olean",
+      "sha256": "6e4ccf6fbd5371d862bbafc1fefcd2d445daee27df46273c3b633555e314c6f0"
+    },
+    "Mathlib.MeasureTheory.Integral.Bochner.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Integral/Bochner/Basic.olean",
+      "sha256": "6e334012e1ab583cf916cba47b56787ecc3c85042124bce43e6ffdaefa08c08b"
+    },
+    "Mathlib.MeasureTheory.Integral.IntervalIntegral.ContDiff": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Integral/IntervalIntegral/ContDiff.olean",
+      "sha256": "dc50ea97055c497c40f1d4b14696f79d02a5701e80ee5762b0727c3bbd365630"
+    },
+    "Mathlib.MeasureTheory.Measure.Haar.OfBasis": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Measure/Haar/OfBasis.olean",
+      "sha256": "cdf59f9fb115838930889f710beb70a3e773126f57ae863a8b61e751b3336a57"
+    },
+    "Mathlib.MeasureTheory.Measure.Haar.Unique": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Measure/Haar/Unique.olean",
+      "sha256": "aa8dd8f87a3428428837fe787c279b012ea28bce807e22ee1147aeb637c03e3a"
+    },
+    "Mathlib.MeasureTheory.Measure.Lebesgue.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Measure/Lebesgue/Basic.olean",
+      "sha256": "97bb47644a8991bba3f4ff64d7e4e53d677b5bfe393c16e20fa59b4c5659c2ac"
+    },
+    "Mathlib.MeasureTheory.Measure.Real": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Measure/Real.olean",
+      "sha256": "e8a18bc45038c99e88ef3ab7e376550121593954f2b67a62296832a27d1154a4"
+    },
+    "Mathlib.Probability.Moments.Variance": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Probability/Moments/Variance.olean",
+      "sha256": "78554de8e1e705dfcd4280143b232602021629d42afedc8d16523e07fba93f07"
+    },
+    "Mathlib.Topology.ContinuousMap.Bounded.ArzelaAscoli": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Topology/ContinuousMap/Bounded/ArzelaAscoli.olean",
+      "sha256": "fa55b99d6fa8199d581731808493f9fc12101ea2e0930697add8dd1b03991de0"
+    },
+    "Mathlib.Geometry.Manifold.ContMDiff.Atlas": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Geometry/Manifold/ContMDiff/Atlas.olean",
+      "sha256": "5aae684c8e3e096a39569cbc852fbb03fb28647a520727794cb2b9dcf484a027"
+    },
+    "Mathlib.Analysis.InnerProductSpace.Dual": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/InnerProductSpace/Dual.olean",
+      "sha256": "f00b4e68ed2523e607569e48cd114699a61fbc9b631a56699ce50d3ff8566632"
+    },
+    "Mathlib.MeasureTheory.SpecificCodomains.Pi": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/SpecificCodomains/Pi.olean",
+      "sha256": "be19e50eb6bf6cf6ddbf95760305d1eb1d4e4db26808ee82b0fa7bd070409c20"
+    },
+    "Mathlib.Geometry.Manifold.ContMDiff.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Geometry/Manifold/ContMDiff/Basic.olean",
+      "sha256": "ea20520b7fab31d64b05b6562222e9ffe6d7c680f3577fda3217e670c03843ff"
+    },
+    "Mathlib.Geometry.Manifold.SmoothApprox": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Geometry/Manifold/SmoothApprox.olean",
+      "sha256": "b7241440cb2f734293dabf6b60d538e0ed908d8c81f0b46823b89eea298482ba"
+    },
+    "Mathlib.Analysis.Distribution.TemperedDistribution": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Distribution/TemperedDistribution.olean",
+      "sha256": "a811abbf9864accfe0989782e24da07dda5e247ef224dd00e572745c1dc7b7c3"
+    },
+    "Mathlib.Topology.Algebra.Module.LinearPMap": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Topology/Algebra/Module/LinearPMap.olean",
+      "sha256": "0f192b13380e45fe04be39d255fea791579f722473fa192ac79e02bd0b1c3225"
+    },
+    "Mathlib.Analysis.InnerProductSpace.ProdL2": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/InnerProductSpace/ProdL2.olean",
+      "sha256": "6a46acb22c970ca07bac5869cd62e8e757fe91ad0ecf482d5fadf8c31b6e49b7"
+    },
+    "Mathlib.Topology.Order.ProjIcc": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Topology/Order/ProjIcc.olean",
+      "sha256": "6c8b0d3e8b5232b570261847dcd0d08a4ff6e2af2dc65795829039e608479882"
+    },
+    "Mathlib.Analysis.SpecialFunctions.Exponential": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecialFunctions/Exponential.olean",
+      "sha256": "207148b7c1088e27db52e53c1a3a15c2a39b9a626b0b579f5c2938ea942be279"
+    },
+    "Mathlib.Topology.Covering.Quotient": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Topology/Covering/Quotient.olean",
+      "sha256": "7c4b005b91c9d1571ec213fd1491386dcc08472cc17319c3a0272619b0aea6ef"
+    },
+    "Mathlib.MeasureTheory.Function.ContinuousMapDense": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Function/ContinuousMapDense.olean",
+      "sha256": "771571117c69e23fffee1ced38aebdb62199ee9938936cd1fee21e8da67b807c"
+    },
+    "Mathlib.MeasureTheory.Function.Jacobian": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Function/Jacobian.olean",
+      "sha256": "e657671b32b941dbd92ca267cd990cf2938e3560eb4224ba54b368a4a0c5f3e8"
+    },
+    "Mathlib.Geometry.Euclidean.Inversion.Calculus": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Geometry/Euclidean/Inversion/Calculus.olean",
+      "sha256": "bf9eebd83b37a1aa4a86f36d9686efa8fe7cabf97b1813683b88b2b18ab149f5"
+    },
+    "Mathlib.Analysis.InnerProductSpace.Projection.FiniteDimensional": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/InnerProductSpace/Projection/FiniteDimensional.olean",
+      "sha256": "f615b9cd884e4fe43990b4a454956e49ff57f63eea94691eb475d25db6afc56a"
+    },
+    "Mathlib.Order.PiLex": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Order/PiLex.olean",
+      "sha256": "87a85bbd96f1d001c23cbfa9d2b5dfde7f7a5cce084f7c6a40d96735ea651bfd"
+    },
+    "Mathlib.MeasureTheory.Group.FundamentalDomain": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Group/FundamentalDomain.olean",
+      "sha256": "f49468afc9cd772f16050334c7e6449270496145fc8ccf643fe029ed26681492"
+    },
+    "Mathlib.Analysis.InnerProductSpace.Calculus": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/InnerProductSpace/Calculus.olean",
+      "sha256": "fd5330c54a19819fcff4cfd87fa99c4023d4e869fb26b906308b4de0166610a5"
+    },
+    "Mathlib.MeasureTheory.Integral.IntegralEqImproper": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Integral/IntegralEqImproper.olean",
+      "sha256": "2fd9bd1d722b07b34c65d0170ee555f7f4c3f122fbef96f6aa15ec585c53ecd6"
+    },
+    "Mathlib.MeasureTheory.Function.L2Space": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Function/L2Space.olean",
+      "sha256": "6ab67e742ed779c5295b20cf5a3c8001118bdef7b4e93f00f83051ff8ba6a096"
+    },
+    "Mathlib.MeasureTheory.Measure.WithDensity": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Measure/WithDensity.olean",
+      "sha256": "ea3cfa6e88af6a3dae48e8a57be2eee80c3a78455f8ae272498f0136f695bd71"
+    },
+    "Mathlib.Analysis.SpecialFunctions.ImproperIntegrals": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecialFunctions/ImproperIntegrals.olean",
+      "sha256": "98073a081e072b770bcb1038133db3e93c6277ddcf33676dcd1b77a7b75e5bd0"
+    },
+    "Mathlib.Analysis.Normed.Lp.SmoothApprox": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Normed/Lp/SmoothApprox.olean",
+      "sha256": "6d1b61a31e8ac30db776246fa4d027cbe760888cc6a8daaf416fba6be67bc17c"
+    },
+    "Mathlib.RingTheory.Multiplicity": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/RingTheory/Multiplicity.olean",
+      "sha256": "43b23ea7582de709e61743822e24243c46cdb33fcac68bf0279f8e4c74a9510e"
+    },
+    "Mathlib.Topology.MetricSpace.HausdorffDistance": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Topology/MetricSpace/HausdorffDistance.olean",
+      "sha256": "5700fa38517ae4e3e6b5ff1053f7aa915ce4a5da94e192417d3fd8cc74d626d2"
+    },
+    "Mathlib.GroupTheory.Index": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/GroupTheory/Index.olean",
+      "sha256": "3d2e5d7869b014d955786f57fab77ffae5185ae77943549d1473e00033101c7b"
+    },
+    "Mathlib.Topology.Instances.Matrix": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Topology/Instances/Matrix.olean",
+      "sha256": "b0d180d914ec5ac04a1605f10fb4449aa400ada0bb5f3389273cb6ae424a943c"
+    },
+    "Mathlib.Analysis.SpecialFunctions.SmoothTransition": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecialFunctions/SmoothTransition.olean",
+      "sha256": "ae06b081531acdbdbcf1983a3f5232cbda7c04653c5e3352f267a7e45faea305"
+    },
+    "Mathlib.Analysis.Calculus.ContDiff.Deriv": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Calculus/ContDiff/Deriv.olean",
+      "sha256": "6d76402d54ad7b5ddb7ae4d3f875f93b0ba563ec5609c85cebdb47c7fcbfb186"
+    },
+    "Mathlib.Analysis.SpecialFunctions.Pow.Real": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecialFunctions/Pow/Real.olean",
+      "sha256": "a91aec7c9254a34a930b6aca655e3780d4a46cb0adb0486ef33d272d57462887"
+    },
+    "Mathlib.Tactic.FieldSimp": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Tactic/FieldSimp.olean",
+      "sha256": "5a59ca2827ed0b593011789e627be60a8ac092689856dfbb3528e972361e4b71"
+    },
+    "Mathlib.Tactic.Linarith": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Tactic/Linarith.olean",
+      "sha256": "e3b6806fde79a8973e32d55e15b4f2cf1bb50f6145b24cb28744b866af88da51"
+    },
+    "Mathlib.Tactic.NormNum": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Tactic/NormNum.olean",
+      "sha256": "aee03166db2fee2b71ace099114780561bee648fc6eaf69fb80f781b946834b2"
+    },
+    "Mathlib.Tactic.Positivity": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Tactic/Positivity.olean",
+      "sha256": "326fb4ef85659170194808fc1402169e8f8ad75a6e82f1dea317a2fcbe756851"
+    },
+    "Mathlib.Tactic.Ring": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Tactic/Ring.olean",
+      "sha256": "c5a11efb81a85b4d96ba827b796fd96dc64cb4ee0fd23cdfbe956c2b124d10ce"
+    },
+    "Mathlib.MeasureTheory.Integral.IntervalIntegral.IntegrationByParts": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Integral/IntervalIntegral/IntegrationByParts.olean",
+      "sha256": "5c10d8987b20ba24fe4c29559046e7b6d293d4f974edf62613c95a229761038c"
+    },
+    "Mathlib.Analysis.Calculus.FDeriv.Measurable": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Calculus/FDeriv/Measurable.olean",
+      "sha256": "c47db18a7cb5b0120c739f716b8ed207c9546fdded4d9e1d01948143ea885c56"
+    },
+    "Mathlib.Analysis.Calculus.Deriv.Star": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Calculus/Deriv/Star.olean",
+      "sha256": "d22f101a66002d3d9fe598975545b9a5ac0acb266f660906902b282b7e676e62"
+    },
+    "Mathlib.MeasureTheory.Function.LocallyIntegrable": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Function/LocallyIntegrable.olean",
+      "sha256": "a4a58903800a88fa8a40164624323f9c20d666283042f73d094d8aa09d190b2e"
+    },
+    "Mathlib.Analysis.Calculus.Deriv.Shift": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Calculus/Deriv/Shift.olean",
+      "sha256": "3b3b1f2f4c86a8aaaf863ecbb6ae7cbae612b745e198d97a55477eba23d820a6"
+    },
+    "Mathlib.MeasureTheory.Integral.Prod": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Integral/Prod.olean",
+      "sha256": "eaf976c42464ead7c406ed90c553ec08f1fb94a18b6e2b6b03c82f8147373a6e"
+    },
+    "Mathlib.MeasureTheory.Integral.DominatedConvergence": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Integral/DominatedConvergence.olean",
+      "sha256": "5d42f17e7915033421d7efa1cf23a4b4d38fb68aec2a2715ac59500d7fec7742"
+    },
+    "Mathlib.Analysis.Calculus.SmoothSeries": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Calculus/SmoothSeries.olean",
+      "sha256": "5785899698ac836e055effd55695f52720da67e3c38527da4cca3195514c1a7f"
+    },
+    "Mathlib.RingTheory.Ideal.Quotient.Nilpotent": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/RingTheory/Ideal/Quotient/Nilpotent.olean",
+      "sha256": "98b33210847b3013d9ad90d0182fc54c42b992d4525c84583a5260aeee9f8b81"
+    },
+    "Mathlib.NumberTheory.NumberField.DedekindZeta": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/NumberField/DedekindZeta.olean",
+      "sha256": "daed2ff8aaef6cb5d8dbdcf889a7820305f480dbb26c81728be7f98a23015a3e"
+    },
+    "Mathlib.RingTheory.UniqueFactorizationDomain.Multiplicity": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/RingTheory/UniqueFactorizationDomain/Multiplicity.olean",
+      "sha256": "bedaaf0e43e2bdd76098e736ac9f915a20737aea5427c2fda80606a682e3cc3d"
+    },
+    "Mathlib.Data.Finsupp.Multiset": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Data/Finsupp/Multiset.olean",
+      "sha256": "c71034b67adbbbe2ea3e244b0aea4a1efe306d6b85dfe81c401b0b1b935c00e8"
+    },
+    "Mathlib.Tactic.Tauto": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Tactic/Tauto.olean",
+      "sha256": "813a26a484519928a30c57f037b90129168d340d89b356c9975b25941e849249"
+    },
+    "Mathlib.Algebra.BigOperators.Group.Finset.Sigma": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Algebra/BigOperators/Group/Finset/Sigma.olean",
+      "sha256": "48189694f4dab36bf18f8add1f40b9df986428a3bc2543879497304d570cbef0"
+    },
+    "Mathlib.Data.Finset.Powerset": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Data/Finset/Powerset.olean",
+      "sha256": "6ca2a85bbe6cb329676799ebacd3e0c6fdbc01cfb69d385f397234db0112c093"
+    },
+    "Mathlib.LinearAlgebra.Matrix.ToLin": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/LinearAlgebra/Matrix/ToLin.olean",
+      "sha256": "181bcee1aea189c2ef27f79a8890fc4e49c6cb59f5d62856bb47cc258645dc30"
+    },
+    "Mathlib.Analysis.Normed.Module.FiniteDimension": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Normed/Module/FiniteDimension.olean",
+      "sha256": "76b8f3b5b6b4cde2dd7fa26e449cbc2b2c93759ca74e62b553ec8c86eef8fc71"
+    },
+    "Mathlib.Algebra.Module.ZLattice.Summable": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Algebra/Module/ZLattice/Summable.olean",
+      "sha256": "515e3f9a19274ddd30636a81dbe37f40dc6fe9189f2b01ba82fda4cd5ff683c1"
+    },
+    "Mathlib.Analysis.Complex.LocallyUniformLimit": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Complex/LocallyUniformLimit.olean",
+      "sha256": "deb83293c0e3043d0c075a65fb6c6536aabf371585da0813be1c06781a7b7e4d"
+    },
+    "Mathlib.Analysis.SpecialFunctions.Pow.Deriv": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecialFunctions/Pow/Deriv.olean",
+      "sha256": "6d01cd217e1dd24e6626df3de94014499c5263855aa1db331013931a53e5eeef"
+    },
+    "Mathlib.LinearAlgebra.UnitaryGroup": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/LinearAlgebra/UnitaryGroup.olean",
+      "sha256": "4d59e3be8a7896f07da146ace36c0901fe1c3aff4fe02dd2c92cc9fc0c164688"
+    },
+    "Mathlib.GroupTheory.GroupAction.Quotient": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/GroupTheory/GroupAction/Quotient.olean",
+      "sha256": "f9c6f0b59ce2d7c46a62c767c340f6111c78517c3af9ba31a058c876409e13d0"
+    },
+    "Mathlib.MeasureTheory.Constructions.HaarToSphere": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Constructions/HaarToSphere.olean",
+      "sha256": "f61262156601be85be3b02408ae3ccd1349cc988741d1542b4dd5db942462cfd"
+    },
+    "Mathlib.MeasureTheory.Measure.Lebesgue.VolumeOfBalls": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Measure/Lebesgue/VolumeOfBalls.olean",
+      "sha256": "7ea51104c002316609a9fbd34b3e5c0e908a4dd2e6312d468d25c368e0f35e3a"
+    },
+    "Mathlib.Analysis.SpecialFunctions.Gamma.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecialFunctions/Gamma/Basic.olean",
+      "sha256": "b22299531867e7b057dbc552ed3fed6276686c0b5e72f5f72ba185020e847973"
+    },
+    "Mathlib.Analysis.SpecialFunctions.Gaussian.FourierTransform": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecialFunctions/Gaussian/FourierTransform.olean",
+      "sha256": "dee244ad2a8454303c563ea5f721a9df73f9162fcf436138558343f366afa2eb"
+    },
+    "Mathlib.MeasureTheory.Measure.Lebesgue.Integral": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Measure/Lebesgue/Integral.olean",
+      "sha256": "a547cc0b416fffb6b3e2c1675d311bde8cedde417020d47b767199f2914f8bab"
+    },
+    "Mathlib.Analysis.Fourier.PoissonSummation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Fourier/PoissonSummation.olean",
+      "sha256": "28e448d174cbf2d550d038546bb1ba98a2f65e91dc186f371d47911d0f26f048"
+    },
+    "Mathlib.Algebra.BigOperators.Group.Finset.Powerset": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Algebra/BigOperators/Group/Finset/Powerset.olean",
+      "sha256": "d3742fd1fd921a2de82aded65dc73046d228f020bf5ae6197bbc89cd74dcfa4e"
+    },
+    "Mathlib.Data.Multiset.Interval": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Data/Multiset/Interval.olean",
+      "sha256": "eeb7d1d53977a0822521a444330cb97eabe7d5ddb8a1b547c893fb7ea8422246"
+    },
+    "Mathlib.Analysis.SumIntegralComparisons": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SumIntegralComparisons.olean",
+      "sha256": "a4f003aee7e2afdbaadb8c357e099b6540214855073e2acbdba83c3f0b14a460"
+    },
+    "Mathlib.Analysis.Fourier.Inversion": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Fourier/Inversion.olean",
+      "sha256": "da4d44d9b15333e8d164930146268c3035960f084d23911ba571f8db4698c63c"
+    },
+    "Mathlib.MeasureTheory.Measure.Lebesgue.Complex": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Measure/Lebesgue/Complex.olean",
+      "sha256": "d0f0a741ebcb3dfa33681ef0759d705c8f0d7118942fdb552c8f165ab6e81bc4"
+    },
+    "Mathlib.Tactic.FunProp": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Tactic/FunProp.olean",
+      "sha256": "38697b909819a5ca0aa72c5610008476650decfff2597655be658c5ceb141068"
+    },
+    "Mathlib.Analysis.Real.Pi.Bounds": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Real/Pi/Bounds.olean",
+      "sha256": "58f2c0598e1bb7bc64f22cb504feb519187588b30be248a6f3d43323e0b38dbc"
+    },
+    "Mathlib.Analysis.InnerProductSpace.Adjoint": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/InnerProductSpace/Adjoint.olean",
+      "sha256": "f0ebca9c08ca37310d30a4aa758b8f731275e09fb94108980caff1423fa87d37"
+    },
+    "Mathlib.MeasureTheory.Measure.Lebesgue.EqHaar": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Measure/Lebesgue/EqHaar.olean",
+      "sha256": "9fca5f5b24e707f9bdef269dc7c9d1f14ef7fe64526583dd5a5b539ad1407477"
+    },
+    "Mathlib.Analysis.Calculus.BumpFunction.FiniteDimension": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Calculus/BumpFunction/FiniteDimension.olean",
+      "sha256": "72914319fef25b82f92d7b4c61bdd8d9d2975cae2607217dc6a324b9d9e74d7f"
+    },
+    "Mathlib.NumberTheory.NumberField.Cyclotomic.Ideal": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/NumberField/Cyclotomic/Ideal.olean",
+      "sha256": "0caa7a3084b887a79f9b77b2699d9493538d945cb5e2c440207c5f998627d38e"
+    },
+    "Mathlib.Analysis.Asymptotics.Lemmas": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Asymptotics/Lemmas.olean",
+      "sha256": "591b9a71529434f9a86c42e98006253505865aed62c792d27635dd47ae442597"
+    },
+    "Mathlib.Order.Filter.AtTopBot.Field": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Order/Filter/AtTopBot/Field.olean",
+      "sha256": "43012f97005bee49c64ab89ef0312063916caab0e45ffdfc509912ee30f549b1"
+    },
+    "Mathlib.Analysis.Complex.Norm": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Complex/Norm.olean",
+      "sha256": "fc394c2332afb734c011a39e23a6e4ea897179d56826fa0110294a5727d1e82b"
+    },
+    "Mathlib.Data.ZMod.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Data/ZMod/Basic.olean",
+      "sha256": "d0db12a900e89c833621fa5227bbd42ed05d23c9dc685d9f700ef1cd2d43252b"
+    },
+    "Mathlib.Algebra.Order.BigOperators.Ring.Finset": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Algebra/Order/BigOperators/Ring/Finset.olean",
+      "sha256": "fcee8351126073064918afb4fd86dd6ed249cc7e91e549c85234a6bfb1615447"
+    },
+    "Mathlib.Data.Finset.Image": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Data/Finset/Image.olean",
+      "sha256": "e38d010c0c51d4a37cf1197c2e6205d88e1d77ce1320845d8cdc89ba6f792f90"
+    },
+    "Mathlib.Analysis.Real.Sqrt": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Real/Sqrt.olean",
+      "sha256": "b7608ae61cd67f0569a2863bfb4374b0bc16fc7d238c65e0182bf39d6b1b023d"
+    },
+    "Mathlib.Analysis.Analytic.Uniqueness": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Analytic/Uniqueness.olean",
+      "sha256": "f2fc8198ef467d0a38022aaa971e88bfbe1087a4c919abb93d072fd88afddf10"
+    },
+    "Mathlib.Analysis.Analytic.Constructions": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Analytic/Constructions.olean",
+      "sha256": "b0779fab8a8cf99136384c11d037ffdd4cb3b1a9b830d635b4f568769047aecc"
+    },
+    "Mathlib.Analysis.Complex.Convex": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Complex/Convex.olean",
+      "sha256": "253bf0a12c6715bae2442fbaf91f92dd7dc7042579d0c61cefd11e4cac34598f"
+    },
+    "Mathlib.Analysis.Complex.HalfPlane": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Complex/HalfPlane.olean",
+      "sha256": "1c20b7392bca0ad8135f3578fab6578649fc53d868a366ada16ea3661db3d2f7"
+    },
+    "Mathlib.NumberTheory.ArithmeticFunction.Moebius": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/ArithmeticFunction/Moebius.olean",
+      "sha256": "857b3a5a2aabd83d0f990530d00ad7de3c283639395f2a270e4e1c89f8adcfb9"
+    },
+    "Mathlib.NumberTheory.LSeries.DirichletContinuation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/LSeries/DirichletContinuation.olean",
+      "sha256": "3560c1b62e6cb1368a523855bbc5e565ae70fd66d137cde9abbbc3a7351eca7c"
+    },
+    "Mathlib.NumberTheory.LSeries.Nonvanishing": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/LSeries/Nonvanishing.olean",
+      "sha256": "c411e99f729ab13b564056c4cb533830b4b7ee3020c7b268be05c356a94a8b30"
+    },
+    "Mathlib.NumberTheory.LSeries.Convolution": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/LSeries/Convolution.olean",
+      "sha256": "65fb3ef404ab67f612535879edb073074598229b5526df8333f45b63d337d8f9"
+    },
+    "Mathlib.RingTheory.UniqueFactorizationDomain.Moebius": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/RingTheory/UniqueFactorizationDomain/Moebius.olean",
+      "sha256": "70dc33972c41dfef90a7cd131fff3ef088f0907df80960804e07be179c34b32f"
+    },
+    "Mathlib.NumberTheory.GaussSum": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/GaussSum.olean",
+      "sha256": "5f9dc7b99810e3e7528088bcbd4d52fd84716faffec8d06b16024e5bc351e189"
+    },
+    "Mathlib.NumberTheory.JacobiSum.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/JacobiSum/Basic.olean",
+      "sha256": "053ffaf23758f23b581be232c5f3d4754ba5dc7fc91326bbfc28e9f69cec6cd5"
+    },
+    "Mathlib.Algebra.GroupWithZero.Units.Fintype": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Algebra/GroupWithZero/Units/Fintype.olean",
+      "sha256": "257abcaa71aa57227ad94a2d7ef15385af2e0017a271b4736485fe4d3abe9de8"
+    },
+    "Mathlib.Tactic.Group": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Tactic/Group.olean",
+      "sha256": "9da990b717f0c88d0216a3fde13d996ec68e9bc7d178fbfe3bb37b9f6a0963e9"
+    },
+    "Mathlib.Algebra.BigOperators.Group.Finset.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Algebra/BigOperators/Group/Finset/Basic.olean",
+      "sha256": "74c2fb42b5ed3f26b786ff94490b30ef63cf80038512b2282f8754cddba12b55"
+    },
+    "Mathlib.Algebra.BigOperators.Group.Finset.Piecewise": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Algebra/BigOperators/Group/Finset/Piecewise.olean",
+      "sha256": "7ff9dca2dcac6af7b4986dae1176842431be43567b70e7f7bffe41329fc5d2be"
+    },
+    "Mathlib.Analysis.MellinTransform": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/MellinTransform.olean",
+      "sha256": "4961d6db8b7dcef6a8ee2d60f181c766ec9196b3aef3fdf611f0742b22e55ad2"
+    },
+    "Mathlib.Analysis.MellinInversion": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/MellinInversion.olean",
+      "sha256": "1e090cc31fc936020fed1467059ee72955e48a2c86f3aa1c3a8de56a1e38ac18"
+    },
+    "Mathlib.Analysis.Fourier.RiemannLebesgueLemma": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Fourier/RiemannLebesgueLemma.olean",
+      "sha256": "a1db96d7439477ffead4e7e9a53316bba80f0ebc1b16672cbdf3b5adfca2b3df"
+    },
+    "Mathlib.Analysis.Complex.CauchyIntegral": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Complex/CauchyIntegral.olean",
+      "sha256": "71e66ef5d434381f7fa766ff0e50f534f707e42453ac00a4f208cd7783ac74e4"
+    },
+    "Mathlib.NumberTheory.NumberField.Cyclotomic.PID": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/NumberField/Cyclotomic/PID.olean",
+      "sha256": "30e6a230829fc5e32c50a9dd19789733c622df066046e45d24c3ec5f4e31a27c"
+    },
+    "Mathlib.NumberTheory.LSeries.Dirichlet": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/LSeries/Dirichlet.olean",
+      "sha256": "d474b6bd26802554c436312b0c8a81881ac04142844bd09c8a5cd1ec1f6023e6"
+    },
+    "Mathlib.NumberTheory.DirichletCharacter.Orthogonality": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/DirichletCharacter/Orthogonality.olean",
+      "sha256": "31ee371c30e913a58318a644833562e494000b298c832a944ea6210c7752ada5"
+    },
+    "Mathlib.NumberTheory.DirichletCharacter.Bounds": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/DirichletCharacter/Bounds.olean",
+      "sha256": "6399309d210771abd3bb8d322c10de1c64fe03f00e5294512915773c1541eca5"
+    },
+    "Mathlib.Analysis.Complex.Polynomial.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Complex/Polynomial/Basic.olean",
+      "sha256": "d64a58b24f896c33ba2daad7bdf606885a6e57ef25943084d29bbd3c844758d0"
+    },
+    "Mathlib.RingTheory.RootsOfUnity.AlgebraicallyClosed": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/RingTheory/RootsOfUnity/AlgebraicallyClosed.olean",
+      "sha256": "12d69a54ba3e13df8bc39b538ee423e444e23a927749530441eeb87763f2bd40"
+    },
+    "Mathlib.Analysis.Distribution.SchwartzSpace.Fourier": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Distribution/SchwartzSpace/Fourier.olean",
+      "sha256": "e6ed140a399443478d7db14d1865533e819d7bb628d8095d8a84f9fef1dcc316"
+    },
+    "Mathlib.Analysis.SpecialFunctions.ExpDeriv": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecialFunctions/ExpDeriv.olean",
+      "sha256": "a5c0053accce51c927abbe713c3377cf95b26932499a8eaddd180e3d766789bd"
+    },
+    "Mathlib.RingTheory.Coprime.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/RingTheory/Coprime/Basic.olean",
+      "sha256": "b2baa2d93f2aa37df6e47ac9e0e45e134763f56a2a11c8b9b66c2cc928daf551"
+    },
+    "Mathlib.Analysis.SpecialFunctions.Trigonometric.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecialFunctions/Trigonometric/Basic.olean",
+      "sha256": "02a9048edb6c9ea3c0ab875edd763919511e2cc83b8856809a8c4b56e2511ef5"
+    },
+    "Mathlib.Tactic.LinearCombination": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Tactic/LinearCombination.olean",
+      "sha256": "e6fad1c9d781a0cfbdc59011885f58c2aea5b0a96e79aa5959efce86c94b7795"
+    },
+    "Mathlib.NumberTheory.LegendreSymbol.QuadraticChar.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/LegendreSymbol/QuadraticChar/Basic.olean",
+      "sha256": "b3b79f9da295447a7b1276fcef004ac07b293c39f5588a2836e5337dc81632fb"
+    },
+    "Mathlib.RingTheory.Ideal.Quotient.Operations": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/RingTheory/Ideal/Quotient/Operations.olean",
+      "sha256": "51bf7847bab6d674ae2d556924fcac291cde6db8b12cd460ca5f6ed713cbd4c1"
+    },
+    "Mathlib.Analysis.Calculus.ContDiff.Bounds": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Calculus/ContDiff/Bounds.olean",
+      "sha256": "3887f0f9b19f465bac381e2e92fa7a93717850446d4dbbd06d379b2791d8725c"
+    },
+    "Mathlib.Analysis.Calculus.IteratedDeriv.Lemmas": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Calculus/IteratedDeriv/Lemmas.olean",
+      "sha256": "73e9c8b9af5514a4ca2e4124db926be0ca958cd9190362f74b5b64faac01a017"
+    },
+    "Mathlib.Algebra.Group.AddChar": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Algebra/Group/AddChar.olean",
+      "sha256": "02176f3a04b272c0103d381863f800dc2225714c943b2e2b6c5f010d4534d5ba"
+    },
+    "Mathlib.Analysis.SpecialFunctions.Gamma.Beta": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecialFunctions/Gamma/Beta.olean",
+      "sha256": "607f2e50a9f45b241bf9d6c112e6452b7bd905c1d2af5de74c406108c3da3e12"
+    },
+    "Mathlib.LinearAlgebra.Matrix.SpecialLinearGroup": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/LinearAlgebra/Matrix/SpecialLinearGroup.olean",
+      "sha256": "05131c5d50bb1f11280a89b39442856c970a498b240cf237eb1c317cb7aa8895"
+    },
+    "Mathlib.Analysis.SpecificLimits.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecificLimits/Basic.olean",
+      "sha256": "8480aefb3c46d5c3ff7c495b741669322bc5b829f96c58eb7b6e9a665e6c801f"
+    },
+    "Mathlib.Geometry.Manifold.PartitionOfUnity": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Geometry/Manifold/PartitionOfUnity.olean",
+      "sha256": "bda2e0a4016f3cd2cc5caad083902e52ab7a55cb96deb220a781e51ade6a414e"
+    },
+    "Mathlib.NumberTheory.NumberField.Cyclotomic.Three": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/NumberField/Cyclotomic/Three.olean",
+      "sha256": "53ba85d64807b760594ae8be39bbbec48b8cf271ba119f8f592bb0f3c9ed137d"
+    },
+    "Mathlib.Algebra.Group.Pi.Units": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Algebra/Group/Pi/Units.olean",
+      "sha256": "40e8b57d6012b68923853281b717f5cab266bdd4b28b16a74a8eb0ecea0e8b19"
+    },
+    "Mathlib.RingTheory.Ideal.IsPrincipal": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/RingTheory/Ideal/IsPrincipal.olean",
+      "sha256": "0691ac0d52dac663a3a00a485aa1ce315398438ec872e17976cba6373a008e0b"
+    },
+    "Mathlib.FieldTheory.Finite.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/FieldTheory/Finite/Basic.olean",
+      "sha256": "f980cb019b1bfd50333fcec43d84c71d409ea932eeaed0c9da7a8337174d65e3"
+    },
+    "Mathlib.NumberTheory.Cyclotomic.PrimitiveRoots": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/Cyclotomic/PrimitiveRoots.olean",
+      "sha256": "2183a7afa600682104cd605641bc421820d84a592df4b34aa8e52e80e7fa8e1a"
+    },
+    "Mathlib.RingTheory.RootsOfUnity.PrimitiveRoots": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/RingTheory/RootsOfUnity/PrimitiveRoots.olean",
+      "sha256": "72fc23fc3190a94e79ab15147a06d96bb3a8497bdf47b0be97f7222c689c2802"
+    },
+    "Mathlib.NumberTheory.Cyclotomic.Gal": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/Cyclotomic/Gal.olean",
+      "sha256": "4453faa3a0eaeff8aa696df7b55afb291b4a503c41414554896582a09860486a"
+    },
+    "Mathlib.Analysis.SpecialFunctions.Complex.CircleAddChar": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecialFunctions/Complex/CircleAddChar.olean",
+      "sha256": "209f327b07ecb3a64b0e27c37299dd41da0c26321e90c7f49685f3b87b77d93a"
+    },
+    "Mathlib.NumberTheory.NumberField.Norm": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/NumberField/Norm.olean",
+      "sha256": "b8c046fd57953a743497b775471e9be5115803083d4144dfbed16ccc2ebe342a"
+    },
+    "Mathlib.NumberTheory.NumberField.Ideal.Asymptotics": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/NumberField/Ideal/Asymptotics.olean",
+      "sha256": "a50b4d614fa83a409ec574a6df2a2fd5fe35adb024948f20cfd61b3d87e09b74"
+    },
+    "Mathlib.Data.Int.Order.Lemmas": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Data/Int/Order/Lemmas.olean",
+      "sha256": "445362558aef67b63348a5c45896b3c27f57811543676e943d61bb11cb4fea15"
+    },
+    "Mathlib.NumberTheory.LegendreSymbol.Complex": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/LegendreSymbol/Complex.olean",
+      "sha256": "bdffdbc364d6c159f00ec6ccba7c637006a9a813bb484d5b58ee9c53ad59a350"
+    },
+    "Mathlib.RingTheory.PowerBasis": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/RingTheory/PowerBasis.olean",
+      "sha256": "e6590e6dc7fe489580efb5cad5e19c24631f51b52de658372f30b1df4b143f67"
+    },
+    "Mathlib.RingTheory.Ideal.Norm.AbsNorm": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/RingTheory/Ideal/Norm/AbsNorm.olean",
+      "sha256": "b2eb08cb7656a41b0a2f5f4015a81e88dfc8d589d682dc46a8d4a3c78b390f5e"
+    },
+    "Mathlib.Analysis.SpecialFunctions.Gaussian.PoissonSummation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecialFunctions/Gaussian/PoissonSummation.olean",
+      "sha256": "4ca1efc24f993aafd43dd4a47a1eabd911a40a1f3731e9fdda9d43eec13aa826"
+    },
+    "Mathlib.Analysis.Normed.Ring.InfiniteSum": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Normed/Ring/InfiniteSum.olean",
+      "sha256": "ab238bfe3d68d284a52ac5d195d24cff214fe0e2bf839c01c227d6275e452b63"
+    },
+    "Mathlib.NumberTheory.Chebyshev": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/Chebyshev.olean",
+      "sha256": "2808be0087c28cfe1bd9146e9eae53c828c510a055983e3a96a977697100b9f9"
+    },
+    "Mathlib.Analysis.Normed.Group.Tannery": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Normed/Group/Tannery.olean",
+      "sha256": "34020726eaad0b580d8d188aa1c17867491338b1f9ec29391dc709c77e7f1edc"
+    },
+    "Mathlib.Analysis.SpecialFunctions.Trigonometric.Bounds": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecialFunctions/Trigonometric/Bounds.olean",
+      "sha256": "f7cd2f441f8efa1363775626d5d5ac37126d8d1ddd8f4646a3ecfd1d828b70a4"
+    },
+    "Mathlib.Analysis.SpecialFunctions.Exp": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/SpecialFunctions/Exp.olean",
+      "sha256": "2db9f1b12c491ca7a5da26636ffb3ef394948d4d4b891a9c1e897512be4ad4e5"
+    },
+    "Mathlib.NumberTheory.NumberField.Ideal.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/NumberField/Ideal/Basic.olean",
+      "sha256": "40c5fc1e7249751de75124334f123a7ba20b702b9c9ba388646dbbf85d356843"
+    },
+    "Mathlib.Analysis.Calculus.FDeriv.Const": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Calculus/FDeriv/Const.olean",
+      "sha256": "5b4cb50d0f9d4848482e8ba7a6e35772e565fa925243b0356205c97b37af467f"
+    },
+    "Mathlib.Topology.Algebra.Support": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Topology/Algebra/Support.olean",
+      "sha256": "913dfdbea9c08baea099d30f1d368dbd3ee912be79b51f8ece39fcb72ca2ec00"
+    },
+    "Mathlib.Analysis.Calculus.FDeriv.Add": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Calculus/FDeriv/Add.olean",
+      "sha256": "810431b8240a6801c8fca751874b626d68542a0f2fdffa35d7f853b341c1eb0c"
+    },
+    "Mathlib.MeasureTheory.Group.Measure": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Group/Measure.olean",
+      "sha256": "11ed55e661050eb5ae75c365f942ac14930b91ca7877d5ae1683e197b86d0d60"
+    },
+    "Mathlib.Topology.Algebra.Group.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Topology/Algebra/Group/Basic.olean",
+      "sha256": "91255f492b9c58d6cf6cdfe4a21c52cc402cfc30f254828dff34674e27a49f4c"
+    },
+    "Mathlib.Analysis.Calculus.Deriv.Comp": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Calculus/Deriv/Comp.olean",
+      "sha256": "0ef69daed9ea11bd6082364e58e09bd062ed9c4f0ed8c85e28e5b58556fdebe2"
+    },
+    "Mathlib.Analysis.Calculus.Deriv.Add": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Calculus/Deriv/Add.olean",
+      "sha256": "48d80f80c3c2f5680be30b1872591e83e15e6bcbc44d1634edfc5a9aaffa0129"
+    },
+    "Mathlib.MeasureTheory.Integral.MeanInequalities": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Integral/MeanInequalities.olean",
+      "sha256": "caab8f3f34a94b6dc2a7f08039bd41e22ddb45d7282c37a706dc239ef37042f7"
+    },
+    "Mathlib.MeasureTheory.Measure.Prod": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Measure/Prod.olean",
+      "sha256": "8389e4551433a5303fe0006d3cb2292835a3dc9232a8bf5dddf00df88f5e6f69"
+    },
+    "Mathlib.Topology.Order.OrderClosed": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Topology/Order/OrderClosed.olean",
+      "sha256": "755432662654eae2ec24562677cb87a95daf4a651567eba5790eae4c0e9540c7"
+    },
+    "Mathlib.MeasureTheory.Function.LpSeminorm.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Function/LpSeminorm/Basic.olean",
+      "sha256": "07b2ed18d5ced550d6eea00aae681e9f158d7ffdc119bce516dfb6dd477146dd"
+    },
+    "Mathlib.MeasureTheory.Integral.Bochner.ContinuousLinearMap": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Integral/Bochner/ContinuousLinearMap.olean",
+      "sha256": "68be12a3a39d586a46425b464b82f98d6abc209051193a0c8e3fdb9fcf8c0015"
+    },
+    "Mathlib.MeasureTheory.Group.Prod": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Group/Prod.olean",
+      "sha256": "3e4760d8708052536d5f71a6d719449633b5b63fa581bb0882dd493e8a9cc9bb"
+    },
+    "Mathlib.MeasureTheory.Function.LpSeminorm.CompareExp": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Function/LpSeminorm/CompareExp.olean",
+      "sha256": "af3002c4771c780231861ddfd08dd3365c5d34e764126c3077b3728d31a74b98"
+    },
+    "Mathlib.MeasureTheory.Measure.Typeclasses.Finite": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Measure/Typeclasses/Finite.olean",
+      "sha256": "e0df0952704a74c12ebaf2a454806b660779a4b1113284c82591bf7220a7e6f6"
+    },
+    "Mathlib.Topology.Algebra.Monoid": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Topology/Algebra/Monoid.olean",
+      "sha256": "aca7f4e802566d48d00c3f5cc59fe5c4abe08731ad0914e2f04e8ef125297b5c"
+    },
+    "Mathlib.Topology.UniformSpace.HeineCantor": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Topology/UniformSpace/HeineCantor.olean",
+      "sha256": "a528fd1504e3e729bc16f57af08050a3a9a1a604cf91787152221cb6382fc281"
+    },
+    "Mathlib.Analysis.Normed.Group.Bounded": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Analysis/Normed/Group/Bounded.olean",
+      "sha256": "b6f0a907db76128fcc9366e08d8def2115cb53ac46c62e7569beaac8339f23bd"
+    },
+    "Mathlib.MeasureTheory.Integral.Bochner.Set": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/MeasureTheory/Integral/Bochner/Set.olean",
+      "sha256": "3cd2064f82ff0e5d1259a0d90268a0b99afa256e0419cfff0c81cbe67ab70bb2"
+    },
+    "Mathlib.Topology.MetricSpace.Pseudo.Basic": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Topology/MetricSpace/Pseudo/Basic.olean",
+      "sha256": "7cdb2e2805f427bb9df13d95d527cfd962f7c4f3a1c77907f97b88ec1f276334"
+    },
+    "Mathlib.Topology.UniformSpace.Cauchy": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Topology/UniformSpace/Cauchy.olean",
+      "sha256": "e033eca17a76ba24901de32f318f80debdf2329269404d523f912de2d0d3587f"
+    }
+  }
+}

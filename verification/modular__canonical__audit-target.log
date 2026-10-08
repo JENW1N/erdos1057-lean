@@ -1,0 +1,3 @@
+'Bounty.target' depends on axioms: [propext, Classical.choice, Quot.sound]
+Bounty.target : True ↔
+  Filter.Tendsto (fun x => Real.log (Erdos1057.carmichaelCounting x) / Real.log x) Filter.atTop (nhds 1)

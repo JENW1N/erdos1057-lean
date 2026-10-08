@@ -1,0 +1,28 @@
+{
+  "status": "all isolated sources passed",
+  "completed_at": "2026-10-08T16:42:39.129106+00:00",
+  "total": 320,
+  "completed": 320,
+  "failed": 0,
+  "blocked": [],
+  "snapshot_lock_sha256": "0f0ee393d8024ecd7b3ebf23889d7bb5bef3833328899cd51ba7cb2fbc213108",
+  "baseline_digest": "e1be8422a104a2ce815250241505bf2e471faceed2a172bf1230d3ee6553ed8c",
+  "profile": {
+    "signature_schema": 3,
+    "flags": [
+      "--trust=0",
+      "-Dweak.google.answer=always_true",
+      "-DElab.async=false"
+    ],
+    "runtime": {
+      "LEAN_NUM_THREADS": "1",
+      "LEAN_ABORT_ON_PANIC": "1"
+    },
+    "compiler_sha256": "d1d9c26a539f54fe839d2aa7760bf1ac1dd76a30b26e2c9684bebf2900038fcf",
+    "compiler_commit": "11acb17ec6b07a8f9e9173e6845197929540936b",
+    "builder_sha256": "282b9805fb5c166bb518e02605ce466abbf2507cd6cf1b52b01a5d70ff098773"
+  },
+  "seed_cache_reused": false,
+  "whole_target_audit_passed": false,
+  "submission_ready": false
+}

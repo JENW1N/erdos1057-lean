@@ -1,0 +1,9 @@
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/QuadraticSieve/CuspCoercivity.lean:180:19: warning: Unused tactic linter: `funext t` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/QuadraticSieve/CuspCoercivity.lean:180:29: warning: Unused tactic linter: `rfl` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/src/OAI/NumberTheory/DirichletL/QuadraticSieve/CuspCoercivity.lean:180:29: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`

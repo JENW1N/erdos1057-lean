@@ -1,0 +1,1932 @@
+{
+  "scope": "Copied sources from completed canonical build and fresh exact-target audit",
+  "compiler_commit": "11acb17ec6b07a8f9e9173e6845197929540936b",
+  "source_lock_sha256": "0f0ee393d8024ecd7b3ebf23889d7bb5bef3833328899cd51ba7cb2fbc213108",
+  "baseline_lock_sha256": "60eea32cf4bbb21b28c26d56d16711465f956980c47e7b27aa49b185960b1e7b",
+  "patches_sha256": "7fe41b7b809c1cbcb4a42e6b4367b40eb07baf82c6612ce74b8d689a0ba842f2",
+  "progress_sha256": "0717b7ec1e82d08c5003d15c705c97c0ada6b0de91acad39d7c85b2efcd4a3b1",
+  "modules": {
+    "ExpandedFrontier": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/ExpandedFrontier.lean",
+      "sha256": "d17ca137907271ffcf89557b8bf4679fc28964909ff6ec025e05ca9fe8bebbe5",
+      "original_sha256": "6d208d71bca12769f66617ae55abb505c15c41b532852b2bf8cac14af0555ad8",
+      "relative_source": "ExpandedFrontier.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Arithmetic.EisensteinCoordinates": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Arithmetic/EisensteinCoordinates.lean",
+      "sha256": "b4d0151bfcd912fa991c848ccf1bad5a7eddc42d04e4e3c2ed08c500141ce4e5",
+      "original_sha256": "b4d0151bfcd912fa991c848ccf1bad5a7eddc42d04e4e3c2ed08c500141ce4e5",
+      "relative_source": "OAI/NumberTheory/DirichletL/Arithmetic/EisensteinCoordinates.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Mellin.ExponentialSmoothing": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Mellin/ExponentialSmoothing.lean",
+      "sha256": "b288e90ebc3caf0b1f55ffde8a74e3ba128a8e54518747dad548360bf11073d1",
+      "original_sha256": "13a70b5bb8879870e41acfb0e73ebaf1a6b47d31835d712f0b33f7deffd83a0f",
+      "relative_source": "OAI/NumberTheory/DirichletL/Mellin/ExponentialSmoothing.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Mellin.LogProfiles": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Mellin/LogProfiles.lean",
+      "sha256": "c951d4498fc0c8a4ca6ea3844dc5dc3e61efdb1f9458722c5da272a0bbc278bf",
+      "original_sha256": "3fa0b43e177d1d69f612e6935ca3c05f8f9cef333b2fc0f1bf46af72c0d1ff24",
+      "relative_source": "OAI/NumberTheory/DirichletL/Mellin/LogProfiles.lean"
+    },
+    "OAI.NumberTheory.DirichletL.ChineseRemainder.AdditiveCharacters": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/ChineseRemainder/AdditiveCharacters.lean",
+      "sha256": "faab90406b9a9982bd194d85f10bbd5bea3901950b9e66e1767813c1f7bd6e36",
+      "original_sha256": "faab90406b9a9982bd194d85f10bbd5bea3901950b9e66e1767813c1f7bd6e36",
+      "relative_source": "OAI/NumberTheory/DirichletL/ChineseRemainder/AdditiveCharacters.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Arithmetic.EisensteinIdeals": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Arithmetic/EisensteinIdeals.lean",
+      "sha256": "8e2fd623d5620bc7cbdc1c617d4b23b0e8042bcf47f04c95d555511967f020e1",
+      "original_sha256": "57c35fa8e4f4ad51e5d121d5d28492f43619439b8a46862f501acf66be629d8e",
+      "relative_source": "OAI/NumberTheory/DirichletL/Arithmetic/EisensteinIdeals.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Cusp.MatrixPhases": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Cusp/MatrixPhases.lean",
+      "sha256": "67158780490198625196597bf0331d6c07654073f7b848bf2088d0b39de9cebe",
+      "original_sha256": "814fbb41bbde9ce425555429fecbdb60cbff34da2ba24b6070b5055cb7442d23",
+      "relative_source": "OAI/NumberTheory/DirichletL/Cusp/MatrixPhases.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.FiniteFourier": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/FiniteFourier.lean",
+      "sha256": "39e4964ead3a444d55fbc9177ba9984817b5a30f79d8183b7becfc3223057378",
+      "original_sha256": "abe6f3b164dc006ed66746d8a03d86730bfd59f6d6572b2975062ac783b8764a",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/FiniteFourier.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.ChineseRemainder": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/ChineseRemainder.lean",
+      "sha256": "9cb9ee728d03c9c7c57ddc5466130a13b6070d60acc88c0fa9c63985968d6d7c",
+      "original_sha256": "8884d2987203e1ffffde1a4a69663a41915d11e8be255e6688376a167e9c21e4",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/ChineseRemainder.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Arithmetic.EisensteinEmbedding": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Arithmetic/EisensteinEmbedding.lean",
+      "sha256": "c1da1fe578e3c0c6d065be0d58664b9e03114fc3629ee864dcebaa3006b2b65f",
+      "original_sha256": "965824923a1865b56db68760f804597e5198f333af5f4a203308d7a2917edc76",
+      "relative_source": "OAI/NumberTheory/DirichletL/Arithmetic/EisensteinEmbedding.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.CubicNormalization": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/CubicNormalization.lean",
+      "sha256": "baebca38a785af1f7e58bcb5bd5a0f04e681b05800d35cb7101874f5e68d76a2",
+      "original_sha256": "93315ac3ab0e22662ab732ad44d1965c0790b25fbc888f6206be1054ea28e479",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/CubicNormalization.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.SexticNormalization": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/SexticNormalization.lean",
+      "sha256": "f01973bf5ee57c26a7332b66aabbf61b171f4897854d24e183ac9ebf9ab05551",
+      "original_sha256": "11bc22bdaa6864eeb8792acc6cd1f33094e5c8726af5aad95e483b0d66656b76",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/SexticNormalization.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.LocalProductAssembly": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/LocalProductAssembly.lean",
+      "sha256": "c7ad47a1e9528e53dd58c505900efd34826075c6646f365b67ccbd7f3085f4ab",
+      "original_sha256": "748c7bfde6d2fdc45d81a18d61a6d71980fc36ac283e71e9bd174128355d9f4a",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/LocalProductAssembly.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.RamifiedTracePhase": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/RamifiedTracePhase.lean",
+      "sha256": "2928d469a01996582b4c0ed9c3795d3ddde5a34c76b636a95616550858bf0ccb",
+      "original_sha256": "065c189c004cd71ff0fec20fc2fb58640b86bb632c01e66de8dd90ca8f0e4819",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/RamifiedTracePhase.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Arithmetic.LatticeCount": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Arithmetic/LatticeCount.lean",
+      "sha256": "bcb2d1b0ad32fed28220e805fbaa2bb7b758aebb36c2647217560af7e27c97c5",
+      "original_sha256": "bcb2d1b0ad32fed28220e805fbaa2bb7b758aebb36c2647217560af7e27c97c5",
+      "relative_source": "OAI/NumberTheory/DirichletL/Arithmetic/LatticeCount.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.QuadraticTrace": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/QuadraticTrace.lean",
+      "sha256": "0d5e30c4e6790ec857b4d46141caf5c72e22cf4d68b86127ed34e9da582d787a",
+      "original_sha256": "cd11e2de58ab4326bcd2d7c376ef25987f8a06031d5cf3ac67e1b9f704d10048",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/QuadraticTrace.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.QuadraticNormalization": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/QuadraticNormalization.lean",
+      "sha256": "e4c57f7ce6d93e9542b4e1fd59c13e94c0dd41eb5aaf7292478ca11632dfbf93",
+      "original_sha256": "9c53a3ed0355834facdea096e2e402ad83893a7688e603f4f3f572a1f3f39c62",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/QuadraticNormalization.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Poisson.BinaryGaussian": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Poisson/BinaryGaussian.lean",
+      "sha256": "582e4a766411b6b9aa3f78a65406a1ddd447b70031b21fea354b5aa81f3d05b0",
+      "original_sha256": "582e4a766411b6b9aa3f78a65406a1ddd447b70031b21fea354b5aa81f3d05b0",
+      "relative_source": "OAI/NumberTheory/DirichletL/Poisson/BinaryGaussian.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.GaussianDualLimit": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/GaussianDualLimit.lean",
+      "sha256": "f665567f3702c04d2a05c64ef2850f7a9eac3e67d6a3ab6f4594892fcda67d91",
+      "original_sha256": "f665567f3702c04d2a05c64ef2850f7a9eac3e67d6a3ab6f4594892fcda67d91",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/GaussianDualLimit.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.GaussianFiberMass": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/GaussianFiberMass.lean",
+      "sha256": "3a282037cb84afc186e3f2e374369543ca08f14fdd7529d3eddf48d9cf995690",
+      "original_sha256": "3a282037cb84afc186e3f2e374369543ca08f14fdd7529d3eddf48d9cf995690",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/GaussianFiberMass.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Poisson.GaussianMoments": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Poisson/GaussianMoments.lean",
+      "sha256": "92c43b2dd246bf9c8e846b5c348edf39e77886979aff64934fa232bc3dadf129",
+      "original_sha256": "748ddcf5d8126be339ac5d05dd8d67a7dc0c232f055c9cbfc84b98889fafcbd9",
+      "relative_source": "OAI/NumberTheory/DirichletL/Poisson/GaussianMoments.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Poisson.OscillatoryGaussian": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Poisson/OscillatoryGaussian.lean",
+      "sha256": "1526d1ea7dbda9dbe5c39cf54e3f9de5f6374d7c37a86074b89abd1302318b9f",
+      "original_sha256": "1526d1ea7dbda9dbe5c39cf54e3f9de5f6374d7c37a86074b89abd1302318b9f",
+      "relative_source": "OAI/NumberTheory/DirichletL/Poisson/OscillatoryGaussian.lean"
+    },
+    "OAI.NumberTheory.DirichletL.PrimeRows.RationalApproximation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/PrimeRows/RationalApproximation.lean",
+      "sha256": "012355cc98f2de5f32ba6d9a09d0f7702f2b17f4b28bfb4c3d09143e416083f6",
+      "original_sha256": "012355cc98f2de5f32ba6d9a09d0f7702f2b17f4b28bfb4c3d09143e416083f6",
+      "relative_source": "OAI/NumberTheory/DirichletL/PrimeRows/RationalApproximation.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.AbelPhaseLimit": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/AbelPhaseLimit.lean",
+      "sha256": "53993b78f3b59061c136fbf292f1c1291dac99c0ef9a8378b035f984e66fd78e",
+      "original_sha256": "53993b78f3b59061c136fbf292f1c1291dac99c0ef9a8378b035f984e66fd78e",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/AbelPhaseLimit.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.ThetaLocalRows": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/ThetaLocalRows.lean",
+      "sha256": "73739015df756718583c02c08be7ae97ea6dc0fde5abb61df2cac5ad362e9ac2",
+      "original_sha256": "73739015df756718583c02c08be7ae97ea6dc0fde5abb61df2cac5ad362e9ac2",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/ThetaLocalRows.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Mellin.LocalNonvanishing": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Mellin/LocalNonvanishing.lean",
+      "sha256": "83d39d5da811ac13488953ba6fa1317e4ce25a9926ae5bc2493003d34448e43d",
+      "original_sha256": "dc100a90bab453d14bef8e4c707eb4ea9a749d1b03e6284de3d373f8e906d601",
+      "relative_source": "OAI/NumberTheory/DirichletL/Mellin/LocalNonvanishing.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Arithmetic.NormFiberMellin": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Arithmetic/NormFiberMellin.lean",
+      "sha256": "0e54c639c7c8fe546eef3f3c01f90157499d431fbcb3e404f23c455cf758a024",
+      "original_sha256": "e8a5265dfb958a162151ab06820b9651246a8593aa09d815383744c302c24bf6",
+      "relative_source": "OAI/NumberTheory/DirichletL/Arithmetic/NormFiberMellin.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Hecke.NormFiberCharacters": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Hecke/NormFiberCharacters.lean",
+      "sha256": "e518818e632023643179df24c7cbf9668512478dd6f500da4721dd9ca0302a1c",
+      "original_sha256": "65bd032797c30d9d9ab5c7ee4d98eb8ee552e4333516e1f771a390faf6be765c",
+      "relative_source": "OAI/NumberTheory/DirichletL/Hecke/NormFiberCharacters.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Hecke.LocalEulerIdentities": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Hecke/LocalEulerIdentities.lean",
+      "sha256": "ec686b05ce9df9194d0c254d4e9e341b3eeeb1f232d1d19a6d073c1d87e02d6b",
+      "original_sha256": "25341ea761303d445f7c7e47a80b3cf5c0394754cab72430567b0ca06a7612a5",
+      "relative_source": "OAI/NumberTheory/DirichletL/Hecke/LocalEulerIdentities.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Hecke.PrimeExtraction": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Hecke/PrimeExtraction.lean",
+      "sha256": "e6dccc3751f7ee34ede107d56f9a2affb0f39e7cacc2cb221c5e60fe57dd44b7",
+      "original_sha256": "0d0d364240d482c20e7adb134abde4ec7a7bdba1161f12935e3119649e9e6133",
+      "relative_source": "OAI/NumberTheory/DirichletL/Hecke/PrimeExtraction.lean"
+    },
+    "OAI.NumberTheory.DirichletL.PrimeRows.NormFiberExtraction": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/PrimeRows/NormFiberExtraction.lean",
+      "sha256": "d4d795d8290d7fe72b3a995735cc46a2d4d693ae798d5b2a2b13e36e3bdb9c95",
+      "original_sha256": "e7d2b7ad532e2a7fd3b3910e970b904a92d9e56a8fc6bdfabcd60ac2e6eedf22",
+      "relative_source": "OAI/NumberTheory/DirichletL/PrimeRows/NormFiberExtraction.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Mellin.FiniteEulerRestoration": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Mellin/FiniteEulerRestoration.lean",
+      "sha256": "842738488dc80f28f61a83d5dd3d213babdf5bacdd3b338112d10ce19fcbdf46",
+      "original_sha256": "1fcbfb1b01e40575a1fd017fd625f123fe8d5eeececc6549c15ca6532cb9a87f",
+      "relative_source": "OAI/NumberTheory/DirichletL/Mellin/FiniteEulerRestoration.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Hecke.FiniteEulerFactors": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Hecke/FiniteEulerFactors.lean",
+      "sha256": "f129f77756d45453a5f80be2369d0d305847c9a4944d4dfd6ba618fa0dd8bda0",
+      "original_sha256": "9d8b60cb4841efd18b656a339e7481c9853cc34255f0ecf41cc7dca4dff9e580",
+      "relative_source": "OAI/NumberTheory/DirichletL/Hecke/FiniteEulerFactors.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Mellin.CompactScale": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Mellin/CompactScale.lean",
+      "sha256": "c42b9c07485c9f46b199058d08e43ec4e5f9b1513b79c2f6f84a3ff54cfa5b3f",
+      "original_sha256": "c4700d171951a16ffa42eb222fbf7e941e262bd41af104059381a92d1f306be3",
+      "relative_source": "OAI/NumberTheory/DirichletL/Mellin/CompactScale.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Mellin.CompactWeights": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Mellin/CompactWeights.lean",
+      "sha256": "0b651fcbe8d070c797f7ba244540aaf1feaee138fdf1c083967574a3e3d9d63a",
+      "original_sha256": "819234aaf334c97ea09351c4f6e0171f187718cda5e4d8dcecae7f7db45d79dd",
+      "relative_source": "OAI/NumberTheory/DirichletL/Mellin/CompactWeights.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.SecondPoissonScale": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/SecondPoissonScale.lean",
+      "sha256": "ae6c36ff1c92b782bd26d043c464b979064a761e474baf6c47db070abf0ba350",
+      "original_sha256": "925af1619888378c874f8c2b03f67c9e44957ba8e39d9e34ac53b69f9c1111a7",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/SecondPoissonScale.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Poisson.EisensteinLattice": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Poisson/EisensteinLattice.lean",
+      "sha256": "34f5268a7c6a29f1e4b364b9d19a780c6e5dde4904a676aff0cb2325042cc126",
+      "original_sha256": "ca72b6f40703b827ee58e73e8266ff4eee35718498c3fefa18b55f8ac8002748",
+      "relative_source": "OAI/NumberTheory/DirichletL/Poisson/EisensteinLattice.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.SexticRadialPoisson": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/SexticRadialPoisson.lean",
+      "sha256": "1ded9c55265c08213639e1829d78cb38d5709225818eb8b16089a3a6a8b319d2",
+      "original_sha256": "ca68cab23a762c9ec4b0cccfea9c8aab39596e713ff561bf199394d4c79173a4",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/SexticRadialPoisson.lean"
+    },
+    "OAI.NumberTheory.DirichletL.PrimeRows.IdealGenerators": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/PrimeRows/IdealGenerators.lean",
+      "sha256": "4b5d46af07bf5e8e0c2006880da2904fa79e42d3c86c3a37d6d7b7494fa13e3a",
+      "original_sha256": "149066e209db3c29e0012867c3cf0ab9b8c4239a742781bdf7827f366dbc21b3",
+      "relative_source": "OAI/NumberTheory/DirichletL/PrimeRows/IdealGenerators.lean"
+    },
+    "OAI.NumberTheory.DirichletL.PrimeRows.ActiveGaussFactorization": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/PrimeRows/ActiveGaussFactorization.lean",
+      "sha256": "a9e7bede1351a87c82e4bb5b3c6c4ee4a653dd26f47c7cd177ebfeb6af6ab209",
+      "original_sha256": "db4ae9c63fff87473f2d5f4884cacb243606ca792207afdfeb56e86309277334",
+      "relative_source": "OAI/NumberTheory/DirichletL/PrimeRows/ActiveGaussFactorization.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.CubicTrace": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/CubicTrace.lean",
+      "sha256": "203f40a069e20b1066b036d9c2f8789151bc907e4d3a93c050effe5db4550237",
+      "original_sha256": "cb21f0e22054cbc24ce4cb9d0ba7cd69297c10482ad2418e5f4431eeb13cd13e",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/CubicTrace.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Fourier.PositiveLogProfiles": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Fourier/PositiveLogProfiles.lean",
+      "sha256": "b2438cbe088739c8ad5377f7384241ea149d77014efd1771b637da615a9a75a9",
+      "original_sha256": "6e6e38cfa32dfbb25ffe0a897513025bc8ae4d94c0171a9a846d1f6951612d66",
+      "relative_source": "OAI/NumberTheory/DirichletL/Fourier/PositiveLogProfiles.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.SquarePhaseFactorization": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/SquarePhaseFactorization.lean",
+      "sha256": "c15bbf9163cba534876567b7b9679cd07a0bb3931a6af0928ca7ab36b655b49c",
+      "original_sha256": "72607eef57bb692a8f488250c84294fd058057bd9c56235116afe799acb4c74c",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/SquarePhaseFactorization.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Poisson.RadialFourier": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Poisson/RadialFourier.lean",
+      "sha256": "e499a2bc6704fc61d1f400741f577d3f49ef014022b02bbf611812a0e94eae43",
+      "original_sha256": "058603150174dc6100d63cd347ba19a9ed935531ff5ceb9f5428a201e3b276ee",
+      "relative_source": "OAI/NumberTheory/DirichletL/Poisson/RadialFourier.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.ActiveConductor": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/ActiveConductor.lean",
+      "sha256": "5a2ddc65490f7130199bca6156040e8ff3346c56fd6a05616f646fbab5979821",
+      "original_sha256": "c7bef7d846cb76f5cc7fee07191f35e9ac89c6f9ee79877705c94e8872249ce2",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/ActiveConductor.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.MixedConversion": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/MixedConversion.lean",
+      "sha256": "a6dfe9208d7af0583a0a671f12129e0baf2f6a815deece429c7b6bb7505c50e8",
+      "original_sha256": "4e1624f866215fb66ce1fc2eb377d3c5e85830eda540736f4422ecef14d03ad6",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/MixedConversion.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.CrossSeparation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/CrossSeparation.lean",
+      "sha256": "72bef1543c949bed675dc905b8c0643c964aed6807f09b55dca1f8d20df16f53",
+      "original_sha256": "dd3d3c61783bd6fb85095f009e2c54f8abbdcd39338eae8e8f1887adcfc3f1d7",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/CrossSeparation.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Arithmetic.IdealMobius": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Arithmetic/IdealMobius.lean",
+      "sha256": "6550d1069c519397f8fc149f5b19a7b63fa1e53dabf7b9f726529ce2e04ab78d",
+      "original_sha256": "d2e478aee7413af427781ae5299ebe632995ee5481b85377204a47fda3128dc2",
+      "relative_source": "OAI/NumberTheory/DirichletL/Arithmetic/IdealMobius.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.CompletedExpansion": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/CompletedExpansion.lean",
+      "sha256": "ac9389bb8a581c693df71395c6e2ba20f7ce70cf534291e1ebc6164e0f6d4957",
+      "original_sha256": "ea4ce0391662a2c4cdebf327a9c457cd917be276691c206000de3f5b1a3a9b9b",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/CompletedExpansion.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.RayCharacters": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/RayCharacters.lean",
+      "sha256": "63b6e16531a8e6fa976801b9aed17b32ee6f38b35122b0a9e9fa86028871b4e0",
+      "original_sha256": "66b75118d2c58c6e5307725f53df1f772f6a760a3df815c5fafee2d69595baa9",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/RayCharacters.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.CoefficientCancellation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/CoefficientCancellation.lean",
+      "sha256": "4a4e6bc4e6007d2fc19f8915a0db8cefe2dac5d283dbddf6ce6d64f2c67227fd",
+      "original_sha256": "93e314f5f440c3834526294305fd4862c5fdf678eb17701a9a48927d99d2cd1a",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/CoefficientCancellation.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.InitialBound": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/InitialBound.lean",
+      "sha256": "f7d02f8f1a5f052bfe7f8f808bb5d8e6aac1cee2f282bd9df3de1e79e9aec218",
+      "original_sha256": "3c9c167b74671ed905cdd6a6a46a9d61d801e29b9f28d552a664785bc795d8f6",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/InitialBound.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Mellin.ReflectedKernel": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Mellin/ReflectedKernel.lean",
+      "sha256": "c7f31c50b0339f51a8bac84743fe668b7e85699f17ad8008664faa8d2ec90252",
+      "original_sha256": "abcb917e166c0e89dd43fa1539ba6c8fb09804bd47a17b1dfa6074a1a99f132f",
+      "relative_source": "OAI/NumberTheory/DirichletL/Mellin/ReflectedKernel.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Arithmetic.SquarefreeDivisors": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Arithmetic/SquarefreeDivisors.lean",
+      "sha256": "c7b4f0028de0e4746859b7bcf8fc5dd0dcaa7707b1d8965d9e7d876af3de2c5f",
+      "original_sha256": "68e42afc28554ab8774cbbe67876afdd9428ba06f1c8bcaa13eaf762be4fcd91",
+      "relative_source": "OAI/NumberTheory/DirichletL/Arithmetic/SquarefreeDivisors.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.CubeLabels": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/CubeLabels.lean",
+      "sha256": "316d456a9bcb3765979aa13cb6be765cf2e9b9396d887709b7f6aa17843dd230",
+      "original_sha256": "575e31e4a0df81272223f20db0bc26f615afa3a6f2a88c5efcd71b155e010fe8",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/CubeLabels.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.MainTermDifference": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/MainTermDifference.lean",
+      "sha256": "ec5b82d4c7a714de079bc9d8d62a56dcf5502c2365e096ff1ae88281e1b75f2f",
+      "original_sha256": "a8356090596d3a2e77a09680943486c75afeed2c9a8b6b1fb230f009390fb825",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/MainTermDifference.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Mellin.InverseContour": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Mellin/InverseContour.lean",
+      "sha256": "17dce505d3b9cb270619066c2a5f00e6d830fa868d3200262c100dcb89d00c11",
+      "original_sha256": "742884fa38e21717cf58c609b154cdcd1a2aec1c5a459ef93b494a3827fbf4b7",
+      "relative_source": "OAI/NumberTheory/DirichletL/Mellin/InverseContour.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Mellin.UniformKernelBounds": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Mellin/UniformKernelBounds.lean",
+      "sha256": "cfd1a04908ee55dbe46a3d04ef1c93b1663b7843a917ae56a64195541f735b11",
+      "original_sha256": "090553902307e960922516408d548a97897179bfa8e5b0a7a0c0796575e166ec",
+      "relative_source": "OAI/NumberTheory/DirichletL/Mellin/UniformKernelBounds.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.FiniteOperator": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/FiniteOperator.lean",
+      "sha256": "5d8715f8ec7f371be6b9f2b323eea6cca4d1db9e3f55d53c06aa1dddd69ad268",
+      "original_sha256": "706b45a49e84b2591e934708accbfaa50bf29a8bb843165022419f25b5d37085",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/FiniteOperator.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.CrossFactorization": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/CrossFactorization.lean",
+      "sha256": "4f74974a111ab12a37472e196bbb8dc2600bea3a0bdb84384bd43bb7d9d9ca1d",
+      "original_sha256": "8ead4f5c6b876914eabaa3afc70b21aa3bea9e0b5a77af5d05f437b76719cb1a",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/CrossFactorization.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.CoprimeBilinearBound": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/CoprimeBilinearBound.lean",
+      "sha256": "64d0934b58a516e770b2246cefc67478cb4fac8bb225735d61eab92052ad7b28",
+      "original_sha256": "2b3c41c2c43f88c69302f39cf9c80ae15a05f66c418765c03e61be9b47f56162",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/CoprimeBilinearBound.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.LocalBrackets": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/LocalBrackets.lean",
+      "sha256": "5302df6b3240072875883b09034180a963b0f8a81cda383d6ad93772f2c80e71",
+      "original_sha256": "73d0eddca5dfd57ac60c28c397205dfc741d6ae7f17794952ad7c7f2e69bc981",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/LocalBrackets.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.RayExpansion": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/RayExpansion.lean",
+      "sha256": "19f03e5fed3471e32a547032bd36e928f66164e07ca95d31894c2a8d851b9a11",
+      "original_sha256": "c73ace7ea382ff772a46c6e56932387a69132b504ec649cf936effdbf20bc725",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/RayExpansion.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.ReflectionBrackets": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/ReflectionBrackets.lean",
+      "sha256": "e5e6110d8d3f7efdb976646171ccd3137a9332d2dda03b3a0643b7be7adbef11",
+      "original_sha256": "17a4acca84bf199780a04b6dc9b901e80879fb627bd8738a11b5b68985c89444",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/ReflectionBrackets.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.IdealQuotients": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/IdealQuotients.lean",
+      "sha256": "0d146874b25766b44f37877125f444575c53da5b2e4ee4cbb9bed9e9f1d00229",
+      "original_sha256": "ff93302e5959d918529f4cd3e0cefc276589d9a3194921877a5ab9d84626c3b5",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/IdealQuotients.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.DivisorBlocks": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/DivisorBlocks.lean",
+      "sha256": "2607a4496d3ca39bc965544a6abbf77bce3b2c2c3422841475181a7b86b5dc67",
+      "original_sha256": "be244c0d938f8521468ccbd7b03ce9f95268699f503936f7d4db8ccd5fb61163",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/DivisorBlocks.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Reciprocity.CubicJacobi": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Reciprocity/CubicJacobi.lean",
+      "sha256": "97b763fc993f74a8faaed4a67c635d6ac3528fa6681ab9bfdcfce11c11c22a38",
+      "original_sha256": "249fa82b49c216eabc4fb293e2997bf1c092472c4b03cfed8c8e26c9bcbd507e",
+      "relative_source": "OAI/NumberTheory/DirichletL/Reciprocity/CubicJacobi.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Reciprocity.RamifiedSymbol": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Reciprocity/RamifiedSymbol.lean",
+      "sha256": "6d25a6bae3983707a90d5d932d46ae0b554e440f536460095917c950e73ca4b9",
+      "original_sha256": "954f06a1298c4ff4465160f7523c0b3e4ddbca20968f55a3e08adc46a9b98910",
+      "relative_source": "OAI/NumberTheory/DirichletL/Reciprocity/RamifiedSymbol.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.KernelEnergy": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/KernelEnergy.lean",
+      "sha256": "37e3693d634bd92acccd10573aefad9f3ea599dabc944fffcff8da4a46652ef3",
+      "original_sha256": "33cd80e10b036c077aa55d73921f7807e1d4b418af0cd6eb27bd92b974cab274",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/KernelEnergy.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Poisson.QuadraticProfiles": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Poisson/QuadraticProfiles.lean",
+      "sha256": "2b3ca34d23143e1a6c08166ee4cd705f026287cc332c0c081f528f52ed4d5da3",
+      "original_sha256": "76756b879f8425feadaa3bfbd777022cf0458dfe389c91c268f71482234255e4",
+      "relative_source": "OAI/NumberTheory/DirichletL/Poisson/QuadraticProfiles.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.FirstPassage": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/FirstPassage.lean",
+      "sha256": "57e115ff688c14ff63546ff8afdb8c9dca792a3c9e48ef403279d1f800de3092",
+      "original_sha256": "e9492fb326d01810d11f6f52c6bad9649e3809d0d37516cf6fafede43eca9a14",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/FirstPassage.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.RayCoefficients": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/RayCoefficients.lean",
+      "sha256": "3e935b9867c493b9fe7de4c48338b7ba196375215d24ab54d3ab8229800676ac",
+      "original_sha256": "65ca18aed2e7a8ff4935f97c9cb1b3a65e02361fe26b7a6289ae80c07df19474",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/RayCoefficients.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.SecondPoisson": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/SecondPoisson.lean",
+      "sha256": "22322e2108a9eca2eecf2388682d42fdcf165e551fd57eb9fb549ff910291326",
+      "original_sha256": "674a0ff5985e374b54692578607817d9f3369e7ce891f13004c1c4f24e3121bd",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/SecondPoisson.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.Rows": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/Rows.lean",
+      "sha256": "1204827001b5b9923b4c9d9ef047c2aebef58c448190eafa554dec53bf5a6fd4",
+      "original_sha256": "e1dc4f2c8f0112180e67fcde0714b1e6b5c029e6b87adfecab3860a573a508aa",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/Rows.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.PrimitiveRows": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/PrimitiveRows.lean",
+      "sha256": "0eb69bc281d5d4ba75e7c43e9c005c6d5281249788612b66bda2bfacd5628c3e",
+      "original_sha256": "6d7f5641318323597fe5ae7cb42c389bc114080dba788938171613ab846417de",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/PrimitiveRows.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Poisson.PrincipalTruncation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Poisson/PrincipalTruncation.lean",
+      "sha256": "de793e94d62f340fcdf2c7f9aab90b39ac0504855712ff0043b86af625edb59b",
+      "original_sha256": "274c9cae1a6b5cd18350ba9c94fa0e06cb87e31d599d64f74f20a1f27759f7ea",
+      "relative_source": "OAI/NumberTheory/DirichletL/Poisson/PrincipalTruncation.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Fourier.FrequencyTwists": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Fourier/FrequencyTwists.lean",
+      "sha256": "c7cbfda7535140c518e594394c90437191b2169a34179e737ca7ebeb5ec36077",
+      "original_sha256": "f7d7d9856b1982aab5fe322ef30ae478e823f61913602499d8e8a84d3abe18a4",
+      "relative_source": "OAI/NumberTheory/DirichletL/Fourier/FrequencyTwists.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.ChildTransfer": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/ChildTransfer.lean",
+      "sha256": "6ddae4757e66100a5df730078c257d8766977d4bc0a191b5cc082db65de5d87d",
+      "original_sha256": "9441d0d0e9c8a2976bbe4f77e68b5081aeb01e2ea2443104b7114e1c06b4882a",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/ChildTransfer.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.IntegratedTransfer": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/IntegratedTransfer.lean",
+      "sha256": "604fb3bc34572a203bc71e726050a2112ff092e620c1ddeb3a818adff2e12eee",
+      "original_sha256": "cbaeaa1d49569dd16cceded786062dfb7e4272dcefc7d2cd3f870a33cae2b974",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/IntegratedTransfer.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Fourier.TupleWeights": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Fourier/TupleWeights.lean",
+      "sha256": "d13347f9c668247368cc388a11b72696c0b9333d1ffd1cc4e6a93ee22ad0a413",
+      "original_sha256": "bad538035d97c576f8bbb3f043d47efab9ef80eb35095b7a530bc80596e1cb1a",
+      "relative_source": "OAI/NumberTheory/DirichletL/Fourier/TupleWeights.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.GcdReduction": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/GcdReduction.lean",
+      "sha256": "bb2eb9e470dee09b3c8415d08738e5846e9de50159b3b89b70a47615243eb809",
+      "original_sha256": "e8b7378166ec8f5642625b12c661192fa46ea3d7001e256fab1fb6f5bad1b5f9",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/GcdReduction.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.AnnularRecursion": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/AnnularRecursion.lean",
+      "sha256": "81aadff10c238ccb277d142f6f1f10507ac9140a73c7ffca6c032976f35e9266",
+      "original_sha256": "6eda2baec0e17cb9b3b7fcaf075f507587e5c7e62ef7ab985adef111585d3bc5",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/AnnularRecursion.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.HyperbolicSpace": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/HyperbolicSpace.lean",
+      "sha256": "bf952b042990d3c283ffd99f3ca8e144045c0c109dd785a558e97d47af3bc310",
+      "original_sha256": "7e26e3e66e8e46814a84e5a03d223547d497327f5177a8f9b9306016f253c29d",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/HyperbolicSpace.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.RowMajorants": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/RowMajorants.lean",
+      "sha256": "06977a6208e087ea4f58575040f73b18a30f4822ec765ee89ea5adbb1087aa26",
+      "original_sha256": "523711145e3b47203e9193caa0816f2afdb3abce3960682a5587a9448f4912f7",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/RowMajorants.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.FourierCoefficients": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/FourierCoefficients.lean",
+      "sha256": "25639d375aa6627802419a274f36bf789282f0e5ee1d9ebf5a374ffb5e01039b",
+      "original_sha256": "f83e144f6e131ff14c557cfc830d934257ee4cfecfdfc63832b60bcc6803101b",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/FourierCoefficients.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.PrimePools": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/PrimePools.lean",
+      "sha256": "75eb549e432f8e5db937df186004178bed9ca4a414507ceec364bed93da7cd3e",
+      "original_sha256": "cc3be80be7f664e337b873308e21fe46c809d0638d316d31d96ee826174de9d5",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/PrimePools.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.FrequencyBlocks": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/FrequencyBlocks.lean",
+      "sha256": "c9933bdb823390fd04fa7f2af1d019bab23b1680d93ec82f8ba9f6ccec9e4af7",
+      "original_sha256": "5b73221381072dd032047bbb1a3c12380b134e6d4d25231f7e6d573d01314c26",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/FrequencyBlocks.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.FixedProfiles": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/FixedProfiles.lean",
+      "sha256": "40cdd1816079b57db12c5884f85fdb634c80a637e05f6f7bae1a6f05e7f3e92e",
+      "original_sha256": "93ebf0f1c75a16b9cef42da9295d9b761ffaa1f2c14eb97157e2e3f25b16b7ad",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/FixedProfiles.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.ConstantTermSupport": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/ConstantTermSupport.lean",
+      "sha256": "15f05ae5900de5cf530c6ad2cd8bbed76ac16e6895a41a8b30ecea844c7b98f2",
+      "original_sha256": "cfe5c8dbd0a2fec71c747c48576aba94201b3fce9368972ea5f52ea8a8dd7c82",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/ConstantTermSupport.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.SquareParts": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/SquareParts.lean",
+      "sha256": "cb79d06e78bb4feb3250518bfd5fdcee068b84cdd27c91620a5a922ea21f95ec",
+      "original_sha256": "bbbb8e2c315719964dfb95a641352d7c4a3c0c8234e981497d648aab32b844a6",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/SquareParts.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.ResidualSectors": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/ResidualSectors.lean",
+      "sha256": "0a8d52d17380dd1aa19700bd1364f8dfa7ffa1c345a10531cb3194bad4fff473",
+      "original_sha256": "4ad97d3d27c31ecbc39a385074464e45b96c4511dec5a410e679c4d73e201059",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/ResidualSectors.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.UnrestrictedCharacters": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/UnrestrictedCharacters.lean",
+      "sha256": "1c095cf08bef56122e84cecf90f070ec1ff1ff877b70806eba3b59a08e0646d5",
+      "original_sha256": "1fb0c4fc3a3495ff3963cbc320e198a33bef7f062b7be1dc69a8b75d6f6d88df",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/UnrestrictedCharacters.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.ConjugateProfiles": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/ConjugateProfiles.lean",
+      "sha256": "4fbd2490d66eb1fc10ad1bccf8d50c0a02fe595813ae1afa255e9823604ae694",
+      "original_sha256": "cef99342d04d0cfcb654d163d6df4a4fc0a1188a661f047edd5f0e855bc0a886",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/ConjugateProfiles.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.RamifiedNormWeights": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/RamifiedNormWeights.lean",
+      "sha256": "62b527da6924683ddb8d27c745f6a83ff667680b9ff0d7c4a6ab95a37fa3dcb4",
+      "original_sha256": "f7cfed639a50cfc000b1d4d2c9e6ad96724610c4f4dc65a9008e4a0e2bfd965d",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/RamifiedNormWeights.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.PrincipalTruncation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/PrincipalTruncation.lean",
+      "sha256": "026ac4439fbdecba45ae8147cb6b1a535e78882ce2a66ccc2ca7c7707532ad83",
+      "original_sha256": "dd07e8edf231ac78ec8cf80a4e9424b039cb21e35f1a2b73e26e220c93228361",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/PrincipalTruncation.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.FrequencyCutoffs": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/FrequencyCutoffs.lean",
+      "sha256": "a0dcec3701a0fda07997b8eb6cedccc67a8bcdde097dc438a897d00cc70f83aa",
+      "original_sha256": "ca3199bfebcda7c09b2452fb3647b4ed07da95fcda7a135c87673f8774c51335",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/FrequencyCutoffs.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.ConstantDirichletSeries": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/ConstantDirichletSeries.lean",
+      "sha256": "531a494c599f07464c9ceafa2445c386af0da3ebec44df8e4cd3b26827ef0b13",
+      "original_sha256": "99b26037026b03f2b2bd54995b5b45df2e0d5775aa9bf35498189c096b98e6ca",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/ConstantDirichletSeries.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.DyadicColumns": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/DyadicColumns.lean",
+      "sha256": "98256e7c4ab0180603b013fb47e170d5ed0b4cf55954c7ce7434d3055abd696a",
+      "original_sha256": "d6fa3d31d87dd179cf81efc4ee480c9c1747261cf3f756b746b7f96ba043b628",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/DyadicColumns.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.TruncatedSecondTransfer": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/TruncatedSecondTransfer.lean",
+      "sha256": "43747f5a41e8b3c92b487ff0b4fe86b22358ae1fed951af9cd638aecc968f338",
+      "original_sha256": "cb7348a3941c30cb49d7ebde9b1c3b672866f2919fd8795d23b4c7e667af807c",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/TruncatedSecondTransfer.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Fourier.LogDensity": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Fourier/LogDensity.lean",
+      "sha256": "e0c9f7c1a94aa5dcfd67501053fe4e00705255c9c408312efc9f3ef20e6d8167",
+      "original_sha256": "9e49a0b4400cb88bd13b9ff57a67703fca30b09feb170d36f7aafcf95dfc7936",
+      "relative_source": "OAI/NumberTheory/DirichletL/Fourier/LogDensity.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.TwistedProfiles": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean",
+      "sha256": "6f84432aba909b8a746da738cc3218a9ed03158ae5978383972b962481ddd36e",
+      "original_sha256": "94fe6d4d5cfedd34b4e062b5301874b6a537c96b613b5adfd9b3887c8ae22253",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.PrincipalDifference": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/PrincipalDifference.lean",
+      "sha256": "aca71da5a7e6dd62139264816e257dcb6695fe33d1b9419b9fd623e98afbb48e",
+      "original_sha256": "a54e91c48662ef9d0a8671b99edb10b5eb1a74069c3aab597d4e471939dbd369",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/PrincipalDifference.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.SpatialDerivatives": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/SpatialDerivatives.lean",
+      "sha256": "42f02e7e7b43d1b79372388e0b4f6a1520cc29012336f7d16a584e2864da2e9b",
+      "original_sha256": "f5a86610579017593edc584076d431f4e47ea76c558bee132412d6746682a5b6",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/SpatialDerivatives.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.FirstCoreCutoff": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/FirstCoreCutoff.lean",
+      "sha256": "69aa6f6ed2a16be0d7a540a056c68b796353dc7d9c75ab0eea8634c9e1703ed8",
+      "original_sha256": "dc60af6029b452d8f51cbf0d0e57059efa948c2d1324b0716925a58e4dd0bcd7",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/FirstCoreCutoff.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.SmoothSummands": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/SmoothSummands.lean",
+      "sha256": "073d3c23785743919aa10a2f2947737715dbd272d437689aacb793976cda0807",
+      "original_sha256": "8fa8b06abd71b63ed5f72ef7dee0990fcbd241d3ca73aea09bb1be11fc035cd4",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/SmoothSummands.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Poisson.LatticeEnvelopes": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Poisson/LatticeEnvelopes.lean",
+      "sha256": "cee87f7a48d2029531d5a489df0a01dff7c1eecc0afb18234b773db3aadaf3e7",
+      "original_sha256": "f108a073bb6068d705bdca092985b4d54aa771f8cf165e574cb61da76de0aed8",
+      "relative_source": "OAI/NumberTheory/DirichletL/Poisson/LatticeEnvelopes.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.SupportNorms": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/SupportNorms.lean",
+      "sha256": "5edc623f7eb2a37879bc28ec0ee840f1aa2ec21793cc44a1532e58c75429d888",
+      "original_sha256": "b834b852d862d00d7ca0db03507b4c961834de621f8fad1e4daa8f23af882e28",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/SupportNorms.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.MiddleWindows": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/MiddleWindows.lean",
+      "sha256": "7d613c9a02ac7368fda271216673c40f2915778c130d53210b79a8e4410e953b",
+      "original_sha256": "eddcf852b416ad861398e43fcd11e2187c9f9cb287a2a511e761343b881e16df",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/MiddleWindows.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.GreenIntegrals": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/GreenIntegrals.lean",
+      "sha256": "60d3a1d597d36a5d3950e558627b562098dc1ff2722e424921d12539a34f4246",
+      "original_sha256": "1403cd76353b1eef4768fd29395c54c8225f948b99495e9b0f63e3377584a1d7",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/GreenIntegrals.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.GreenIdentity": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/GreenIdentity.lean",
+      "sha256": "de1a77363db0f4be1f45affa5d8fcb33e863b49baaa4b1e11a2ec8d349b40274",
+      "original_sha256": "4e7247f83947565c7e6016bf714b97b25bc95fb90cabf64e86465c5af472b392",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/GreenIdentity.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.LogarithmicTargets": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/LogarithmicTargets.lean",
+      "sha256": "b2ab78f9247fb215882e140b3a3831737249294ee10d364c7db3002295bfc964",
+      "original_sha256": "b99c81e4b8f55f0dde0ebdc69de862ff3ee568d25bdc51b0ea7fd3bd96e673f9",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/LogarithmicTargets.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CuspIntegration": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CuspIntegration.lean",
+      "sha256": "3dcac76ebb8f1ed0badf308ba56f89b110a0cc117af1ee39c0555c978d8e86ba",
+      "original_sha256": "ea45860d5b37638dc7bf498090b3821f11c6320cafe9d5668b942a833f417f3f",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CuspIntegration.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.DualMiddleExpansion": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/DualMiddleExpansion.lean",
+      "sha256": "a0c796ae08af7bd15d6e509c122a744fbc9ab1a677c2654f490f5d6bb2b7987d",
+      "original_sha256": "31bb369d2b51b9661626d8b4919534594c8e3bd1629801c4e70a60b31eaa19dd",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/DualMiddleExpansion.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.MaskedPrincipalBounds": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/MaskedPrincipalBounds.lean",
+      "sha256": "8ddac76f0f635fde7bcd65985a6ef91c8bb1cfa64254a71cd00a2ab6a6dfe60d",
+      "original_sha256": "f880872b4e1b664e008a9b143da89fe723c69d5e7e05b0025e50b153888ce14f",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/MaskedPrincipalBounds.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.LogarithmicSectors": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/LogarithmicSectors.lean",
+      "sha256": "8f00a851a01de8c88c04eeeb552895141f88f139fdfc5d12a63da55e4daa4f9a",
+      "original_sha256": "09b2108931a41a74e14e702ee1167984548a159419a7c4138191edd98886885d",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/LogarithmicSectors.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.SquarefreeTransfer": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/SquarefreeTransfer.lean",
+      "sha256": "fc793f0a8d79ad3258f276ffba6d9f0c9f4cab3d422cf328334cefa9697fbc81",
+      "original_sha256": "2c1f664c0434c28f32f649463f60f7f654f19de233b7f25d3a06d55b5b96cd95",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/SquarefreeTransfer.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.SmoothCuspCutoffs": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/SmoothCuspCutoffs.lean",
+      "sha256": "553c3172b17a815573a20245611792e443ef479ac821d44ddd9d15f9550558c6",
+      "original_sha256": "32cf0b268909c0bdd5b44f0a3c938ba945c50213bf6908eede0645f0480650c6",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/SmoothCuspCutoffs.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.SeedDefects": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/SeedDefects.lean",
+      "sha256": "56a3d04a01076b5120d59da245a47a4cf766ee0f403de63a7a91f34afa98e62c",
+      "original_sha256": "a70fb5b4b553e8d92bb7f822987e83591011924280a581bdc4946adc3b677e93",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/SeedDefects.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.GlobalEncoding": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/GlobalEncoding.lean",
+      "sha256": "cde1f827409cdf300828f790c752e862f9ddb12dade899225aa1ba1c21989c1d",
+      "original_sha256": "5a2e3c4fde98e34fc0a134797c99914823723c5bf1650e29d125c9bbd32e4600",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/GlobalEncoding.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.PrincipalNormalization": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/PrincipalNormalization.lean",
+      "sha256": "7ab38ca96329189ab8fb0606403f31dcd8aba6380357d6f711747083a2e303a1",
+      "original_sha256": "5f59b9ac8347bc2084186921737f58247225e157d83af5870a6ffa6807f5c488",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/PrincipalNormalization.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.PrincipalMajorants": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/PrincipalMajorants.lean",
+      "sha256": "14d51d368d984d0bc1587e077701c1dd99cfe4b7d0efd78c5c2e3987d4d92ef1",
+      "original_sha256": "00d49e81128d8e6997b8f8c954b7a9d30fbd702045a062d5d02d6eb44d57711d",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/PrincipalMajorants.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.RetainedDualBounds": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/RetainedDualBounds.lean",
+      "sha256": "8ed049e5c757becb8bfcb221776617b7ddb78bb0b0438d5942e298131b97a3ce",
+      "original_sha256": "925c8ed48aba83e633f9206869224366902e59ed2aa52a33abc4ad6a9177970a",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/RetainedDualBounds.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.PrincipalDensity": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/PrincipalDensity.lean",
+      "sha256": "949d2fbfd5d217881bba540bdf77cf7ad2906a7f311559bccc29386454347013",
+      "original_sha256": "20c39d3b0f1e7c7ea6bd7f820df8c336fb0853ac559032d842df886e0547826d",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/PrincipalDensity.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.CuspCoercivity": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/CuspCoercivity.lean",
+      "sha256": "f72c320bfa2ee8fe0d3cba83ee94699279fd6f4cbddd42bad896067abffa0af2",
+      "original_sha256": "0b0f6f6554427e83a7586f47b97300888a6fc5293bfc72112a6c17dddd9a17bf",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/CuspCoercivity.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.CommonMasks": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/CommonMasks.lean",
+      "sha256": "7a2842afebfd4b25db4ee87cb0681cb9cdd5c7a6649a2decb47284731ecf445c",
+      "original_sha256": "74fc349dc06d6b45d5f7498325984a8ddb1f9bcc7a672027d086cc8bebba0f94",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/CommonMasks.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.HighKernelGeometry": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/HighKernelGeometry.lean",
+      "sha256": "f4dbef9650973fda6cfda71e44c44e6cf84df713facd8017d7f5337c1eec8a48",
+      "original_sha256": "0f9cd45f6822368ddf2e49e558da868b0597e007540ca708d037fa921ad6ed01",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/HighKernelGeometry.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.QuotientTopology": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/QuotientTopology.lean",
+      "sha256": "8b69edca47e468ae4341f6aef38a9ab0a481447d5f878f56e7112a4ef327ada6",
+      "original_sha256": "f5678b485ac2676e890b1b6bd20f420e0ae86a130e12506d2f45aba6d94e1f61",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/QuotientTopology.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.ScaleCaps": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/ScaleCaps.lean",
+      "sha256": "d4f7cca1a1bc484619abbd0eda3d90a0414942def2c828899907c471ec87129f",
+      "original_sha256": "47694690b4d7551e22a37c59716700904803fe8653da25b6a2599aac32cc0136",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/ScaleCaps.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.PoissonComparison": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/PoissonComparison.lean",
+      "sha256": "569e4936b08720762d81e0fa662963052db4fd08bff0c1c6b7ccf92e8c58a80c",
+      "original_sha256": "a378e03974ddb28edd7bf335bcbb107d5b646f7c74ab65b87333e485ceae7ca5",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/PoissonComparison.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.ArithmeticBins": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/ArithmeticBins.lean",
+      "sha256": "ee417b06743296bdcfdd7e8adeb6fd35e353c0f195ec2658d6324e8866c2b597",
+      "original_sha256": "1ef96e4e0851d506e0f03d93896caf7d02d5f1f2ba4720694a7fc831f252bedf",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/ArithmeticBins.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.HyperbolicVolume": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/HyperbolicVolume.lean",
+      "sha256": "507ee722edc6b060aa5f1366585899e470033b0ec9f55032a357e9d06a97e373",
+      "original_sha256": "bbfc555c45e2ab343d3ffd6ac26c7a433352f5919ba2909bec79be795e875672",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/HyperbolicVolume.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.UniformTransfer": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/UniformTransfer.lean",
+      "sha256": "f391433da48cc21955d2b4bdc6eb96ca83c6adef1c1f126c2351e03114ac35a4",
+      "original_sha256": "bf8cfd031178d3f2ab8df8f277b4b3558918c95e91f87dfd1e6ca4de111f004b",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/UniformTransfer.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.GlobalBinLoss": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/GlobalBinLoss.lean",
+      "sha256": "acb869429b338405aa8daede7d1a631ca5dbe47da37774d9b601a1ffca795678",
+      "original_sha256": "e2a947a5519bf21f180c9418b3528e3d947f8d3517a3aac0f14d32afcb334802",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/GlobalBinLoss.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.FundamentalDomain": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/FundamentalDomain.lean",
+      "sha256": "fc7e18199471554a472c911c5524021c3f6796187fa0ee0482e81374aa3e991d",
+      "original_sha256": "3a21c54e366214b77a975994417a8138775654c87b93f9a2afb3146180b03a39",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/FundamentalDomain.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.GlobalScales": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/GlobalScales.lean",
+      "sha256": "08ec7b9f268287d649eab0a293a50332eb0708b3031fd98147bae6262dcf4a7e",
+      "original_sha256": "2c4f41b25a3e2571e202e0b401da5ace0248bfe414e7f1c2fb3ed9214437183c",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/GlobalScales.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.AnnularLifting": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/AnnularLifting.lean",
+      "sha256": "816cd611ae9d4922c2f4725e7ebc45a2d414d77bb26a372863697d9f79d7de2f",
+      "original_sha256": "8c80c67bfaa27f8c7a2b1c58c630141574f40bdeac1114db09cd54c7b648695e",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/AnnularLifting.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.PoissonConstants": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/PoissonConstants.lean",
+      "sha256": "4497ff707d46e78cdc0f7be48c2ecee875ca8074359f0364c9b3a1bda92e4de5",
+      "original_sha256": "f4855c14105e6b2f236d0ff171fb786ae907d49a845ac49f44b8419dca14da30",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/PoissonConstants.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.SelectedExponents": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/SelectedExponents.lean",
+      "sha256": "fcbfdf2a3b14a5da1fd86607d3c8aed50353a6375c48d7b75f760ea2477f6ff1",
+      "original_sha256": "f6c6febd3ea19555aad5eea9658342be58e11882ec9b02b3f02b5143e9ae26fa",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/SelectedExponents.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.LogarithmicLoss": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/LogarithmicLoss.lean",
+      "sha256": "a8664ed5d95012cbd1938627e34003e8a3f2fe00c31c3f68980d2b55d00158dc",
+      "original_sha256": "eee2f4bbf9a66ec704ad90cda630861aa19783d916e37d4316a927adfc05abd3",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/LogarithmicLoss.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CompactProfiles": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CompactProfiles.lean",
+      "sha256": "86d7b7183600debe1141ef12a9876ffe534d930b5bf448d6774368d52c0b64b4",
+      "original_sha256": "ab018d028523f35991c994f8d50a3cb7ef5454e4a3c3d5574c7d41899a26f72a",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CompactProfiles.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.LiteralSources": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean",
+      "sha256": "b78dfd52e0ee8d7a3031aa26428d5e77c59aa5114f9dc284a2a9f7d28326b6aa",
+      "original_sha256": "b94f6703ce1f82187c937f353b9d29462e0fdfcab4788c755ed09c0d28258dc3",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.PooledRows": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/PooledRows.lean",
+      "sha256": "7bc1f1ba0074f6bded8a7635c36b523bd36a7ed62a75bfc6dc161e4dccbe64d4",
+      "original_sha256": "5d95c6a34434a9f351573201d309e599e5e4371cf5d7df69058617095db9d612",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/PooledRows.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.TransformedColumns": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/TransformedColumns.lean",
+      "sha256": "8f947df9f2e207853fe2e60d0a2a7a6c4235ed9bf72d7c558fe2c67bf09e3548",
+      "original_sha256": "5db804f219387b4af4730d4d24cf20d85ffaf40ac90cdfd725e5dbcb7410c84f",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/TransformedColumns.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.ProductColumns": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/ProductColumns.lean",
+      "sha256": "5ee1869267fe0254537bcf39609995f84f3ff72afe9c33ff1f3eb286a6fb9e2d",
+      "original_sha256": "5f08ace86a500a8536955bb6762a61b034fb04178a988014375453cbad3e185c",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/ProductColumns.lean"
+    },
+    "OAI.NumberTheory.DirichletL.QuadraticSieve.UniformTailBounds": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/QuadraticSieve/UniformTailBounds.lean",
+      "sha256": "c965317635a186cbffa4c6e2a117797abfc77f8183b487c57d693042903b6cc8",
+      "original_sha256": "af0f8e92b365ae05c722a83c2d4492ed798f62ed902c9ee7c7eade7d3c03f59c",
+      "relative_source": "OAI/NumberTheory/DirichletL/QuadraticSieve/UniformTailBounds.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.CubeBlocks": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/CubeBlocks.lean",
+      "sha256": "d0354574d91e9b6987c81d3176d1c0a4782832fb6633f0ff719fd002e318b695",
+      "original_sha256": "c6a1d7348435ce9dc1ae84a9e186529f076b0c37862ae9b58e7f704fab6fc7de",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/CubeBlocks.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.PowerfulParts": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/PowerfulParts.lean",
+      "sha256": "ff5473fe04ba916ebb4eabcad7e40732dc1038e4c0898a22656e36cc612917db",
+      "original_sha256": "fa4d50a6ff56a2107f08108bb36e157555a795cdf16a15b7079835d18170ee23",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/PowerfulParts.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.SourceTransfer": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/SourceTransfer.lean",
+      "sha256": "605e7f2de8179eda1da7e28197c5ba7d36d168904ad4309575f9b02d6b2fc4d3",
+      "original_sha256": "aaf50db225c73dc41f8fcecfa39f9f6717649cebcefe75ae59b5316a2f7f2d9f",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/SourceTransfer.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.LogarithmicBins": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/LogarithmicBins.lean",
+      "sha256": "e7bb45e2d9e6ec15dbd810c581a5ab2007712f8a334bc362e728431bc4cb37e3",
+      "original_sha256": "f3f4a46d2183c3388b0fc8566c45384dfe5f8c189dd9322e86421889052d90bb",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/LogarithmicBins.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.RowCaps": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/RowCaps.lean",
+      "sha256": "9a10943d493772a7957068d59a06bed6b240d4292b7bdc94886e2ef51929ed65",
+      "original_sha256": "f5bd477fb31b6f58a87805c69d986c164736681197dc34cc634fb8df72e4464e",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/RowCaps.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.SmoothTests": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/SmoothTests.lean",
+      "sha256": "96f0d999dec82cd3d372ce9aa6e34382a79b487ebdc4070354e124b69b0d2f88",
+      "original_sha256": "6e6ede6d32d3ed8204fd5c103d6e4bfb0c82ab528bda57bf9d32a4fc201a3463",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/SmoothTests.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.DivisorTargets": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/DivisorTargets.lean",
+      "sha256": "4fb80bf633b0cdb7fc34e9df22c4ed088a2215c8c5f286f5d31cefc3d1791814",
+      "original_sha256": "ae1b1b13dcf96ea3040b69a4e4cffcc301a2dded5b72860ffde9210b51ac603f",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/DivisorTargets.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.NormalizedMass": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/NormalizedMass.lean",
+      "sha256": "320f34e2d40e2e17dc5e4fcf819ebf88b32fa6f612b11cea9e8d810bfbff368e",
+      "original_sha256": "1d3fdde628ceffee65e4212a40ca9997d4f93f62c2df074c8622438d49eea346",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/NormalizedMass.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.ReflectedBranches": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/ReflectedBranches.lean",
+      "sha256": "810107b3f9e1969b30d0911a0c6f21b70e6912181b4a78dccbe6c914000392a9",
+      "original_sha256": "6a97152b11bde15f22b955818e8c0a971b290b78b92aa0558a2bc5de7592ff4b",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/ReflectedBranches.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.DirichletForm": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/DirichletForm.lean",
+      "sha256": "4c99585d25160d2ce13ef46e23aa792b15ae953b2d60de35ba7ad6f857045053",
+      "original_sha256": "7e2badae293ad8ba491822b8b14b5188868428f210606e2752553e40fe6761c0",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/DirichletForm.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.InputEnergy": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/InputEnergy.lean",
+      "sha256": "495eaea6a3bd5ac654c61db88cbe595598af7b54b5ec8a06798de14fa9ff07cd",
+      "original_sha256": "f736af253f1c97071ce8b577d5abeb60026221086fb13e2f85e6caacaa791f16",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/InputEnergy.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.OutsideIdeals": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/OutsideIdeals.lean",
+      "sha256": "ca74e28745616afe8371e48565decb45ba65c07a523ce508563f6a14de024a2d",
+      "original_sha256": "65fd9ef9808040ef5d251087e9165cb78bfc44e11c60442f3b5274a9070a5bdf",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/OutsideIdeals.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.PoissonSource": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/PoissonSource.lean",
+      "sha256": "b9d972f48bf8cfecccf8755988bbdc9398976bcddd45fe8483e086776da6b429",
+      "original_sha256": "b7d3649b5cf117dd7560c3fd5e6bd9a9375f9f2c72e7fb972fee8635703fc2f4",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/PoissonSource.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.QuantitativePassage": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/QuantitativePassage.lean",
+      "sha256": "9e5fd81866d39acc6b04bfaf10e81360e69c98a5ad17162b4985cbab942df3f4",
+      "original_sha256": "9abb0b7909494b09587017f6bdc731c69d379770aecece0d458e8f0d5f637600",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/QuantitativePassage.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.DyadicKernel": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/DyadicKernel.lean",
+      "sha256": "e5881f145be5fef82ecabdbbfd7e8073911b5a26a5a1d9475107df0eef550e00",
+      "original_sha256": "6de8958d4c3b618606abf9ac960bb05a74ace8e85392e12db1949dccfa9a2d19",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/DyadicKernel.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.ReflectedDyadicSeries": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/ReflectedDyadicSeries.lean",
+      "sha256": "50a899f6eec898c07178cd370f0ccf56f37b1300a86d71e8f15870dda6170c46",
+      "original_sha256": "d5d1396b42fdf5d4eac729203baf646b754a518f68509e40fa32bb84847e15b4",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/ReflectedDyadicSeries.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.BranchScaling": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/BranchScaling.lean",
+      "sha256": "c3bd1e25d603e046fd62882bc3f006cb209eff75ea80ee4e2de632886fe62a6b",
+      "original_sha256": "5f9b7b0192482f9c2e4719dd3d0256719b0bb6d3124e8bcb37220bec47ede2b6",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/BranchScaling.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.LocalCutoffs": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean",
+      "sha256": "a6f6d6ad14bd7dac69c0584a803ed070a9724c35d625fb8e7e23b7629a4071f5",
+      "original_sha256": "40d348a5dad8b506586f9a66703cedc605987487f7c481528635e57612fda11f",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean"
+    },
+    "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.H1": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/H1.lean",
+      "sha256": "03b4fc0e96c9a3966b5cc2c905271ab64cb7086120c4e24b445ededa1266995d",
+      "original_sha256": "58ebcc368094602f29b9ff956930bf37f38f9299fc8acec204cfa9c1b4ff94fc",
+      "relative_source": "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/H1.lean"
+    },
+    "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.Translation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/Translation.lean",
+      "sha256": "28041bd62ec665c8adfe90c596242f2fe4aeecb0649cfd7c9460aca73400e887",
+      "original_sha256": "ffc94cb6b55811801735847c6678e83c19aee5f59bcf522cd113d1dadd9702e5",
+      "relative_source": "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/Translation.lean"
+    },
+    "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.TranslationEstimate": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/TranslationEstimate.lean",
+      "sha256": "7dad4463c514c5d3ce36f3a6694998728535817a56c0d2d4342b2c29e258ba75",
+      "original_sha256": "1a53acd973c16616f86d5a8eadbae7132831b09d39ff0876d6635c5914208480",
+      "relative_source": "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/TranslationEstimate.lean"
+    },
+    "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.TranslationEstimateL2": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/TranslationEstimateL2.lean",
+      "sha256": "01ea1cbfddee5d72e2097d28d1f0d9ef43b69bf9921da645416c1a225a225394",
+      "original_sha256": "7c840b1740e2da49d81ffa432bca221c7802ceceaf43765ca279f89df0a438ca",
+      "relative_source": "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/TranslationEstimateL2.lean"
+    },
+    "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.TranslationEstimateH1": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/TranslationEstimateH1.lean",
+      "sha256": "e378e56bc13cd452b46380b87ff8756cc0be54dfe555a17d031dcaeea9d43717",
+      "original_sha256": "1a525d749b4616a4ce6043587ad004603c4d799cfb5e989f1b0795bf76640165",
+      "relative_source": "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/TranslationEstimateH1.lean"
+    },
+    "RellichKondrachov.MeasureTheory.Function.LpSpace.Restrict": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/RellichKondrachov/MeasureTheory/Function/LpSpace/Restrict.lean",
+      "sha256": "481877b5f297a98b1c8e3d7b8efc1864d0c92f3b9f8ec43faf90f44112330f87",
+      "original_sha256": "481877b5f297a98b1c8e3d7b8efc1864d0c92f3b9f8ec43faf90f44112330f87",
+      "relative_source": "RellichKondrachov/MeasureTheory/Function/LpSpace/Restrict.lean"
+    },
+    "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.Smoothing": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Smoothing.lean",
+      "sha256": "0104410bc7733a06fd77d7462d252b376a0d7c9078898b723332f9888a59bcea",
+      "original_sha256": "7a4539df7c96315d597940be033af0823c62be1f5c28cbff3d5ded047f1106e7",
+      "relative_source": "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Smoothing.lean"
+    },
+    "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.Approximation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Approximation.lean",
+      "sha256": "72bfcc75a2a5861077f74d54c9a615d2d9f83248622eb6d5f89597fab28fe7d6",
+      "original_sha256": "ab8bdb450d98348b0296453ba5d75b8208f6c5ac37702a3c1255c6d67d9457dd",
+      "relative_source": "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Approximation.lean"
+    },
+    "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.Compactness": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Compactness.lean",
+      "sha256": "9ebd78b38895fd4133874bcd0fdcef02cc2b3fadc2cfaccc89361874e80e9390",
+      "original_sha256": "2404e4a331186212aa7ce2f069a56c621cee6514c9e711ed5f3e61b52300341b",
+      "relative_source": "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Compactness.lean"
+    },
+    "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.ArzelaAscoli": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/ArzelaAscoli.lean",
+      "sha256": "baea67a58a81c49ae792647953fd5a487e854281280b997feda5447f10ca56d7",
+      "original_sha256": "bef72fc1a747e7cef82ed3d662176887dd133bca3489e71cf395a665ad5da492",
+      "relative_source": "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/ArzelaAscoli.lean"
+    },
+    "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.Transfer": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Transfer.lean",
+      "sha256": "4b443a9199f855ced7b2a2b7ba3fa0b2b9e9cbc7869dbd1d7b1a1bf8a4f831c2",
+      "original_sha256": "9e302cfdae869cb4ce5d8516749a4765c4e005a83572c210de64182632aacff2",
+      "relative_source": "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Transfer.lean"
+    },
+    "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.FrechetKolmogorov": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/FrechetKolmogorov.lean",
+      "sha256": "fcb7a5f1d1740296be11e532d4a004b58e677609d079ebc85fb8795b32245186",
+      "original_sha256": "5ef1afc6a6142cd33e4d8f261ceda91df81ef08ba4b409b33daaf3fd5a3d9d07",
+      "relative_source": "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/FrechetKolmogorov.lean"
+    },
+    "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.Kernels": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Kernels.lean",
+      "sha256": "b0659d0520ed53171bc5164c5074a10520d2cee845ea2eda7b236a986b41282a",
+      "original_sha256": "ae7d26c575370d8414f8a873f45adbe21d123a2ef33da4b7c2dae3ddab272a79",
+      "relative_source": "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Kernels.lean"
+    },
+    "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.TranslationIntegral": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/TranslationIntegral.lean",
+      "sha256": "99180af034467efdaa77435e254bb609a823c949a388fba922ed7d28a4f9ee30",
+      "original_sha256": "4238889df823be7edadedb5943769077937bf390d2bfa614741de49d97bf8097",
+      "relative_source": "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/TranslationIntegral.lean"
+    },
+    "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.Rellich": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/Rellich.lean",
+      "sha256": "e8199338d827d5863e4ae3b4341c84710a815c49127ea57fafdf9c3ef102b5e5",
+      "original_sha256": "82e17a8ce458d7f2df61fb5d4f545a0c2257b11dfa5254c72ba3c9caff51da4b",
+      "relative_source": "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/Rellich.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.RadialWindows": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/RadialWindows.lean",
+      "sha256": "cc12a547a1f2ff6f93d5b88a89c512b7c6f5aba589b44ca15871ead08f700809",
+      "original_sha256": "72488498830ce351a4a82c52fcfb6ec2952f4e7090ca79f995f3c01a766520a0",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/RadialWindows.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.HarmonicAggregation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/HarmonicAggregation.lean",
+      "sha256": "7b50da1bb8680f6f55f3fb3c5e5b7e699d396a2332a44313f01b9a9808ad88d4",
+      "original_sha256": "7c9ad1bd2f44c4de6567080753e9afb64252392366337cb628db4e02f9696c58",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/HarmonicAggregation.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.PaddedPassage": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/PaddedPassage.lean",
+      "sha256": "787d5416a008af896cb79fa00204ee8131df6585e70ba21861f0c776f408bc78",
+      "original_sha256": "324b2bf1a21040a9994dbd94853f14d8bca1aa297a78be699bc11e9ab95e50d8",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/PaddedPassage.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.VariationalLaplacian": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/VariationalLaplacian.lean",
+      "sha256": "973c0bc8d455fad6dd106ead320d82aba8716fd7d00f02d122b87ad1f9d36719",
+      "original_sha256": "f44a085ef94f1cea05383b06f52b41a4f503de0a347e78f0b78cb507733403e2",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/VariationalLaplacian.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.CompletedDyadicRows": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/CompletedDyadicRows.lean",
+      "sha256": "0e50b969e412f7330dac86fccffe4354d0fc23e9759f84e0d30655ceacf4b34f",
+      "original_sha256": "d6094808785cdff11b28b38854dafbcac68c398e4e20ddab95ce061c468fe51f",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/CompletedDyadicRows.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.DiagonalDensity": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/DiagonalDensity.lean",
+      "sha256": "59840172b09e6a47f00893085f48386858fbc6dbab8301594ea2fe1d86d873ad",
+      "original_sha256": "cee48897062625a94188babe7f89419e9a2ec35c181729838a7e3362f7c16c9b",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/DiagonalDensity.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.HighRadialBounds": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/HighRadialBounds.lean",
+      "sha256": "7a91de260f2046db4ac64074b05ff302f42fa9b23d6afa6a919dcbe33dfc8af8",
+      "original_sha256": "3eb0665fd7761895f00f578c48c8789ddafc828c41d0165005bd6113c9471a36",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/HighRadialBounds.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.SourceRemainders": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/SourceRemainders.lean",
+      "sha256": "ae539db6df4ca3764f51f6e34c7f24ee3c9690d080fe4e7443476dbda3aaf414",
+      "original_sha256": "a2bea7a9eb8218e33c1289c846c7c952d393ffd8525b800f779440213ca487ed",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/SourceRemainders.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.DualZeroMode": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/DualZeroMode.lean",
+      "sha256": "858ed34f183bf7425895418e1aa8815a53401aa753f4dfd52b48feaea98abc5c",
+      "original_sha256": "9ce0b05d49c1bcd211d9ffb99e33997d8c26cd8e3a1766c1399d2b43b071dc7f",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/DualZeroMode.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.CanonicalDensity": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/CanonicalDensity.lean",
+      "sha256": "14ef3cce503275297f910cc7704edb8665b560cd5e2e7311c8f0c6289f3d3b91",
+      "original_sha256": "110aad3190ef2f2bfb7dc422ed4f02f4b8dbd5b7eba685c841b0b38771fd52bf",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/CanonicalDensity.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.RetainedDensity": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/RetainedDensity.lean",
+      "sha256": "b81c11b3d80e95f0fe9f3c6d3b2fe2b8ee748f84bba3e938f3fbfdb94f9f4567",
+      "original_sha256": "0786140e8fdcb2bb98e8dc4612d896a3e11484fa8560d61dee21515ca873116c",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/RetainedDensity.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.CanonicalTailBounds": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/CanonicalTailBounds.lean",
+      "sha256": "88707e4b64e7bb9c4a96a840b9f9fe41962139a7509a9e367922a52743f02775",
+      "original_sha256": "8562abadea71b9b2b7c157e69407f26ed211a4aee33ca17724c571dc8f1a4bd0",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/CanonicalTailBounds.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.ReopenedFibers": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/ReopenedFibers.lean",
+      "sha256": "c15a86de2d69d51acdb8d8f38547e28c0ab413b13c1e819573bb9bd6c5fb19a6",
+      "original_sha256": "47a6cabf590d0fbff7882955afb52dae789c4164c8b2f65fc9bd5a01859d693c",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/ReopenedFibers.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CompactEnergyFamilies": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CompactEnergyFamilies.lean",
+      "sha256": "8d19a253a437e0178b66a4d51101320dec27a942fc21a5f29b793734abd0c1b1",
+      "original_sha256": "1b78446e642a30a19b709c5fcba3fcec303b0744eca089049becdbe95c5b5812",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CompactEnergyFamilies.lean"
+    },
+    "OAI.NumberTheory.DirichletL.RowCompletion.SupportBounds": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/RowCompletion/SupportBounds.lean",
+      "sha256": "10b3e2d1873ade65a1c01c9e7430e41e489824b5849a762449af52474c484756",
+      "original_sha256": "4271b3bd15d515ccb90a5da3d40d74629c9cd25fffd8a8ba75b4d3ba3a191e3f",
+      "relative_source": "OAI/NumberTheory/DirichletL/RowCompletion/SupportBounds.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.ReopeningSeparation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/ReopeningSeparation.lean",
+      "sha256": "955b9e1b16131fe2c017c27327dfc803ca28aa86fa489d07fc4c8d0bbee1a20e",
+      "original_sha256": "b182e21438608f5c8036758e87325850263ae688c4dc51990c90af572fbaa3c1",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/ReopeningSeparation.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.LogSeparation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/LogSeparation.lean",
+      "sha256": "0857047a55691ba6ecd2ee29c9ff6f73b0d4e602f7cc369ed66545294c17447f",
+      "original_sha256": "7ba99b6b53ffcc4a40c9a6315875df7e06441ea350781152fd94c30749551bf8",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/LogSeparation.lean"
+    },
+    "OAI.NumberTheory.DirichletL.RowCompletion.PolynomialHeight": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/RowCompletion/PolynomialHeight.lean",
+      "sha256": "29d585c0321fe77bba90c8536f349164d8b3177a910bbed5fc3adcd896950970",
+      "original_sha256": "83710330d5beab047e259b2da5db9a5cc84f9ea091390b7c9e16cb317f0631c0",
+      "relative_source": "OAI/NumberTheory/DirichletL/RowCompletion/PolynomialHeight.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.PolynomialHeight": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/PolynomialHeight.lean",
+      "sha256": "6bf23030f5a7ba3e25777948593640c186d4fed25b1fcae3a1251542594d8663",
+      "original_sha256": "6a2a9872f8a071e495291b5fc16ed5d9402c0e76728bb231c72f9e354e07c312",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/PolynomialHeight.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.RadialProfiles": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/RadialProfiles.lean",
+      "sha256": "5a14f8c4e088c77b9c97e0332ed1010665f7ab020fcde0fd3c243e07b78c4692",
+      "original_sha256": "51ae376d232063a46f11ced6a6c2e7fc3d6bb42f1aa56ec4042175e0903c8749",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/RadialProfiles.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.CanonicalLogEnergy": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/CanonicalLogEnergy.lean",
+      "sha256": "790bbdb61fb9e3ee16dba86cb47f21ae62a9e44287190bd239d5c256c7529d58",
+      "original_sha256": "cf4ae81779e014695b6ba7fe4293f32f536a90cab9ec65f0e5ecce6f78a6bc03",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/CanonicalLogEnergy.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CoordinateLaplacian": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CoordinateLaplacian.lean",
+      "sha256": "da8301f840f0454827d085279e4b9bc3482959c433440a5a91c67d33979b1c7f",
+      "original_sha256": "5f95f9b5e7620d4868490be4f1ccc951ef7adfacded76891c2f74424c5fcc69e",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CoordinateLaplacian.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.DensityBudgets": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/DensityBudgets.lean",
+      "sha256": "b224ab7eb9792f98e48480d507ec0d00a744c5f3dae6737da6881f08e7a08fbd",
+      "original_sha256": "fb83156cd08069568ceaef2078625e676939c8e834a632d629fd5dc3fd1ea8f3",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/DensityBudgets.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.RankMargins": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/RankMargins.lean",
+      "sha256": "812dff65126baa8e2d967e0917cbb9def4e56959a3dc791d1128fd0603741a18",
+      "original_sha256": "3ce2a2702e41d22e5580c5b21278f1c2e8f86f68332610adf3b544cadfbf8e0f",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/RankMargins.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.UniformPolynomialHeight": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/UniformPolynomialHeight.lean",
+      "sha256": "10128a349bb32ce4767b9b95e2506ba5f874fdc610303218732b41a9130bfffd",
+      "original_sha256": "90ec96cdf742e2b3e3b0f01038fcaa88d5345a60a17137fcf1b0338642509820",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/UniformPolynomialHeight.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.UnitRows": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/UnitRows.lean",
+      "sha256": "b6f34d86a55eebc1d3e472eae3648c4f0f6db3d070a9f1a17f9a646a65b7e53c",
+      "original_sha256": "4d4ca338e12ac2144de16e27ba9186644bc9676ab178dedd952e5bd2970bbbb5",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/UnitRows.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CuspHeight": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CuspHeight.lean",
+      "sha256": "19b7ee7a8b8286df765ba88a61d6b9611172be91e578966d998bd35017fca39f",
+      "original_sha256": "f42e1fd406a61f5ec479d3e7889d42c1880093ac27b21bdd83297e5b3eafbb66",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CuspHeight.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.BarrierPotential": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/BarrierPotential.lean",
+      "sha256": "38c9b60426c0cfeef56df1f01ade813a057e383e2858daec38ed208de46d591b",
+      "original_sha256": "34aa482353717e87ced20278147874f0f2697c720db0d224a3b9f547fe3c2a8e",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/BarrierPotential.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.ReopeningBounds": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/ReopeningBounds.lean",
+      "sha256": "0e4916f45815d26aa3d37366e2b3625f4c0286b72340f635ac17c1581fd5ddb0",
+      "original_sha256": "ff84bfc7030011bd542b50afa64306821bb40debb8832b58bc5a5c357e8de499",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/ReopeningBounds.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.CutoffOrders": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/CutoffOrders.lean",
+      "sha256": "03ed4bd87574c8090361ab1b7c77e3f0e2b4a11795a44c191ca214beba08d32c",
+      "original_sha256": "82bbeda1cfef1cce91a8ad8490d8b24a634010953802abeec4ece42e43842019",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/CutoffOrders.lean"
+    },
+    "OAI.NumberTheory.DirichletL.CubicSieve.ClosedRecursion": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/CubicSieve/ClosedRecursion.lean",
+      "sha256": "3f3fb35f8599f3f457d4cf644d482ae0dfc37ef3e40c361408c36ec7af1ae7d2",
+      "original_sha256": "caa7fc4fd36c3e1b3031ca71705320aff9c7c31a02d88538eeb029a680f37e72",
+      "relative_source": "OAI/NumberTheory/DirichletL/CubicSieve/ClosedRecursion.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.FredholmAlternative": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/FredholmAlternative.lean",
+      "sha256": "767d4f5ccb69de704116bc854787727d4cebd360073bf1c9f3d878aefdd4ea06",
+      "original_sha256": "48a9b0a835c6630b1ce4a7d06dff5059ffcbaac526f6be857f0e7973b9fcf69a",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/FredholmAlternative.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.UnitNormalization": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/UnitNormalization.lean",
+      "sha256": "3144097153888743a161b3ddfd9d775230225e72b9e15ca0fc8475cc2aa7513f",
+      "original_sha256": "39425cc1a3a31597bff4046fdc3214298c5f27702fd864d2817afbeb347adc30",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/UnitNormalization.lean"
+    },
+    "OAI.NumberTheory.DirichletL.RowCompletion.CubicReopening": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/RowCompletion/CubicReopening.lean",
+      "sha256": "55ab15be5e68ced86e640d123c7b759e5dd07c3bb8153273e2131b5e3c328be2",
+      "original_sha256": "a0edee74e5c0c290ec9a38cca896eadecc52eb4e5f56ee6ea13cded409763fe9",
+      "relative_source": "OAI/NumberTheory/DirichletL/RowCompletion/CubicReopening.lean"
+    },
+    "OAI.NumberTheory.DirichletL.RowCompletion.CompletedEnergy": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/RowCompletion/CompletedEnergy.lean",
+      "sha256": "92c050140c22352f61546df8824e7938edf34820427be07e8f4cf5a895556e4c",
+      "original_sha256": "b65f01a4ec88ace1ee9f22176d394062ef2661c93945fe2b1178b7aea414e99d",
+      "relative_source": "OAI/NumberTheory/DirichletL/RowCompletion/CompletedEnergy.lean"
+    },
+    "OAI.NumberTheory.DirichletL.RowCompletion.DensityTransfer": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/RowCompletion/DensityTransfer.lean",
+      "sha256": "1b8e27ec14cf45f8131562c530da9551b5bd372d74fbf3ed7069fea50fc47aef",
+      "original_sha256": "07d87a7d25124dde00e884e345083eca072c7bb5cd653db7fa87266ec8b45b4c",
+      "relative_source": "OAI/NumberTheory/DirichletL/RowCompletion/DensityTransfer.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.MeromorphicResolvent": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/MeromorphicResolvent.lean",
+      "sha256": "e005b6495e1f6410c3d994b7e3970b9d44c0beeab8349a59f5b9463ef3d49c08",
+      "original_sha256": "3cff92549cd07c861846e4a28df2202f794eee3ef9fed52ab5157144b2b48645",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/MeromorphicResolvent.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.SeedHeight": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/SeedHeight.lean",
+      "sha256": "dac59208d550f352a305f60bf9f8e11258b19d6ffcb40e2f3f9d5827e9d6b105",
+      "original_sha256": "31221296b6b380798f0833d0439426dff823f55c06a6c544c46b024f1e50265d",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/SeedHeight.lean"
+    },
+    "OAI.NumberTheory.DirichletL.RowCompletion.InitialDensity": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/RowCompletion/InitialDensity.lean",
+      "sha256": "679d986707e32ee97a71db867ecdf2c8378a9c5dadeaf45a05abb7caa0410a66",
+      "original_sha256": "c7cb0334bc7c7f51e96871e870080acd578fc0642b7fdb8f819d60048b16ed43",
+      "relative_source": "OAI/NumberTheory/DirichletL/RowCompletion/InitialDensity.lean"
+    },
+    "OAI.NumberTheory.DirichletL.MeanSquare.ThetaDensity": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/MeanSquare/ThetaDensity.lean",
+      "sha256": "4c1918a36c7a32c63b866eb26d72b406f37486d24e1aa64d79ce65c18277e59f",
+      "original_sha256": "46c701c306850cf6cabebb17df29ce23387d77a32b42fce3a0f5807af43a4ed8",
+      "relative_source": "OAI/NumberTheory/DirichletL/MeanSquare/ThetaDensity.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Mellin.SixthPowerAverage": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Mellin/SixthPowerAverage.lean",
+      "sha256": "e812035a60eaf9e04d2c0341bf1c25ac91bf3c19ec49a777d5a941f77b7ec864",
+      "original_sha256": "ce531fb0c1110557285f4d4836efcddbc3a8a8e32ad0ee7eebe712a4935dc243",
+      "relative_source": "OAI/NumberTheory/DirichletL/Mellin/SixthPowerAverage.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Hecke.MobiusEulerCorrection": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Hecke/MobiusEulerCorrection.lean",
+      "sha256": "f56900f4d27341b04650db39345e83457569b2d242c29bb5eee0609673fb2bbd",
+      "original_sha256": "12cec531029372b603c85cd566333c03c200364fde19e44d27d73f4ed23a1b3f",
+      "relative_source": "OAI/NumberTheory/DirichletL/Hecke/MobiusEulerCorrection.lean"
+    },
+    "OAI.NumberTheory.DirichletL.RowCompletion.ThetaNonvanishing": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/RowCompletion/ThetaNonvanishing.lean",
+      "sha256": "2efd43a641e6ef73e1de0d4d20a4456e0cbd028a38e80549144fe8bb604b961c",
+      "original_sha256": "ca9d8682b7c1121d902db267442dd4bf4b2ccf43aba2462e50fac71b2d47613b",
+      "relative_source": "OAI/NumberTheory/DirichletL/RowCompletion/ThetaNonvanishing.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CutoffApproximation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CutoffApproximation.lean",
+      "sha256": "e75f154440f45236ec7adecb4e95987c4fe7a7644595c381835f2dfa278282f3",
+      "original_sha256": "f891dcbc49bbadd57e18c6d4d378fb79e8cf0c49d6ccb94fffe8c0b6b3bfde58",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CutoffApproximation.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CuspResidues": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CuspResidues.lean",
+      "sha256": "9ecbf0f92b7b7f67b832c202cf20cefaa8438fa66dfedb2905a58e86074d9d04",
+      "original_sha256": "474e2ac07bad2109099274f9a38679293a300a20276bfabd08fa89f6e0665898",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CuspResidues.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.ConjugateLevelAction": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/ConjugateLevelAction.lean",
+      "sha256": "5ff31f3e674b6532f303d76afd02f706e690f47b3c792760838f020be1e45d98",
+      "original_sha256": "8763a159ceb0d19f754394ec26ae4a843c42bb9a2fc49d854c32111bf2999b22",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/ConjugateLevelAction.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.ScatteringCoefficients": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/ScatteringCoefficients.lean",
+      "sha256": "116f605602134461b84daa0588b30f6e767d6b5851aafbd96b5a71ae3affc0e8",
+      "original_sha256": "3f1c28b3d091d20f202909e17a73ca0861599de1a458be6ff1e86111b10b5aaf",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/ScatteringCoefficients.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.WhittakerContinuation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/WhittakerContinuation.lean",
+      "sha256": "001a98f24d46a934fde1d8e0a41523b5617fc5f7214f242196a07d1dffaa963a",
+      "original_sha256": "1a28114cebbf42c0cbd4a3561387adcf48c90c3e883e448f00e82496754015d2",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/WhittakerContinuation.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.GaussFactorization": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/GaussFactorization.lean",
+      "sha256": "0d122ba19c1d11d8e82206d06582f05c2324f863cda57b0b1abe96c260c15917",
+      "original_sha256": "3d94eb6d99032833643c849cd4596281cabb3ed5a035c9f8e667e17011fd9bad",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/GaussFactorization.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.RamifiedGaussSeries": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/RamifiedGaussSeries.lean",
+      "sha256": "440779731c1d477028ea9f29289b9a59628dc6db1e09708a34df1d697d7fe2c5",
+      "original_sha256": "63acb90712fd21c9ec7f16326f84feec861d03a605f0ed3b9c9d42c9d5e98324",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/RamifiedGaussSeries.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Reciprocity.KubotaCharacter": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Reciprocity/KubotaCharacter.lean",
+      "sha256": "8a73769868eb22737d6560492d002ddaee3845f30e4be8fbe5adf42926e5aa45",
+      "original_sha256": "781bfa2555e76db8b1a4ce22860d1bbd369cff740fb61ac2127362df552eb158",
+      "relative_source": "OAI/NumberTheory/DirichletL/Reciprocity/KubotaCharacter.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.SourceProjection": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/SourceProjection.lean",
+      "sha256": "2ef51c482caabe4c1aa2c80639860f6ff25425b07834e49b8468019f03ea35cf",
+      "original_sha256": "eb1ffa7f5d9f66953ac976abee17b18169c18df235886d19194875b77fb5e7bf",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/SourceProjection.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.ResidualFourierBounds": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/ResidualFourierBounds.lean",
+      "sha256": "bda5e3cf01c9aff0acaf32060d4dfd062d6356ab06347045c2e3ba244e84b940",
+      "original_sha256": "482a05b7b0cc6161a0ad6b18de3f7942bfa89b75d35fb79c4eac117c126e53f0",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/ResidualFourierBounds.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.ResidualFourierSeries": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/ResidualFourierSeries.lean",
+      "sha256": "0bea81b53ba65b7ab4b51ab26f1fb2a4494b942746945f3b8f60d99277d75b77",
+      "original_sha256": "d298e59163183739df60a47a3177c687c021935271ce7255f947ac6caf692dce",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/ResidualFourierSeries.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.ScatteringResidues": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/ScatteringResidues.lean",
+      "sha256": "bf34b9cfed2a2ad368167b33cdbec86b86c05ad09d071e2820ea36441b7824e0",
+      "original_sha256": "d75c00f06aa8638d36efd7690e692949a978cea036016d9d0297e9adda877768",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/ScatteringResidues.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.SourceQuotient": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/SourceQuotient.lean",
+      "sha256": "4a8b3d8b9a6c45086f86028aa16781b5a3fcef41ee20bfeb6d655b077447e9a1",
+      "original_sha256": "b12e6da893af919f830e88bc51d9201bfd55c33b627220b1ca89a07f7811b7c1",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/SourceQuotient.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.OppositeCusp": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/OppositeCusp.lean",
+      "sha256": "830674eb938a1667e1ecf8e3bfc8cc4e39b2de3b7d9fa9a4bf0e76520b30f015",
+      "original_sha256": "40fccc1172578c2930ea2c1063ea1664d133526e7bc6eafa79f4908cd74bf129",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/OppositeCusp.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.ResidualFourierExpansion": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/ResidualFourierExpansion.lean",
+      "sha256": "0cbb7598361eb20f5204ac8cd9e9935dd83c904de836e6b1bff2764023bcda5b",
+      "original_sha256": "412e4049ef936e30bad3e286d9e73a6e6e70c5bf66a18ee355844c06413581a1",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/ResidualFourierExpansion.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.ArbitraryCuspPullback": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/ArbitraryCuspPullback.lean",
+      "sha256": "eb825abbe8339ffa949130092951b7e150f69f7ec91d222b5b21a502cd3e504c",
+      "original_sha256": "c6525efbc1321162a539e9b085fc2cb85c857a0e1657da5626af0d71d504ce54",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/ArbitraryCuspPullback.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.RationalTranslations": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/RationalTranslations.lean",
+      "sha256": "7f05dd510ad19de825cc30737a7251a554e8a33c413859f44928c866de251f75",
+      "original_sha256": "8be7ee70e9ed4dff7ad7f0f8f886cb89aa6d51e349ab90f0e9fa8e2c1f7ef9c4",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/RationalTranslations.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CuspAverage": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CuspAverage.lean",
+      "sha256": "78290721bc27dc88f8bd438491e48be4d2c45ee3ceb216f7ed25bc25409eedd2",
+      "original_sha256": "f229f1fd1125b76732560aee62cfe3e7f9dea3a39626f9a2523acbe07a08285b",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CuspAverage.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.BesselMellinTransform": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/BesselMellinTransform.lean",
+      "sha256": "c9131df2de18a578a4cc7ea164862cbd0c91a9f4ad585a158956bdb22e20f9bd",
+      "original_sha256": "3cc7ba1b5e4ccadb9b2e5099c9e850d910d1ee5284096813019fe64753af1dd7",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/BesselMellinTransform.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.TranslatedFourierResidues": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/TranslatedFourierResidues.lean",
+      "sha256": "f142ee58a20766d743bb511eecff225e1588fa7e9590a41e0b03181f114d4a68",
+      "original_sha256": "73312c80a8ae26613adc6b05e1e6f674c9c390d0fa1083e22970b49e6dfd1181",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/TranslatedFourierResidues.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.ResidualCuspDecay": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/ResidualCuspDecay.lean",
+      "sha256": "f6f17d98fdbcc397255bde3e50f20fc1d4e0577eec9e5f17de0eb4d1df6a6c0b",
+      "original_sha256": "5c570fae040b4326e0f9cfe6a262d76f881e4bc4f5f4aa49c540dc88f47b118b",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/ResidualCuspDecay.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.PrimePowerGaussSums": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/PrimePowerGaussSums.lean",
+      "sha256": "02786ae65018497685baf6c4b7793cc658a3d4bb74bd33e5a1cc97ca399b7b97",
+      "original_sha256": "3fafee09621e2d298d1e52094b322ac248719f19e323416f8738ff3567896085",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/PrimePowerGaussSums.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.SourceBesselExpansion": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/SourceBesselExpansion.lean",
+      "sha256": "ee8214fd4a922f72967c77249047500ede96f0379687b0aaf03fc7bc223f10df",
+      "original_sha256": "d6d90a8629d433fe17c492261e2012c382d10c499767c2c83fee1f9571627372",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/SourceBesselExpansion.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.BesselDerivatives": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/BesselDerivatives.lean",
+      "sha256": "cc9960990e42007720add17c60adcf0531cfee4053871e26b23c3a5dbade9da7",
+      "original_sha256": "f5f0e75ebb2be7a71b99776238d3a304d87809e0197329eac0f8057616b9ccfc",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/BesselDerivatives.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.InverseCuspCoordinates": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCuspCoordinates.lean",
+      "sha256": "03f85aa2c00351d91f3efe7c37fced181833777c3f817f731e878020d8300e12",
+      "original_sha256": "71453b83b69d9727aa4c90f72cb0095e4160e278d9e40045c0e874a2651584ee",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/InverseCuspCoordinates.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.ReflectedCuspMellin": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/ReflectedCuspMellin.lean",
+      "sha256": "d895c724ef4fcd530f6af4e41b1fe8de239074f878f5496e618c9a413e4f4716",
+      "original_sha256": "f66f31a349fc6313bb169c27f0b3476203f931a8760d229a11a18c1c12d57b22",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/ReflectedCuspMellin.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Reciprocity.CubeCorrespondence": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Reciprocity/CubeCorrespondence.lean",
+      "sha256": "b9cefe91ccd4bd8520f63fb6cd7c32ec553a512e48fa53b0ea3f7b443463b8a8",
+      "original_sha256": "c7408eaf390e9493e469361be97dd633b4769cb5e167779aa1b2585a3711131c",
+      "relative_source": "OAI/NumberTheory/DirichletL/Reciprocity/CubeCorrespondence.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.ConjugateCuspProfiles": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/ConjugateCuspProfiles.lean",
+      "sha256": "afd2576e0bb7d0735fbe2e3a025b713eaca826baf7df80daa560ae3b94c5863b",
+      "original_sha256": "2b2d574a10b2ae58d2df89d3eb0d12068989e02224cb94fd46e3e09e4dfd1afc",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/ConjugateCuspProfiles.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CuspDilation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CuspDilation.lean",
+      "sha256": "c596c6469673f0464a81774d37b6486652c95caf3ee507d46afc9faca075c0e4",
+      "original_sha256": "d5e0ea6d1486278f3d2d75e7c50ba55977543ae117af5197a1b79455f8dc392e",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CuspDilation.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Cusp.ResiduesModThree": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Cusp/ResiduesModThree.lean",
+      "sha256": "54952348a67fb1314c2e8ad56d2737b621a7bb940bc3f7d7ecb285c63b1d60d1",
+      "original_sha256": "5669337f308cd6c704bced622982a38b10d07829f6755418bcb2609fe4c2a4dc",
+      "relative_source": "OAI/NumberTheory/DirichletL/Cusp/ResiduesModThree.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Reciprocity.PrimaryCongruences": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Reciprocity/PrimaryCongruences.lean",
+      "sha256": "f505632370745c6ab6cf1ab5afd13c66960877c5b60ab45962e9bdf0034a33a7",
+      "original_sha256": "46f58ae465bcd89da31df5400e2cbdf0d06ecd9b9c7ecfc40d0eb6a7f3f67103",
+      "relative_source": "OAI/NumberTheory/DirichletL/Reciprocity/PrimaryCongruences.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CubeResidueStrata": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CubeResidueStrata.lean",
+      "sha256": "ff8524bdadfa91fe2b795f0555d805ea68224de64d2a850dfdfbb859b41bb8d0",
+      "original_sha256": "0be58cd25a1498ed5a688e85b51454616c9746f0d01b0e62765149fa138afae9",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CubeResidueStrata.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Reciprocity.RamifiedCuspPhases": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Reciprocity/RamifiedCuspPhases.lean",
+      "sha256": "21558674f02e608a2ee12969e7c909c10e7caaded1cf4cc4e5c642f175d3dc2f",
+      "original_sha256": "a6f544e2b6c0e7ad808a52b7f40be5fec38caf01a8f5b6e94f91912db65c4776",
+      "relative_source": "OAI/NumberTheory/DirichletL/Reciprocity/RamifiedCuspPhases.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.AffineCuspFourier": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/AffineCuspFourier.lean",
+      "sha256": "3a18ffbcb1fa7b5ad40674f00faf6c00890bacecce91d424b3a5b214d2a016b8",
+      "original_sha256": "dce47f6d13b5602d4661b3b9ca20290905e1c7f758cb42697ed20142a65c7098",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/AffineCuspFourier.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.IntegralCover": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/IntegralCover.lean",
+      "sha256": "624f2d2ce81f9b0f2fb257185412d68fa891fd192c94acb206894620654695a2",
+      "original_sha256": "c75af4e7fda732b702fde2fffd6e813eeb9d40039bdf646885b6b453922e6018",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/IntegralCover.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CoverTrace": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CoverTrace.lean",
+      "sha256": "6ad84504083874a36684e5b005c90cf56a38b1d2774230d78b5bf71d7870fd35",
+      "original_sha256": "ee81ca40f3324c2807c9d2b8ddfc79c6132ac80862dbc485ca831e4127800d5b",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CoverTrace.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CubeCuspAverage": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CubeCuspAverage.lean",
+      "sha256": "c3db48fc533075bb0c0246742ce92a32fb4c8850978477b76958ab1889714665",
+      "original_sha256": "7f43d9ccd8b3a985d3048539e001221a55671c8822fd88f50bf2f26438be9ddd",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CubeCuspAverage.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.InverseCorrespondence": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean",
+      "sha256": "e31bb84b9d8e174e175d14c7c1339f0a184529122798e14050c94a0d16f1332f",
+      "original_sha256": "65b7533164abeb7b08edcdcb3e366afe9f0d5954ae268505f98c7cbb4f165f5d",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CorrespondenceTests": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CorrespondenceTests.lean",
+      "sha256": "f41bfbcc3d0bdb542f95bd69e0459e442ecadbcc92b8c3756ae0b9220aff1c23",
+      "original_sha256": "f6fb7deacb3e02b908781343bb5cd63f08b72894bf773a569c1da217414c6cda",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CorrespondenceTests.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CorrespondencePullback": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CorrespondencePullback.lean",
+      "sha256": "11a65e507d0f92bfb7f78428aee9edf609feb0267e167b0b70fdd521c65f6ffc",
+      "original_sha256": "d377c2857f83681273430284c236c4e36f49c3345e573dfedb8002e1370071d2",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CorrespondencePullback.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.RamifiedSixBranches": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/RamifiedSixBranches.lean",
+      "sha256": "9ba9f320ecb3122b62095155fbaa1ab26f9ce3b2b3d163cc1523ba55854d84af",
+      "original_sha256": "0da590091cc234b6ff0c9314e78cedcad50b5d9e22fd2ecd54c5d1ecf66767e0",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/RamifiedSixBranches.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CorrespondenceAdjoint": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CorrespondenceAdjoint.lean",
+      "sha256": "f2e0a8f75760c223d2ae083ec5eab19fa734056953ddddf03d0ea48a6ab93ebf",
+      "original_sha256": "0c0d497ae1c4e965f94fa24741f211f6c15be7f66edaa1db584ded0434002f60",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CorrespondenceAdjoint.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CorrespondenceEnergy": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CorrespondenceEnergy.lean",
+      "sha256": "4b063ca2d237f5a608d4aea76b4e688fea60194330cc37ad78752412a1b37dd8",
+      "original_sha256": "2eecf1fc30699244328f325698348ea38c9a3e0d9c624cae25f6d06061f43d67",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CorrespondenceEnergy.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.CubeEigenrelation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/CubeEigenrelation.lean",
+      "sha256": "8b11f016f5570c36e508063339e128494f004c80b4b150803a507481bae8a4c7",
+      "original_sha256": "bd26ec5643d9779b246ffc3de00f1f1995f8c678b7100e8fe927d76f6b2c5005",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/CubeEigenrelation.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.ResidualOrthogonality": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/ResidualOrthogonality.lean",
+      "sha256": "698d83c997a870907f5dfc32141718a94e051c22d35e605dcff41959363dab71",
+      "original_sha256": "e2838883f1b5cf35bc5512f5220fa3348256b1b8e57432561816183d619eff94",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/ResidualOrthogonality.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.PrimeRecurrence": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/PrimeRecurrence.lean",
+      "sha256": "a57e2aa96d15d211e85425b21940c35bdacd1ed9b2d875c92438c2ef303bc696",
+      "original_sha256": "81dad378c9cede43d2053cad96171f842019ae83ebc84f6ec05f1e27bea31688",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/PrimeRecurrence.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.PrimeGaussFactors": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/PrimeGaussFactors.lean",
+      "sha256": "0dc98eb256d8ef8ffb8999539cbcd325b101366cce3584d04d0c57b4a709a1cc",
+      "original_sha256": "c939bdeff21881323613fed71a6a67d9c724a341716f0f0431eb70e821c8c747",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/PrimeGaussFactors.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.SquarefreeCoefficients": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/SquarefreeCoefficients.lean",
+      "sha256": "1761adc0d7a3a175a6f8233dad3b2a6ebc78154e0103fde6812e7c389d836ba9",
+      "original_sha256": "9ed813c7236c33fa7e7de9942346ab83caf029257ed773ac33e06ea8c2a910aa",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/SquarefreeCoefficients.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.SourceMellinInversion": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/SourceMellinInversion.lean",
+      "sha256": "7a1e8746214d1838d7ba7c3bb0811d59023dc0278a50e647520f1622aa6d1eea",
+      "original_sha256": "b3a7e3caad018b3e25d060293a9b84f41fd90506a5db2c669db30da8fc7cb7a6",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/SourceMellinInversion.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Mellin.VerticalContourShift": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Mellin/VerticalContourShift.lean",
+      "sha256": "4069007f377de2684d3641f17017a720c51cc8d29876e47165f253f7eeef7a66",
+      "original_sha256": "667d0795841dfd8403c2a5163836b5a378f4379cc0f53c44b43b4c855710304d",
+      "relative_source": "OAI/NumberTheory/DirichletL/Mellin/VerticalContourShift.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.BesselReflection": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/BesselReflection.lean",
+      "sha256": "664f765e2114b90efa2fc1e7b07f9eab88e68ee4652ec421d03816b2cde1459a",
+      "original_sha256": "53aa3122ccbbbf521a6bdf80a9a70046384c716fa9c3d4c25422eb7a2d0813db",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/BesselReflection.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.MellinSupport": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/MellinSupport.lean",
+      "sha256": "d10929908f2b31a8a12ccd6a2ec0a0d6ac03fc888b8b3d2d9abffad98a84c538",
+      "original_sha256": "9cd578353b5fd99d0cfa3316b97eee09e0ad233a377401170487982503394d1c",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/MellinSupport.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.DualKernelSummability": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/DualKernelSummability.lean",
+      "sha256": "cced056f41bf5076141c17e8259f89dc157f73ac16cfa4531cab0c3be78e67be",
+      "original_sha256": "7393c71f6575af33cf5766eb68872eb95c8210df4b60482bb11b67d82c36b21d",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/DualKernelSummability.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.FiniteTranslations": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/FiniteTranslations.lean",
+      "sha256": "54148412fb7a168e28630dd6238d3d2f4254f19665c3cd37eedb51ecc906a59a",
+      "original_sha256": "4c0351ae658f374d7a1b8fedd095775c5496c273fe1f36b88cd5fa66e6d377d6",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/FiniteTranslations.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.RamifiedTransform": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/RamifiedTransform.lean",
+      "sha256": "2128f2e8d5668fcd1e3f34b9e5f4edde360a380e1a5690d290c8c61be6e4088d",
+      "original_sha256": "6291d471f6dc61d1afa192b06d9c67b90397ac0d3508ba27e4678daa823d08ad",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/RamifiedTransform.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.EntireMellinProfile": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/EntireMellinProfile.lean",
+      "sha256": "cbe40d0cdef6db8630ed373f880205f1a3cde9c66dd6507ded197a64ec6404da",
+      "original_sha256": "6b451edbc9a81602ef313056b02371d4a26bb7baa55debffac16eccf9685008f",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/EntireMellinProfile.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.RamifiedValuation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/RamifiedValuation.lean",
+      "sha256": "b1ec6314fd54d59ae2813881ff5c24b1ed0d8a373cbaf165157f0e79c86a59ea",
+      "original_sha256": "da7dfd799ea0025771b90618702560606b35f7b9b618c5d8235d56ca36d8c363",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/RamifiedValuation.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.SourceCuspKernels": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/SourceCuspKernels.lean",
+      "sha256": "f5832dda2bc55bca6404734f20adee9f3407b3f367681dc6627494d1cfb995f1",
+      "original_sha256": "1babfa7dce7d319508c5e8eb9b1974b175e10d9d57b9baa74dee8898fd0d964a",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/SourceCuspKernels.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.FullFrequencyExpansion": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/FullFrequencyExpansion.lean",
+      "sha256": "b917f291a2b22e3fa21dd71c3480aadf593dc62e8876aabe51a87ba546346374",
+      "original_sha256": "5eec82696db83c704c4d9bfa091a82365e9be210bfc3f2af584f66288ff8fd5d",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/FullFrequencyExpansion.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.FixedCuspArrays": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedCuspArrays.lean",
+      "sha256": "f36d85424ce47b8fcf5ce96041d9110d5e2475daf05768c49a76b9fba9503e57",
+      "original_sha256": "baf6858944c103795faff7bdb3144766ffb7de75b2d349e14ea641bc1b98e2d7",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/FixedCuspArrays.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Cusp.WeylRepresentatives": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Cusp/WeylRepresentatives.lean",
+      "sha256": "20a3da6ee66875659f6a048129b00e45e960baa97ef2b87a492ec79f1c682974",
+      "original_sha256": "5939e9a7950419b7102f294e2738c94bceb3ac955ed42780e060a04d7d539b80",
+      "relative_source": "OAI/NumberTheory/DirichletL/Cusp/WeylRepresentatives.lean"
+    },
+    "OAI.NumberTheory.DirichletL.ChineseRemainder.PrimaryCompletions": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/ChineseRemainder/PrimaryCompletions.lean",
+      "sha256": "a1713a35c02213285f24b33352384db1a36d5739a65186c2c61e2cfb1c776d14",
+      "original_sha256": "7f110a463e288c602fac99699d938f3744bbe198cf282e8b4ff67b5343e794bc",
+      "relative_source": "OAI/NumberTheory/DirichletL/ChineseRemainder/PrimaryCompletions.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Cusp.ResiduePhases": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Cusp/ResiduePhases.lean",
+      "sha256": "61305acbd2b653a710ee5e7d5f2643912cf77be81f03503de4679f4e02efb7e8",
+      "original_sha256": "99bbaaf11415af01eedc50e78fb16a415f16173b54bc7ba3b4ec4a5d02f9df62",
+      "relative_source": "OAI/NumberTheory/DirichletL/Cusp/ResiduePhases.lean"
+    },
+    "OAI.NumberTheory.DirichletL.ChineseRemainder.FrequencyLifts": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/ChineseRemainder/FrequencyLifts.lean",
+      "sha256": "4469622f6560feb80b0d66995ea91a38431d9cb18d950bda400c3bc45d33346d",
+      "original_sha256": "ca3e0aa0f5140e662f6b6da5b5d38acdba57e2f9cf679e5219524ca637691320",
+      "relative_source": "OAI/NumberTheory/DirichletL/ChineseRemainder/FrequencyLifts.lean"
+    },
+    "OAI.NumberTheory.DirichletL.RowCompletion.PeriodicRows": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/RowCompletion/PeriodicRows.lean",
+      "sha256": "e802784106ce36671244e9c7a24c3a0d59e12a766d910bacd5545bdd22ffd82f",
+      "original_sha256": "360a1f3c61f466f3bed36e7e14881fc76aa29d93d9ab61b839700afd9f336f3b",
+      "relative_source": "OAI/NumberTheory/DirichletL/RowCompletion/PeriodicRows.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.ReflectionPool": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/ReflectionPool.lean",
+      "sha256": "036acfb5b96d3ee30507348b7769df553d2c4f24c990255f1a7c17d9585d8095",
+      "original_sha256": "f4dc18bc7d21c919db5377b852d521295b115f40dfea4b140a51b753d90e78ef",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/ReflectionPool.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.FixedConductor": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedConductor.lean",
+      "sha256": "9ddaadb1db1dff278442e7a911130e37c161cacbdbbf6660dc066247c4bb7ba9",
+      "original_sha256": "84ec4bdcbf594428b4587632a2312afc262e0f175d58fe638917b994a6eff278",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/FixedConductor.lean"
+    },
+    "OAI.NumberTheory.DirichletL.RowCompletion.FixedCuspBranches": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/RowCompletion/FixedCuspBranches.lean",
+      "sha256": "92740500bc45a47d8c8886c6ac0e548d25cbf25de9d4f03165683a2b78122a61",
+      "original_sha256": "b8aefff6f7ce990f97b7695b1f7f147ea53fb7de98846fd5f459cd18b44053cb",
+      "relative_source": "OAI/NumberTheory/DirichletL/RowCompletion/FixedCuspBranches.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Cusp.StaticReflectionPhases": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Cusp/StaticReflectionPhases.lean",
+      "sha256": "70f4f3b191deee7478d25afc1f53a8d5ba27d7a97a9a84a00650e0e432633597",
+      "original_sha256": "0cf6e362b173a959bf7e5f2e980e29149e29ce36032fdf92f317d91135850161",
+      "relative_source": "OAI/NumberTheory/DirichletL/Cusp/StaticReflectionPhases.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.FixedFrequencyExpansion": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedFrequencyExpansion.lean",
+      "sha256": "d9aab68e865a1a7f4f0c7928a01b6b479cf1573ac6d05ee99f09f33d775ac812",
+      "original_sha256": "147b6a869c1a68f126f68b8430b9446d7bccd34402ef2deb51d6352f3b0f200a",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/FixedFrequencyExpansion.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.FixedThetaTwists": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedThetaTwists.lean",
+      "sha256": "779900bd4ecc2b9660dae76c8fe2c0cdb333e837b3f919f60ac9f64c1c248dd9",
+      "original_sha256": "bb54ae2af808229e086c2d940f01bee29650e2fa4c9cd976d8164bd3a2f12459",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/FixedThetaTwists.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.FixedRayFibers": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/FixedRayFibers.lean",
+      "sha256": "5e2048de17352ad71440498ba07972cdc7d5504fe15c184195787c41ab39f2e4",
+      "original_sha256": "c4fa7cbdaaeb10dcd71cb9cddd8e7be40aba93caf24193ad863fab79c4b4aa3a",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/FixedRayFibers.lean"
+    },
+    "OAI.NumberTheory.DirichletL.Eisenstein.ReflectionFibers": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/Eisenstein/ReflectionFibers.lean",
+      "sha256": "937c5d832d42b73c57ce8dc617ba0a3c1adfeb298ae68abe5fc5577cbf9f0a6d",
+      "original_sha256": "1f8d6d25796de77b1615eff4d4b816363d5615e5e44fb5b0eb60af0313f2ad05",
+      "relative_source": "OAI/NumberTheory/DirichletL/Eisenstein/ReflectionFibers.lean"
+    },
+    "OAI.NumberTheory.DirichletL.RowCompletion.ControlledPrimeStrata": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/RowCompletion/ControlledPrimeStrata.lean",
+      "sha256": "71d0c01c1569d8c08b2eb8555c9311a35fa6c012dafff8ecde4c7c4f2c92d6ab",
+      "original_sha256": "569a971442b37e2f6d7e8ea50a978c07c6196393349a75d229dbe6c47370f550",
+      "relative_source": "OAI/NumberTheory/DirichletL/RowCompletion/ControlledPrimeStrata.lean"
+    },
+    "OAI.NumberTheory.DirichletL.RowCompletion.FreePrimePools": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/RowCompletion/FreePrimePools.lean",
+      "sha256": "870bcc84d4b8ca0725dc60a399b646913cdb53a04d9eb89ca2f7b1a1a539f185",
+      "original_sha256": "0efd739adc3d957fc4727127b87798df3936abd2a6852ce8f55fe8dd25153a5f",
+      "relative_source": "OAI/NumberTheory/DirichletL/RowCompletion/FreePrimePools.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.ResidualEquivalence": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/ResidualEquivalence.lean",
+      "sha256": "f5767774077e920fd9f54314cea571e0d1e6b0bc02c23c44d2115f4862e4637b",
+      "original_sha256": "c0e0c97ca9636fce2aa1ada1fa884e3d69efd251f7e5482751b3f9541998c9b5",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/ResidualEquivalence.lean"
+    },
+    "OAI.NumberTheory.DirichletL.RowCompletion.RowAmplitudes": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/RowCompletion/RowAmplitudes.lean",
+      "sha256": "0ad382260b09753a0013e62720d832aef3a7091c7d55bc33041a45f1027828ca",
+      "original_sha256": "760fcc20a29d5bc94bbf72e982e89bdd8255fe0bcb489685816152fc505528d8",
+      "relative_source": "OAI/NumberTheory/DirichletL/RowCompletion/RowAmplitudes.lean"
+    },
+    "OAI.NumberTheory.DirichletL.GaussSum.ActiveReindexing": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/GaussSum/ActiveReindexing.lean",
+      "sha256": "c5f942b0b2b3f181e2fba713a71da3a921b84d725c8f963da36d706e8486a28f",
+      "original_sha256": "8a1d0cad5a9a076bc99333b7f1d0b2e48f6cdae8a402dc952a3a8ea8de15abde",
+      "relative_source": "OAI/NumberTheory/DirichletL/GaussSum/ActiveReindexing.lean"
+    },
+    "OAI.NumberTheory.DirichletL.RowCompletion.ReflectedFibers": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/RowCompletion/ReflectedFibers.lean",
+      "sha256": "28efee470337d7d9418bda7b96e8e7246a8a7712c02a8fbcb9fba35c009b4a94",
+      "original_sha256": "f85db5449a83aebf3b2b3e6c0b20c098ff35cba47bacea71e3bd007879c83f91",
+      "relative_source": "OAI/NumberTheory/DirichletL/RowCompletion/ReflectedFibers.lean"
+    },
+    "OAI.NumberTheory.DirichletL.RowCompletion.BranchDecoding": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/RowCompletion/BranchDecoding.lean",
+      "sha256": "1a5020d31bb5dd82637888073d5acc45de98e42e04ac258eefecb706e48e489a",
+      "original_sha256": "a099c77f83cf7f266ebb0ba7c99461095d4ae81ba698aa7d6ee4ff8321350de8",
+      "relative_source": "OAI/NumberTheory/DirichletL/RowCompletion/BranchDecoding.lean"
+    },
+    "OAI.NumberTheory.DirichletL.RowCompletion.ZeroFreeRegion": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/OAI/NumberTheory/DirichletL/RowCompletion/ZeroFreeRegion.lean",
+      "sha256": "49a349762463841bc60e7356354e81a9124befe266a77588950e7b5aea470c84",
+      "original_sha256": "0342d5cd682913d53289281c0bc421a37abaa626845fb4bf1a7288871f3deab8",
+      "relative_source": "OAI/NumberTheory/DirichletL/RowCompletion/ZeroFreeRegion.lean"
+    },
+    "PinnedNonprincipal": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/PinnedNonprincipal.lean",
+      "sha256": "d2fd6a8cb593cdd60cbe5dddca01bab8c5c76fc21f931087b9f035d9210ead16",
+      "original_sha256": "d2fd6a8cb593cdd60cbe5dddca01bab8c5c76fc21f931087b9f035d9210ead16",
+      "relative_source": "PinnedNonprincipal.lean"
+    },
+    "WeakCandidateTarget": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/WeakCandidateTarget.lean",
+      "sha256": "2ceaa276c19c79b4eedb038482b4688147dc99e726ffe0fc4e3cbdd67536836e",
+      "original_sha256": "2ceaa276c19c79b4eedb038482b4688147dc99e726ffe0fc4e3cbdd67536836e",
+      "relative_source": "WeakCandidateTarget.lean"
+    },
+    "WeakAnalyticLeaves": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/WeakAnalyticLeaves.lean",
+      "sha256": "763375097eb4f8caf0fb5ec3947c147cc5aec94e090c771566f5612a31ab1814",
+      "original_sha256": "763375097eb4f8caf0fb5ec3947c147cc5aec94e090c771566f5612a31ab1814",
+      "relative_source": "WeakAnalyticLeaves.lean"
+    },
+    "WeakActualLocalEnergy": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/WeakActualLocalEnergy.lean",
+      "sha256": "d28a816fda614b7c5f6f247781171b65f6a2e3f8174383f8b96692e4afe630b7",
+      "original_sha256": "d28a816fda614b7c5f6f247781171b65f6a2e3f8174383f8b96692e4afe630b7",
+      "relative_source": "WeakActualLocalEnergy.lean"
+    },
+    "WeakActualOriginalDecay": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/WeakActualOriginalDecay.lean",
+      "sha256": "ffd32eb3674458edb2230deea920f861ae6c15e120d3c9f22523b28905b99a1d",
+      "original_sha256": "ffd32eb3674458edb2230deea920f861ae6c15e120d3c9f22523b28905b99a1d",
+      "relative_source": "WeakActualOriginalDecay.lean"
+    },
+    "WeakActualComparisonDecay": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/WeakActualComparisonDecay.lean",
+      "sha256": "e8d1c3363ab1a22bbf55998299aa511bd0a9a3c697f88bd757ddbe37ae09a381",
+      "original_sha256": "e8d1c3363ab1a22bbf55998299aa511bd0a9a3c697f88bd757ddbe37ae09a381",
+      "relative_source": "WeakActualComparisonDecay.lean"
+    },
+    "WeakUniformWindowDecay": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/WeakUniformWindowDecay.lean",
+      "sha256": "478064226c3b54fcfe7c3d2d98f219a926d6caa104eed4adb3cf7a1184f36d22",
+      "original_sha256": "478064226c3b54fcfe7c3d2d98f219a926d6caa104eed4adb3cf7a1184f36d22",
+      "relative_source": "WeakUniformWindowDecay.lean"
+    },
+    "WeakActualRawBlocks": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/WeakActualRawBlocks.lean",
+      "sha256": "437c11ba21af7dbe85f7a9d2da4dc7c74d22fe627b6a1484ec08163c9ebb53e3",
+      "original_sha256": "437c11ba21af7dbe85f7a9d2da4dc7c74d22fe627b6a1484ec08163c9ebb53e3",
+      "relative_source": "WeakActualRawBlocks.lean"
+    },
+    "ConditionalSelectedTarget": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/ConditionalSelectedTarget.lean",
+      "sha256": "8bb575b81338e98be915867e9f670c82f62c0f4e76021ca66e9127dec84cfaf5",
+      "original_sha256": "8bb575b81338e98be915867e9f670c82f62c0f4e76021ca66e9127dec84cfaf5",
+      "relative_source": "ConditionalSelectedTarget.lean"
+    },
+    "WeakSelectedResidueTransfer": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/WeakSelectedResidueTransfer.lean",
+      "sha256": "9907b9b76006033b2fa16132f6faa739cf29911dcee614f998980bb1965514dd",
+      "original_sha256": "9907b9b76006033b2fa16132f6faa739cf29911dcee614f998980bb1965514dd",
+      "relative_source": "WeakSelectedResidueTransfer.lean"
+    },
+    "ActualAnalyticExports": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/ActualAnalyticExports.lean",
+      "sha256": "1574a8a03d9796d52618f8ed51d64f519ac70868dd5355a69909cd95169593de",
+      "original_sha256": "1574a8a03d9796d52618f8ed51d64f519ac70868dd5355a69909cd95169593de",
+      "relative_source": "ActualAnalyticExports.lean"
+    },
+    "ActualRealizedRootPrimeExports": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/ActualRealizedRootPrimeExports.lean",
+      "sha256": "406706b108003679d87148431704ec1676a53c05804180101f0d28f11bc1a393",
+      "original_sha256": "406706b108003679d87148431704ec1676a53c05804180101f0d28f11bc1a393",
+      "relative_source": "ActualRealizedRootPrimeExports.lean"
+    },
+    "ActualSelectedInputs": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/ActualSelectedInputs.lean",
+      "sha256": "acf3047a5c008fac4fc5b16ae7c141129cc7837df3f98de1da4cb025680644a4",
+      "original_sha256": "acf3047a5c008fac4fc5b16ae7c141129cc7837df3f98de1da4cb025680644a4",
+      "relative_source": "ActualSelectedInputs.lean"
+    },
+    "ActualSelectedFoundation": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/ActualSelectedFoundation.lean",
+      "sha256": "23e8afd045f71cd3705d3a7fe9e708b8c2a54913f74553c702748c32217a5c8e",
+      "original_sha256": "23e8afd045f71cd3705d3a7fe9e708b8c2a54913f74553c702748c32217a5c8e",
+      "relative_source": "ActualSelectedFoundation.lean"
+    },
+    "ActualSelectedResidueCore": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/ActualSelectedResidueCore.lean",
+      "sha256": "db46ad55d90ccdd76ada48ccd97399b08811e1eafc36c27964cc0e6a44c134f0",
+      "original_sha256": "db46ad55d90ccdd76ada48ccd97399b08811e1eafc36c27964cc0e6a44c134f0",
+      "relative_source": "ActualSelectedResidueCore.lean"
+    },
+    "ActualCandidateNumberedInputs": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/ActualCandidateNumberedInputs.lean",
+      "sha256": "045e92bf425508d48c07349eac7cd0ca2f3c1015b66894e6aa47e780205c63e1",
+      "original_sha256": "045e92bf425508d48c07349eac7cd0ca2f3c1015b66894e6aa47e780205c63e1",
+      "relative_source": "ActualCandidateNumberedInputs.lean"
+    },
+    "ActualSelectedHighRank": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/ActualSelectedHighRank.lean",
+      "sha256": "eac0b4f5c2eb69a0fda932732e4dbfcbb43e36d17c7cda3863d772f2301ac847",
+      "original_sha256": "eac0b4f5c2eb69a0fda932732e4dbfcbb43e36d17c7cda3863d772f2301ac847",
+      "relative_source": "ActualSelectedHighRank.lean"
+    },
+    "ActualErdos1057Target": {
+      "path": "/Users/jenwin/Documents/Codex/2026-10-07/w/work/joined-policy-candidate-01/assembly-certificates/1791477886121874000-joined0f0e-reviewed-320/src/ActualErdos1057Target.lean",
+      "sha256": "a3f5ba99a0f09c377930da49d8a65ea3adbf0f25ae743b0265fa432f5c3a72e6",
+      "original_sha256": "a3f5ba99a0f09c377930da49d8a65ea3adbf0f25ae743b0265fa432f5c3a72e6",
+      "relative_source": "ActualErdos1057Target.lean"
+    }
+  },
+  "old_objects_reused": false,
+  "submission_ready": false
+}
