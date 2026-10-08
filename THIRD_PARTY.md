@@ -1,6 +1,6 @@
 # Third-party sources and attribution
 
-The submitted project credits Jensen Kohlmeyer and Liam Kruer for their project contributions, with AI assistance as described in [AUTHORS.md](AUTHORS.md). It includes and depends on substantial work by others.
+The submitted project credits Jensen Kohlmeyer, Liam Kruer, Will Howe, and Grant Huffman as mathematical solvers, and Jensen Kohlmeyer and Liam Kruer for the recorded Lean formalization, with AI assistance as described in [AUTHORS.md](AUTHORS.md). It includes and depends on substantial work by others.
 
 - OpenAI mathematics: analytic and other Lean developments retained in `modular/src/OAI/` and incorporated source modules. The original candidate pins upstream source `openai/math` at `adc7f1241b42e322a6451854ab7e4b4c146bf78a`. Preserve the original source headers. The upstream Apache 2.0 license texts are in `licenses/openai-math-LICENSE` and `licenses/openai-math-lean-LICENSE`.
 - Formal Conjectures and its contributors: the problem statement and supporting definitions are copied into `baseline/formal-conjectures`. Their Apache 2.0 license is retained in `licenses/formal-conjectures-LICENSE`. The exact challenge corrections and provenance are supplied in `challenge-pins/` and `baseline/reconstruction.json`.

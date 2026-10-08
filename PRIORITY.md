@@ -1,6 +1,6 @@
 # Priority and publication record
 
-This repository records the exact work submitted by Jensen Kohlmeyer (JENW1N / jenw1n) and Liam Kruer (lkruer). It supplies dated public evidence for review; it does not by itself determine mathematical priority, validate identity, or grant an award.
+This repository records the mathematical work credited to Jensen Kohlmeyer (JENW1N / jenw1n), Liam Kruer (lkruer), Will Howe (H0W4RD-dev), and Grant Huffman (Ghuffy1). Lean formalization credit is recorded separately in [AUTHORS.md](AUTHORS.md). It supplies dated public evidence for review; it does not by itself determine mathematical priority, validate identity, or grant an award.
 
 ## Which dates mean what
 
@@ -27,10 +27,14 @@ The correct catalog mapping is **Erdős 1057 → JSP-000877**, not Erdős 877 an
 
 ## Claim and review sequence
 
-This publication and contribution PR are not personal award claims. The required contribution PR must merge before a new Lean/both-role claim is accepted. Jensen and Liam must each claim only their own contribution through their own GitHub account, supply an authorized public correspondence address, and complete the mandatory private identity-verification email. Coauthor credit is not a proxy claim.
+This publication and contribution PR are not personal award claims. The required contribution PR must merge before a new Lean/both-role claim is accepted. Each contributor must claim only their own contribution through their own GitHub account, supply an authorized public correspondence address, and complete the mandatory private identity-verification email. Coauthor credit is not a proxy claim.
 
 The 14-day review period starts only when the organizers publish the applicable candidate notice, separately for mathematical and formalization contributions. It does not start from this repository, the PR, a local audit, or a claimed discovery date.
 
 ## Conjectures.io interaction
 
 The preserved one-file candidate exceeds the current task's uncompressed 10 MiB limit and is not submitted here as an admissible Conjectures.io payload. The user prioritized publication and the JSP route despite that size. Under the [current Conjectures.io terms](https://github.com/conjectures-io/conjectures-validator/blob/874d37f532f8798bebfd43c7c7d42f19d06e615e/docs/SUBMISSION_TERMS.md), an earlier public solution or formalization may affect bounty eligibility. This publication does not claim eligibility for both awards.
+
+## Attribution correction
+
+The 8 October 2026 [attribution update](ATTRIBUTION-UPDATE.md) adds Will Howe and Grant Huffman to the mathematical solver credits. It changes no proof source, verification result, or selected proof commit. The initial proof publication is still `55fe0f1cd4d8e63b417eb122067ab3e307b39f32`; its original checksum manifest and timestamp receipt are preserved in `provenance/` and in that commit. A later attribution date is not presented as a new proof-completion date or backdated disclosure.

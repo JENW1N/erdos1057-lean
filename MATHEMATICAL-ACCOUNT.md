@@ -1,6 +1,6 @@
 # Erdős 1057 / JSP-000877: mathematical account of the submitted proof
 
-**Authors:** Jensen Kohlmeyer (JENW1N, also written jenw1n) and Liam Kruer (lkruer). See [authorship and contributions](AUTHORS.md) for joint credit, AI assistance, and attribution of third-party work.
+**Mathematical solvers:** Jensen Kohlmeyer (JENW1N / jenw1n), Liam Kruer (lkruer), Will Howe (H0W4RD-dev), and Grant Huffman (Ghuffy1). See [authorship and contributions](AUTHORS.md) for joint credit, AI assistance, and attribution of third-party work.
 
 This account explains the mathematical content and organization of the submitted modular Lean proof. The linked formal sources supply the detailed proof steps, including the analytic input and the construction of smooth shifted primes. This document is a guide to that complete formal argument, not a claim that the original short manuscript alone proved all of its inputs. No new mathematical proof development or independent human review was performed while preparing this account.
 

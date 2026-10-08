@@ -1,6 +1,8 @@
 # Erdős 1057 Carmichael counting proof submission
 
-**Authors: Jensen Kohlmeyer (JENW1N / jenw1n) and Liam Kruer (lkruer).**
+**Mathematical solvers: Jensen Kohlmeyer (JENW1N / jenw1n), Liam Kruer (lkruer), Will Howe (H0W4RD-dev), and Grant Huffman (Ghuffy1).**
+
+**Lean formalization: Jensen Kohlmeyer and Liam Kruer.** See the [attribution update](ATTRIBUTION-UPDATE.md).
 
 This repository publishes the current modular Lean proof sources and the original mathematical candidate for [Erdős problem 1057](https://www.erdosproblems.com/1057), listed by the Justin Sun Prize as [JSP-000877, Carmichael numbers](https://github.com/TheJustinSunPrize/awards/blob/main/problems/catalog-0801-0900.md#JSP-000877).
 
@@ -40,4 +42,4 @@ It exceeds the [current Conjectures.io task cap](https://github.com/conjectures-
 
 ## Reuse and citation
 
-Please cite both authors and the exact selected Git commit; [CITATION.cff](CITATION.cff) supplies citation metadata. The sources include OpenAI mathematics and depend on Lean, Mathlib and Formal Conjectures. Original source notices and the [upstream license texts](licenses/) are preserved. Publication does not transfer authorship of those dependencies to this project's authors.
+Please cite all four mathematical solvers and the exact version; [CITATION.cff](CITATION.cff) supplies citation metadata. The sources include OpenAI mathematics and depend on Lean, Mathlib and Formal Conjectures. Original source notices and the [upstream license texts](licenses/) are preserved. Publication does not transfer authorship of those dependencies to this project's authors.

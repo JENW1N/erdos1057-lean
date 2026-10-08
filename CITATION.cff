@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite the authors and the exact version of this submission. This is a research and formalization submission under review."
+message: "Cite the preferred mathematical account with all four solvers. Software authors below retain the separate Lean formalization credit; see AUTHORS.md."
 type: software
 title: "Erdős 1057: Carmichael counting proof sources and original candidate"
 authors:
@@ -10,10 +10,28 @@ authors:
     given-names: Liam
     website: "https://github.com/lkruer"
 repository-code: "https://github.com/JENW1N/erdos1057-lean"
-version: "2026-10-08"
+version: "2026-10-08-attribution.1"
 date-released: 2026-10-08
 keywords:
   - Erdős 1057
   - Carmichael numbers
   - Lean
   - formal verification
+preferred-citation:
+  type: report
+  title: "Erdős 1057: mathematical account of the submitted proof"
+  authors:
+    - family-names: Kohlmeyer
+      given-names: Jensen
+      website: "https://github.com/JENW1N"
+    - family-names: Kruer
+      given-names: Liam
+      website: "https://github.com/lkruer"
+    - family-names: Howe
+      given-names: Will
+      website: "https://github.com/H0W4RD-dev"
+    - family-names: Huffman
+      given-names: Grant
+      website: "https://github.com/Ghuffy1"
+  year: 2026
+  url: "https://github.com/JENW1N/erdos1057-lean/blob/main/MATHEMATICAL-ACCOUNT.md"
