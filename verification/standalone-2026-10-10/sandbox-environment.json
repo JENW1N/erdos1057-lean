@@ -1,0 +1,9 @@
+{
+  "PATH": "/Users/jenwin/.elan/toolchains/leanprover--lean4---v4.35.0-rc2/bin:/usr/bin:/bin",
+  "HOME": "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/home",
+  "TMPDIR": "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/tmp",
+  "LANG": "en_US.UTF-8",
+  "LEAN_PATH": "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/objects:/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean:/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/plausible/.lake/build/lib/lean:/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/LeanSearchClient/.lake/build/lib/lean:/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/importGraph/.lake/build/lib/lean:/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/proofwidgets/.lake/build/lib/lean:/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/aesop/.lake/build/lib/lean:/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/Qq/.lake/build/lib/lean:/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/batteries/.lake/build/lib/lean:/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/Cli/.lake/build/lib/lean",
+  "LEAN_NUM_THREADS": "8",
+  "LEAN_ABORT_ON_PANIC": "1"
+}

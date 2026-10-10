@@ -1,0 +1,132 @@
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:93:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:94:5: warning: Variable name `hmeas` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hmeas
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:95:5: warning: Variable name `hf` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hf
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:115:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:116:5: warning: Variable name `hmeas` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hmeas
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:117:5: warning: Variable name `hf` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hf
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:155:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:156:5: warning: Variable name `hmeas` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hmeas
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:207:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:208:5: warning: Variable name `hmeas` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hmeas
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:209:5: warning: Variable name `hrep` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hrep
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:234:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:235:5: warning: Variable name `hmeas` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hmeas
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:236:5: warning: Variable name `hrep` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hrep
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:237:5: warning: Variable name `hdec` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hdec
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:675:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:678:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:683:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:686:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:693:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:697:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean:701:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`

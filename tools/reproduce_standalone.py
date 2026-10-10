@@ -24,7 +24,6 @@ def main():
     ap.add_argument('--build-dir', type=Path, help='New, nonexistent output directory')
     ap.add_argument('--dependency-root', type=Path, help='Pinned dependency checkout with .lake/packages')
     ap.add_argument('--lean', default='lean')
-    ap.add_argument('--lake', default='lake')
     ap.add_argument('--threads', type=int, default=8)
     ap.add_argument('--check-sources', action='store_true')
     ap.add_argument('--external-sandbox', action='store_true', help='Caller supplies isolation; required off macOS')
@@ -40,9 +39,14 @@ def main():
     print(json.dumps({'status':'SOURCE_CHECK_PASS', 'standalone_sha256':source['source_sha256'], 'files':len(hashes)}), flush=True)
     if args.check_sources:
         return 0
-    lean, lake = executable(args.lean), executable(args.lake)
-    toolchain = Path(lean).resolve().parent.parent
-    require(subprocess.check_output([lean, '--githash'], text=True).strip() == meta['lean_commit'], 'Wrong Lean commit')
+    lean = executable(args.lean)
+    # Resolve Elan while still in the pinned project, before replacing HOME.
+    pinned_cwd = root / 'baseline/formal-conjectures'
+    require(subprocess.check_output([lean, '--githash'], cwd=pinned_cwd, text=True).strip() == meta['lean_commit'], 'Wrong Lean commit')
+    toolchain = Path(subprocess.check_output([lean, '--print-prefix'], cwd=pinned_cwd, text=True).strip()).resolve()
+    lean = str(toolchain / 'bin/lean')
+    lake = str(toolchain / 'bin/lake')
+    require(Path(lean).is_file() and Path(lake).is_file(), 'Pinned toolchain binaries missing')
     stamp = dt.datetime.now(dt.timezone.utc).strftime('%Y%m%dT%H%M%S.%fZ')
     run = (args.build_dir or root / '.reproduction' / ('standalone-' + stamp)).resolve()
     require(not run.exists(), 'Use a new build directory')

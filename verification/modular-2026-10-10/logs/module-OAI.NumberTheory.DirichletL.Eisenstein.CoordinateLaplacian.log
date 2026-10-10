@@ -1,0 +1,85 @@
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CoordinateLaplacian.lean:114:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CoordinateLaplacian.lean:115:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CoordinateLaplacian.lean:108:16: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CoordinateLaplacian.lean:108:78: warning: Variable name `thirdWitness1` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness1
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CoordinateLaplacian.lean:108:174: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CoordinateLaplacian.lean:108:236: warning: Variable name `thirdWitness1` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness1
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CoordinateLaplacian.lean:111:9: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CoordinateLaplacian.lean:112:9: warning: Variable name `thirdWitness1` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness1
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CoordinateLaplacian.lean:439:53: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CoordinateLaplacian.lean:456:7: warning: Variable name `importedWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _importedWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CoordinateLaplacian.lean:460:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CoordinateLaplacian.lean:471:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CoordinateLaplacian.lean:533:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`

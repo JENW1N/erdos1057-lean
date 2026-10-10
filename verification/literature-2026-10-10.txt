@@ -1,3 +1,6 @@
+HISTORICAL INITIAL REVIEW — BUILD AND PUBLICATION STATUS SUPERSEDED
+This text predates the current source/evidence publication. For the updated literature assessment see literature-2026-10-10.md; for actual build results see the dated verification reports.
+
 ERDOS 1057 / JSP-000877: REBUILD AND PRIORITY REVIEW
 Review date: 10 October 2026
 

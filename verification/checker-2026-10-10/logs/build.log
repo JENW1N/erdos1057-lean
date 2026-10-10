@@ -1,0 +1,33 @@
+   Compiling proc-macro2 v1.0.103
+   Compiling unicode-ident v1.0.12
+   Compiling autocfg v1.1.0
+   Compiling serde_core v1.0.228
+   Compiling num-traits v0.2.19
+   Compiling quote v1.0.35
+   Compiling syn v2.0.111
+   Compiling serde v1.0.228
+   Compiling serde_derive v1.0.228
+   Compiling serde_json v1.0.145
+   Compiling num-integer v0.1.47
+   Compiling hashbrown v0.16.1
+   Compiling ryu v1.0.20
+   Compiling equivalent v1.0.1
+   Compiling memchr v2.7.6
+   Compiling itoa v1.0.15
+   Compiling num-bigint v0.5.1
+   Compiling indexmap v2.13.0
+   Compiling semver v1.0.27
+   Compiling rustc-hash v1.1.0
+   Compiling nanoda_lib v0.4.19 (/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification-tools/nanoda)
+warning: output of `xcrun` while finding MacOSX.sdk
+  |
+  = note: xcrun: error: couldn't create cache file '/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/xcrun_db-cSVc50L7' (errno=Operation not permitted)
+          xcrun: error: couldn't create cache file '/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/xcrun_db-paovFT3O' (errno=Operation not permitted)
+
+warning: linker stderr: cc: error: couldn't create cache file '/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/xcrun_db-l0Vn6sEu' (errno=Operation not permitted)
+         cc: error: couldn't create cache file '/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/xcrun_db-KiaH4z0k' (errno=Operation not permitted)
+  |
+  = note: `#[warn(linker_messages)]` on by default
+
+warning: `nanoda_lib` (bin "nanoda_bin") generated 2 warnings
+    Finished `release` profile [optimized] target(s) in 15.29s

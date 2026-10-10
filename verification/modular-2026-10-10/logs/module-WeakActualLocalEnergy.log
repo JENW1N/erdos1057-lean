@@ -1,0 +1,48 @@
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/WeakActualLocalEnergy.lean:350:8: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/WeakActualLocalEnergy.lean:355:10: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/WeakActualLocalEnergy.lean:360:12: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/WeakActualLocalEnergy.lean:365:14: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/WeakActualLocalEnergy.lean:558:32: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/WeakActualLocalEnergy.lean:567:20: warning: `if_true` has been deprecated: Use `ite_true` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵t̵r̵u̵e̵i̲t̲e̲_̲t̲r̲u̲e̲
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/WeakActualLocalEnergy.lean:571:22: warning: `if_true` has been deprecated: Use `ite_true` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵t̵r̵u̵e̵i̲t̲e̲_̲t̲r̲u̲e̲
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/WeakActualLocalEnergy.lean:576:50: warning: `if_false` has been deprecated: Use `ite_false` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵f̵a̵l̵s̵e̵i̲t̲e̲_̲f̲a̲l̲s̲e̲
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/WeakActualLocalEnergy.lean:578:50: warning: `if_true` has been deprecated: Use `ite_true` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵t̵r̵u̵e̵i̲t̲e̲_̲t̲r̲u̲e̲
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/WeakActualLocalEnergy.lean:579:22: warning: `if_false` has been deprecated: Use `ite_false` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵f̵a̵l̵s̵e̵i̲t̲e̲_̲f̲a̲l̲s̲e̲
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/WeakActualLocalEnergy.lean:580:20: warning: `if_false` has been deprecated: Use `ite_false` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵f̵a̵l̵s̵e̵i̲t̲e̲_̲f̲a̲l̲s̲e̲
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/WeakActualLocalEnergy.lean:1292:10: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲

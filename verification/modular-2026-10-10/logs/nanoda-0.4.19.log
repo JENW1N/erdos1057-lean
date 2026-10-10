@@ -1,0 +1,23 @@
+def Intended1057 :
+  Sort 0 :=
+  Filter.Tendsto
+    (fun (x : Real) =>
+    HDiv.hDiv
+      (Real.log (Nat.cast (Set.ncard (Set.ofPred (fun (n : Nat) => And (IsCarmichael n) (LE.le (Nat.cast n) x))))))
+      (Real.log x)) Filter.atTop (nhds (OfNat.ofNat 1))
+
+theorem Bounty.target :
+  Iff True
+    (Filter.Tendsto (fun (x : Real) => HDiv.hDiv (Real.log (Erdos1057.carmichaelCounting x)) (Real.log x)) Filter.atTop
+      (nhds (OfNat.ofNat 1))) :=
+  _
+
+theorem checked1057Original : Intended1057 := _
+
+axiom Quot.sound.{u} {α : Sort u} {r : α → α → Sort 0} {a b : α} : r a b → Eq (Quot.mk r a) (Quot.mk r b)
+
+axiom propext {a b : Sort 0} : Iff a b → Eq a b
+
+axiom Classical.choice.{u} {α : Sort u} : Nonempty α → α
+
+Checked 126089 declarations with no errors

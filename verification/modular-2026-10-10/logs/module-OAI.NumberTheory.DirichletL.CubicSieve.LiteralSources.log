@@ -1,0 +1,368 @@
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:88:7: warning: Variable name `importedWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _importedWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:132:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:120:11: warning: Variable name `importedWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _importedWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:212:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:209:9: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:221:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:218:9: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:256:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:254:9: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:261:9: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:263:7: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:271:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:269:9: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:291:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:292:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:288:42: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:289:9: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:326:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:327:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:323:9: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:339:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:337:9: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:345:9: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:347:7: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:354:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:352:9: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:361:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:364:24: warning: `Topology.IsQuotientMap.secondCountableTopology` has been deprecated: Use `Topology.IsOpenQuotientMap.secondCountableTopology` instead
+
+Note: The updated constant has a different type:
+  ∀ {X : Type u_1} [inst : TopologicalSpace X] {Y : Type u_2} [inst_1 : TopologicalSpace Y] {«π» : X → Y}
+    [SecondCountableTopology X], IsOpenQuotientMap «π» → SecondCountableTopology Y
+instead of
+  ∀ {X : Type u_1} [inst : TopologicalSpace X] {Y : Type u_2} [inst_1 : TopologicalSpace Y] {«π» : X → Y}
+    [SecondCountableTopology X], Topology.IsQuotientMap «π» → IsOpenMap «π» → SecondCountableTopology Y
+
+Note: The updated constant is in a different namespace. Dot notation may need to be changed (e.g., from `x.secondCountableTopology` to `Topology.IsOpenQuotientMap.secondCountableTopology x`).
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:359:9: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:370:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:371:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:372:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:367:9: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:368:9: warning: Variable name `thirdWitness2` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness2
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:381:9: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:383:7: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:429:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:430:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:431:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:424:49: warning: Variable name `thirdWitness2` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness2
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:424:147: warning: Variable name `thirdWitness2` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness2
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:426:9: warning: Variable name `thirdWitness2` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness2
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:457:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:451:56: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:451:154: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:453:9: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:480:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:481:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:482:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:475:9: warning: Variable name `thirdWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:476:9: warning: Variable name `thirdWitness1` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _thirdWitness1
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:621:2: warning: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean:617:9: warning: Variable name `importedWitness0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _importedWitness0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`

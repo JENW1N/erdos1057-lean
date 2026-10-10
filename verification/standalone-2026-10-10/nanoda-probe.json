@@ -1,0 +1,17 @@
+{
+  "export_file_path": "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/VerificationProbe.ndjson",
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "unpermitted_axiom_hard_error": true,
+  "unsafe_permit_all_axioms": false,
+  "nat_extension": true,
+  "string_extension": true,
+  "num_threads": 2,
+  "pp_declars": [
+    "verification_probe"
+  ],
+  "pp_to_stdout": true
+}

@@ -1,0 +1,18 @@
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SmoothCuspCutoffs.lean:159:19: warning: Unused tactic linter: `funext y` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SmoothCuspCutoffs.lean:159:29: warning: Unused tactic linter: `rfl` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SmoothCuspCutoffs.lean:159:29: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SmoothCuspCutoffs.lean:158:48: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SmoothCuspCutoffs.lean:546:23: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SmoothCuspCutoffs.lean:614:74: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`

@@ -1,0 +1,88 @@
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean:208:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean:210:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean:215:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean:216:7: warning: Variable name `rootPolicy_hyperbolicBorelSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicBorelSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean:217:7: warning: Variable name `rootPolicy_complexSLTopology` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_complexSLTopology
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean:247:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean:248:7: warning: Variable name `rootPolicy_hyperbolicBorelSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicBorelSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean:249:7: warning: Variable name `rootPolicy_complexSLTopology` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_complexSLTopology
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean:276:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean:277:5: warning: Variable name `hg` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hg
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean:292:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean:309:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean:329:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean:365:7: warning: Variable name `rootPolicy_hyperbolicMeasurableSpace` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _rootPolicy_hyperbolicMeasurableSpace
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source/modular/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean:617:24: warning: `dif_pos` has been deprecated: Use `dite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  d̵i̵f̵_̵p̵o̵s̵d̲i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲

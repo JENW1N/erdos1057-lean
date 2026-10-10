@@ -1,0 +1,15 @@
+/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/source/Independent1057.lean:3:0: warning: This file has no module docstring (`/-! ... -/`). Add one after the imports to document the file.
+
+Note: This linter can be disabled with `set_option linter.style.moduleDocstring false`
+Bounty.target : True ↔ Tendsto (fun x => Real.log (Erdos1057.carmichaelCounting x) / Real.log x) atTop (𝓝 1)
+theorem Bounty.target : True ↔ Tendsto (fun x => Real.log (Erdos1057.carmichaelCounting x) / Real.log x) atTop (𝓝 1) :=
+Bounty.WeakZeroFree.target_of_selected_residue_bounds fun c hc => Bounty.candidate_selected_residue_bounds hc
+checked1057 : Intended1057
+theorem checked1057 : Intended1057 :=
+id (Bounty.target.mp True.intro)
+'checked1057' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Bounty.target' depends on axioms: [propext, Classical.choice, Quot.sound]
+def Erdos1057.carmichaelCounting : ℝ → ℝ :=
+fun x => ↑{n | IsCarmichael n ∧ ↑n ≤ x}.ncard
+def IsCarmichael : ℕ → Prop :=
+fun n => ∀ b ≥ 1, n.Coprime b → n.FermatPsp b

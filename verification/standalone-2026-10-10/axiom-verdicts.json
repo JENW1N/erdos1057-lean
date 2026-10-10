@@ -1,0 +1,17 @@
+{
+  "targets": {
+    "checked1057": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "Bounty.target": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ]
+  },
+  "checked_proof_commit": "a95a41e18d13474150be7b127a4231e8c4c0e3af",
+  "standard_axioms_only": true,
+  "independent_latest_exit_code": 0
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "check": "compile-probe",
+    "exit_code": 0,
+    "seconds": 1.025031583
+  },
+  {
+    "check": "lean4lean-probe",
+    "exit_code": 1,
+    "seconds": 27.291911333
+  },
+  {
+    "check": "nanoda-v0.4.17-export-probe",
+    "exit_code": 0,
+    "source": "VerificationProbe.ndjson",
+    "permitted_axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ]
+  }
+]

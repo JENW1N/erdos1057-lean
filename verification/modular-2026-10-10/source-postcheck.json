@@ -1,0 +1,2048 @@
+{
+  "checked_proof_commit": "55fe0f1cd4d8e63b417eb122067ab3e307b39f32",
+  "checked_utc": "2026-10-10T05:39:35.470172+00:00",
+  "all_frozen_proof_sources_match": true,
+  "files_checked": 510,
+  "files": [
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Algebra/GCDMonoid/Finset.lean",
+      "sha256": "996f49245f3e5cc1d0beba2f575ebfe0e92413d826c11603575987026925e9b6"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Algebra/Group/Action/Pointwise/Set/Basic.lean",
+      "sha256": "bcff743a1778e3b882c8d3520df8fae6b83590c00fa0de6ce89f93866413ca8e"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Order/Filter/atTopBot/Finset.lean",
+      "sha256": "26e4af1ea59d4a945e4d80e0ed72e731ccf33c3c0b5680796f5502b2ee564e91"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Algebra/Group/GrowthFunction.lean",
+      "sha256": "edeeb13d5a16c291d8b25dec603f77d775a330f31ea2e7358ec6e339d76db187"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Algebra/Group/Indicator.lean",
+      "sha256": "f675aa653ef59073ac26946b612c91fb91463c5175434f24cc342c044face2be"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Algebra/MvPolynomial/PoissonBracket.lean",
+      "sha256": "b8f5f6827faf018f6fcb7d91d83139344094c926283183bf4de257bdb62fd85d"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Algebra/MvPolynomial/RegularFunction.lean",
+      "sha256": "24583e34da80aa98785b8eb5ddd27597bbf1c8ea5b74af38727d0d4767a1d59d"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Algebra/Order/Group/Pointwise/Interval.lean",
+      "sha256": "0313d4a48ffd5a88d22586be2439c2a999d8d6795720d3696c49355f7c2a4122"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Algebra/Polynomial/Algebra.lean",
+      "sha256": "41f7e969035980f2ad956e76e72c1be8254d1b7a58de56fd56858b818249947d"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Algebra/Polynomial/Basic.lean",
+      "sha256": "61860510266be969d45c52ba0c8aff5b221f14b032f2ae009c7109bc6767f071"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Algebra/Polynomial/HasseDeriv.lean",
+      "sha256": "1c388c14a8f5d41d13880007be0a58bc13b0b77d5458ec44b23b88d4f587362f"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Algebra/Powerfree.lean",
+      "sha256": "15e0601a84d156b75aa866437c46a605cb1ca44a47e2df63c540591c23e5bbfe"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Algebra/QuadraticAlgebra/Instances.lean",
+      "sha256": "157d6f7d297fc54148034017080abf8e2084ac9bc52caf9407f62406e66abd12"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/AlgebraicGeometry/ProjectiveSpace.lean",
+      "sha256": "0fa8f5422e2a59864c6e7aefb092c70ce8435dbf6f1c6a52393cec1cf2a35559"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/AlgebraicGeometry/VectorBundle.lean",
+      "sha256": "81d8fc07749e0fef57828b3f40adab3e2e908e28d65e5be7b18f7b5d3240b6cf"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Analysis/Asymptotics/Basic.lean",
+      "sha256": "575587f1e453476ac68dd3939614f70be912084a150a3a7803089ba72dbe4c30"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Analysis/Equidistribution/ModOne.lean",
+      "sha256": "e46c23754a6b12b9449008990d94e38b6111c24117925a01b6199f5138ae63e3"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Analysis/Fourier/SpectralSets.lean",
+      "sha256": "14c9f22d1c1a032bfee5c517f0f9d550ede40f9de7ac34dbe20541bb2712f2ca"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Topology/Algebra/InfiniteSum/Group.lean",
+      "sha256": "490ca98d64a935081c7b344157a3055e510195ca46e1c62f472f477b9907a48f"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Topology/Algebra/InfiniteSum/Order.lean",
+      "sha256": "fe1696e3eae6965009005020da53cc16a66d69a5f21be64003a0555b7d2a89a4"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Analysis/HasGaps.lean",
+      "sha256": "e22f087a0ca571e6e65a4c0bd3716c8f4f144405856c4a2bbc564a444bc8db83"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Analysis/Matrix/Spectrum.lean",
+      "sha256": "1ff81f76b2f1ca9810bfc6d0d3fd6767618f7f79c0a95edac3e56d2ed82a1bb3"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Analysis/Real/Cardinality.lean",
+      "sha256": "2cbe7a7130c486516c9b8aa7ca8e62a453bc43a801cde45fdf5e833dceaecfad"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Analysis/SpecialFunctions/AdditiveCharacter.lean",
+      "sha256": "013ffc1b25e06980ed7303726b0e73fee1a0d0c27262597940d6bb2f6c1cf5d0"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Analysis/SpecialFunctions/Log/Basic.lean",
+      "sha256": "d8ebd3ed79126b17750f318e0d25e438c89f46f0f64776da5f5b35cb64350de4"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Analysis/SpecialFunctions/NthRoot.lean",
+      "sha256": "424f3db6fb7d076d2f995c3a0953173a12a82f271200c8d1a9e067a749abab9c"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/AP/Basic.lean",
+      "sha256": "62f0a0987d49c5dbfd7b4f82a4f3dd4faba7ad545c676df06d0cda009567b5c3"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Order/Filter/Cofinite.lean",
+      "sha256": "617156f7f2cf11b943146f4460edc423f991906f7231a29460f5c39ab19649d4"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/Additive/Basis.lean",
+      "sha256": "58782d6f4f310a40e635957726e489a5bbf1664d40162f5f188843af8caf2ca3"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/Additive/Convolution.lean",
+      "sha256": "c8faa99c2645b3a2abede7fb2bc354ffeb5b878c60a760e6b555cf79ba66fc65"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/Additive/Coset.lean",
+      "sha256": "d811fb4523087aa2b8ce16e23012304cff43694425bc304120b5e88240466261"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/Additive/DifferenceBasis.lean",
+      "sha256": "eff73033ed42ffe6c5a0dca10e1b96bce2286ce1fd42d293032bec5151920121"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/Additive/RestrictedSumset.lean",
+      "sha256": "395c4ebf6f56e58cf93cfcf95a500a1a74ce97c58ef5ac045fba4a01d8f2f2bb"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SetFamily/VCDim.lean",
+      "sha256": "9cf441c18ed15bce77019c91dba9a2cedaf89c039ff433fb1040a6f6dfc746df"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/Additive/VCDim.lean",
+      "sha256": "6b5284cb0cb37682ae5da9f8ad9e4a8fc3a5a9e3e2fb05db8e52b01d92334c55"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/Basic.lean",
+      "sha256": "ee48ddb5f95c60d764282418ab4c9f05459f29e460797012d4a05ae6636cb1c9"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/Digraph/Tournament.lean",
+      "sha256": "48c6894512423a2b58125a5ec304ad3abe045d15ed8acee5af4374723f50a2a7"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/Hypergraph/ThreeUniform.lean",
+      "sha256": "b68617bb9621090d92a94a36d3d45d83d4c11df42bc1e1a348bfdb6a3cea3867"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/LatinSquare.lean",
+      "sha256": "8159f7bae3ad4e19b7315550a9f13da125d552b2e108ae9af59356124436bc97"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/LimitObjects/Graphon.lean",
+      "sha256": "c14d3baba48f07da43f65719fd4ee9385d95fd292abc5288a9fc9bfeecd90f18"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/LimitObjects/Tournamenton.lean",
+      "sha256": "44d12af6957c4f2d97b1bb9255e1bff47e30a94a44c944fa756eda315107165c"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/Ramsey.lean",
+      "sha256": "20d31726a74ec29a1dbbf1885edc7ebb5c8434023a9e357f945712a283a566f0"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/Ramsey/Diagonal.lean",
+      "sha256": "267f8d5930529894aee8335932111e7cddfe69c02e7a9dc701070a6d43434fe3"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SetFamily/PropertyB.lean",
+      "sha256": "a3ce287d6da47ccb9454ac93b4da8e74d034a572c97afeb1d462f53ae9b062f5"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SetFamily/Sunflower.lean",
+      "sha256": "dfdfd880c578f4e75936080a2645042dcaf899affac1b4bc74e254a18bd733ec"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Set/Triplewise.lean",
+      "sha256": "1a178d9e4f78193648101365c015e3c3e72491f4a34aa8080c691b5c4bd2e07e"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SetFamily/UnionFree.lean",
+      "sha256": "ae31200190f9aa8985b35333757b1be5907b2cdddfb9512e77928c48ed9e7f03"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SetTheory/PartitionRelation.lean",
+      "sha256": "ea55d830b0411c4436ff4be4fe29e26e66a9bb14558593081887a1fc76c03337"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Degrees.lean",
+      "sha256": "693336ff1d00b414189104f250dd8e25fa41fa35623f132598064322f0348c3f"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/AnnihilationNumber.lean",
+      "sha256": "a15dd8645d5bffab9bc921dec0dfec1fbc4048dc40fdb10deed65f8d52b9bd2f"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Balanced.lean",
+      "sha256": "448a34dcdfcde00b413039a0452570cce4398b74cef8a7a503a99e4ab5a69c5f"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Circumference.lean",
+      "sha256": "b3fb739dfab171ce079e557feac16a056189259e198191069674d4f9edee26d0"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Clique.lean",
+      "sha256": "2773977ef2ecc759e0b5dc15c692e80de14d2f9db37ba28b8f692cc078a4dd53"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Coloring/Vertex.lean",
+      "sha256": "eefba705cef22c0c9e9886eb64212373f296f4d814c0c86061271e793f8281ea"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/CompleteGraphEdgeCount.lean",
+      "sha256": "bed2d1d569d2c48064bc52f68fcf21a4ffc7b310029ea5a5665e114f46f21480"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Connectivity.lean",
+      "sha256": "187f90d068841805d03038f3bcf69b12a2fe423ab3f7865722fc0973fc762157"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Cvetkovic.lean",
+      "sha256": "c588def2141d9a66512263583be234e248d1c41c65d000e53c5f0e1502191093"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Cycle.lean",
+      "sha256": "cd4f4f2804113237a1cdd507eca1ae046ee9fbe865e0e4268c3c45cddd662157"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/CycleRank.lean",
+      "sha256": "fdfddfeeaa1b75bf63f0779ceb0dad0ceaaf39fb8a1700b79cf91710b2b8e11e"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/DiamExtra.lean",
+      "sha256": "53257b2b2055464aad01e097534932161d45e6e08895deffb0266ff5a5c48488"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Domination.lean",
+      "sha256": "2ad9987bcfa8b190f79666879264310afdaaddeb733b84def6510f8841c8fc5f"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/VertexDistance.lean",
+      "sha256": "16ac043ba2a5de45c44ea8b349bc6b67329db321042c9a5e12c8d0e6651427f4"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Eccentricity.lean",
+      "sha256": "fc9ee0cc9efeb6cfaf86bd33c543277e39e8d3b2c80073e45666fc4af79e2fc9"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/EdgeColouring.lean",
+      "sha256": "3cfb94cb7964f8a6b39398e0ccd20c73eb77461f666f4e40a3c72b791669c1eb"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/FractionalAlpha.lean",
+      "sha256": "d649aa1f9326f6c1bf80587b17cd4bdad263b2a270775508b206ac6bfb055ab6"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/HomDensity.lean",
+      "sha256": "582adea40b49c426f23623f50b649018294936e61c0d280af2027f288bd34330"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Hypercube.lean",
+      "sha256": "f5a826b1071d55989fedefbd963ea76bf940eb5183c6fce268523c59a4fa0fb4"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Independence.lean",
+      "sha256": "c92ecea00d487c459f4f6633f5e5c34d2531569fe3ffc9ba607ad3d561c2b181"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Induced.lean",
+      "sha256": "d4b768ecab84a665f1bda16091ad32943886953fc469f77e3e19c94eb3c9452c"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Finset/Card.lean",
+      "sha256": "4b4a4545af9dd28605e489819a25270175162a0b791f1de077d4cd852fff624b"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Johnson.lean",
+      "sha256": "96c424d37a2a575fc083bf368dcfd4f434bebf4548b59d3a9fd8e6459452d562"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/LargestInducedTree.lean",
+      "sha256": "77046b0094f8f57c8828abc6d84a5f529f156ac046489b54c362c2c390be3023"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/LovaszTheta.lean",
+      "sha256": "35ab0a6550ca60934eadc186c2a77e9b0f3246a4d42cfe6039d71ee636f33cd3"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Matching.lean",
+      "sha256": "ff7b08a1bd24b4cfe870b757ce518753a97c48475cedcc5587131a389578dc80"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/PathCover.lean",
+      "sha256": "f02b42788453dd534bce3e1df669f0628f2dc4585deb631537764c114ff1576d"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/QuasiLineGraph.lean",
+      "sha256": "09bfd4ecc2993ac5b8c7158b6352d54b20e977e7b94f09a92411b75f5af68a70"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Ramsey.lean",
+      "sha256": "f59179fd664c9e9af399c9e49686bb77651c7a46d97880013cd5e62de39aadc3"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Residue.lean",
+      "sha256": "b87d724356d80ec9b304fc52315b9508c6a6361143c8d1e0f2d3f392b312efe9"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/SizeRamsey.lean",
+      "sha256": "ee8eb2aee08365b990f006ce9abe2c48d89ec5ed2fdccfcc5c8d49d53013f3e7"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/SpanningTree.lean",
+      "sha256": "358339430e2f0b7cb09aaa64ee2498445635823ecff23524fc9f35a3b6555b2e"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/SubgraphIsomorphism.lean",
+      "sha256": "592b49a9144151c2084c685036ee8de4275ed0600e1a443ac89d91000539ebb1"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/SzegedIndex.lean",
+      "sha256": "88874992921a6c7e858a87d99ab00ec649231cd78806b982f33b455f18c3a390"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/Temperature.lean",
+      "sha256": "83c355575634a26fcd513dd4ba63269a5fdb348c4f746b10ea30df92270646e5"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Geometry/Euclidean.lean",
+      "sha256": "c3c0615b00271717acd12d0b294e54bd7b1b8b5b3d63b482d3822d0bdb923ed8"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/UnitDistancePlaneGraph.lean",
+      "sha256": "d3b322e76396433f60952c88e59c259eff5d2518efc96567ac66a48442dee1ac"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/WellTotallyDominated.lean",
+      "sha256": "c9e6c9a65beabbafbd76978b60c95910bd71bff1d867b4984db8714644836b27"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/SimpleGraph/WienerIndex.lean",
+      "sha256": "58782aab2110106c766d272dea1701e3d9272a03a869413f3060d13a2be7d57d"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Combinatorics/YoungDiagram.lean",
+      "sha256": "91c7fe18522d4b67aec3d7b94f43ba02bba7dad829e70bb1db2986f9745cd48c"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Computability/BitstringEncoding.lean",
+      "sha256": "2f9fb7cb92e9b7a0fd4f16cec9f7b911d08ae28c155440b980546d10a13b8764"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Computability/Complexity.lean",
+      "sha256": "864d1fc77bdf86b045aa84c01ad39a38007a73c7be4a72189b636e643b083e12"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Computability/DFA.lean",
+      "sha256": "09118d64cbc9431cd5b47b3c1fc95f0fc393e60f9a1c1efca1d212ae9ac20da2"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Computability/TuringMachine/PostTuringMachine.lean",
+      "sha256": "e5ff32ff6a3133f9b6bf539f9d12556aae014a63f0d0ffb418534ff06f8c5408"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Computability/TuringMachine/BusyBeavers.lean",
+      "sha256": "56e266523bd8a4cf4c7dc194b7d029402221b9eb57b3db0954c5ae58c541d354"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Computability/TuringMachine/Notation.lean",
+      "sha256": "0bdbd7c5f979d0383c6dc3ff7f06360914c1e4ed6fabab8b2a1c34dfbffa96ab"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Bool/Basic.lean",
+      "sha256": "4830318154244ce3e8dd802748b6acd1421bab3c4120464aa8322f32eec5d24e"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Finset/Powerset.lean",
+      "sha256": "98821687e87e4cb25e91a22e23fd14f090dff73f975f49ad2eaaa7b0b6439016"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Finset/ReciprocalSum.lean",
+      "sha256": "d4628580b8afb6be38d85ddadc97d5777b63d9ecb95eb0e48a66bcf3935bae0e"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Int/IntermediateValue.lean",
+      "sha256": "9fd90a1edfeef71636a7caac6f9098929ae07c2758709815ebe51ec2b82e8050"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Int/Order/Basic.lean",
+      "sha256": "48987a901d135cf31276d13bd85e40c0d5296eca2d8d88425cb56485162a2d7d"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Nat/Factorization/Basic.lean",
+      "sha256": "78f3ac75d4ba139bc44f3e1e4b7f72c7f127fe09c345d6132c3f5d7ddd23fba4"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Nat/Full.lean",
+      "sha256": "b91b72a3ebd38b686a0b695acd87799fa40053fc447a161e20a12de7f3b43e3f"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Nat/Init.lean",
+      "sha256": "6298a0db0677e70ab6ae30e773a14f99a9048bbec3dd8468dbb81c145ea921f7"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Nat/MaxPrimeFac.lean",
+      "sha256": "07097426807ee271c53fe7249fdd474100e9715fc0863241d4a574011d5961b0"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Nat/PerfectPower.lean",
+      "sha256": "376493156729a7f7157ddc3f51f86bd461108ab675fb81fa052a2ac0099fb47d"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Nat/Prime/Composite.lean",
+      "sha256": "2863dd196d1207569df4557a1f504e6bfb538a7c82b1955529b4a312f0f7106e"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Nat/Prime/Defs.lean",
+      "sha256": "d1c28ef3203316f8dfb1c478adb2bc0c436163bd538cf2af998281edd5e506ed"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Nat/Prime/Finset.lean",
+      "sha256": "b9d26dfe7d5c43cf8a5655765b93fe8803210eb1906ceb2de80bdc8eb464c0e0"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Nat/Prime/Infinite.lean",
+      "sha256": "26f12184f76b089c77b67289fa02a634f976f50ab7808350cf6986c9585e6478"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Nat/Squarefree.lean",
+      "sha256": "12e83eb3331fe4238f47caf08ec26cbac9d1a146ba290c5244d7f81ae4d00096"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Real/Constants.lean",
+      "sha256": "244fefbd26feca7c448cd13f3798064a134bc7ffcae7266fcee87fe45da395de"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Real/NearestInt.lean",
+      "sha256": "38185361085540ca27d26d49004a6a787169ed3be05a31bf0df2aacaf454cea9"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Set/Interval.lean",
+      "sha256": "9aa590957e048ac10e84970f12733a155a710b5b8fccd40694edae9251da74ba"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Order/Interval/Finset/Basic.lean",
+      "sha256": "54d97e60dac76fa82225f887333087853480c9b33b7a9767eb886913633a02de"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Order/Interval/Finset/Nat.lean",
+      "sha256": "c591ba3b7f2bd34a5a8bf7989a9c72471876d5d51e41ecc58d4ee15a105dde81"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Set/Density.lean",
+      "sha256": "c44ef3838254124089f55fe4652339bae76c6bb415c6a5a54ea051696dad5af4"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/Sym/Sym2.lean",
+      "sha256": "0bad43e50275ef5651b17444094db43146ed11c9831fe8b8813bd8c93311cc4a"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/ZMod/Fp.lean",
+      "sha256": "036919b7bf24cc6fcad83f7ed9696635f6caa2c0e246a21b979e9e5c85bd3ea8"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Data/ZMod/PerfectDifferenceSet.lean",
+      "sha256": "004071df8324a7f852960b1cd8a86bb2704c34e7a23e539bc5269da98573a686"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/FieldTheory/MvRatFunc/Defs.lean",
+      "sha256": "9912ca21d9e751ed3733f643e10ed004d9a401c91116716047b9a0ade18af092"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Geometry/Metric.lean",
+      "sha256": "792bb14ce58795eee4fa1dae07c2a04f68d66b4cc0b382f4d40a1f441998a5cb"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Logic/Equiv/Fin/Rotate.lean",
+      "sha256": "e47a656f3d95587502dac7f039754cc4941fb8c54cc3d7b7c2c4f66783e88516"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Geometry/2d.lean",
+      "sha256": "7b0ac9d010cbbfa353c3ac238065577a5b61bcdff51d33141ff9654d193bff58"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Geometry/3d.lean",
+      "sha256": "8d2fb5b192229c35ddeecc5fc5924717905707c9f8a25a4ba5fa0698b49da78f"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Lean/Elab/InfoTree/Util.lean",
+      "sha256": "e5504c0cfa42e1e06e08ab0c2fd5d0e1b70941195844d381432cfa4cd3183bd5"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/LinearAlgebra/AffineSpace/Simplex/Basic.lean",
+      "sha256": "7df5379ec50859d897d12ce6d9b124bf1be278d2560372a059da8d5768606f7b"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/LinearAlgebra/GeneralLinearGroup.lean",
+      "sha256": "1a17f5d57545fc252246ee12e5de10a7a566f0121aa5e988443971f8d0bc6a32"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/LinearAlgebra/SpecialLinearGroup.lean",
+      "sha256": "de6e86bb1ac02b88c62e3bc01e195b3a7935878d1c2460e13a0c9f6a9fcda66a"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/AdditionChain.lean",
+      "sha256": "12d7724f25ec543778e472c13f90490623378ff2d9fd19fe34c7eb77ec2b5e04"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/AdditiveComplement.lean",
+      "sha256": "e1639e2705e269bba89b677e8232b9285c1beae1f00723468637cbf272e3496e"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/AdditivelyComplete.lean",
+      "sha256": "06bddf7abb7401cbfdd68cd8c3657b939f2fa27bd15d1aa26fb9d197f9020908"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/AlmostPrime.lean",
+      "sha256": "3d50f196c780f59488e5eb5d7191e9eae7485a7260f4f223e167130b7e8d451c"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/Amicable.lean",
+      "sha256": "abebfc90a769b99992e266718b3b8990737e63fd1b83b7db8db58d8a1191e11a"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/BeurlingPrimes.lean",
+      "sha256": "97192d96ea80852703da77f6837460860a2821c1c2ef2349f8d0658fb67cac7f"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/Carmichael.lean",
+      "sha256": "ba4b97709516e66296b989b826d1d3f4e2989ba0ebce323f25d3baefd2c0ad51"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/CoveringSystem.lean",
+      "sha256": "53632b1bf174607dddb33fc31a1a5693d46097c5062631353f83d10c06627288"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/DiophantineApproximation/ZNumber.lean",
+      "sha256": "520f8c8a942f58b9c6c40316a25569e2526e44eeb96166b6acdbea59b0b48d69"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/DirichletCharacter/Basic.lean",
+      "sha256": "24bf2d92cd01f10e6d9c7eee36b14d13041b248a861a5c0c1206cf86df678432"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/Divisors.lean",
+      "sha256": "f82aff9d738c247d945c440ce22b7d9e6365b79c4f575ce839a03b3912bdf0da"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/Harmonic.lean",
+      "sha256": "4013f2744a92878869b6ead41efe86354d20e8ecfb25c8e3619f9365fc10f21a"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/Lacunary.lean",
+      "sha256": "998231cfefe88a270c08eaf7c16203d433f8cc6486246f64fa193bd9dbb2ca47"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/LegendreSymbol/Basic.lean",
+      "sha256": "d21636c7b211bb5c80c7aed9be8f13e417cbcbe4c99d238dd7e58c987dc49241"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/NormalNumber.lean",
+      "sha256": "914da66dccc146792cf01ee8126e2940511daeb3096256b26cc5c215ab72f750"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/NumberField/FundamentalDiscriminant.lean",
+      "sha256": "9089b957f082993065af36001620601962d690dfe259eaf79ba71df83623b08f"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/NumberField/Quadratic.lean",
+      "sha256": "d56d701703eb0e12f54da404ac9cd1891c1d58ae9efe87ace14c83a4d58f5632"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/PisotNumber.lean",
+      "sha256": "6c053aa1edcce5debf02cf769cbd9458eeae5e6870789884f9780aa8824fe910"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/PracticalNumbers.lean",
+      "sha256": "064cd856e8b92836e64c026cff28007bfb61a40b81ca2472a7827dcb2f79a404"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/PrimeGap.lean",
+      "sha256": "d7786ac52630d6350571adfbd5b58867ceb01d6e10cac8ded6b9a62fd85dbdd1"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/Primitive.lean",
+      "sha256": "67d49585e0e09935b420c124bec7ae30c02619693f66e5a0767f7373d2da7b94"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/SierpinskiNumber.lean",
+      "sha256": "3c5fab88f882907e267d568a2e7446eab3b8402c3b3b101ea2ea7d6bf4e7eda8"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/SmoothScale.lean",
+      "sha256": "f4f4c53fe698f5096b7d32e5e1783596a76d69178d017bc01e704400e667d70d"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/NumberTheory/WallSunSunPrimes.lean",
+      "sha256": "a1aac947cf536c3b41a3cf0a83ccf42e260ec8e332f3d79be94d2fa1451322b5"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Order/Bounds/Basic.lean",
+      "sha256": "db673d2034f33392c0aa0e51ca5cd7643e811ebe707a8105a1d064f0d1e9d3f0"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Order/Nat.lean",
+      "sha256": "17d91ca77eaff1bcb6ed6f6dc59bb63f134cfd2a8d5995e806c86e72bea10b69"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Order/Unimodular.lean",
+      "sha256": "0dd926fedbe1e664c04af0a3abae187d8d57ceba1431c17c9deca418a8ec2995"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Probability/FiniteMethod.lean",
+      "sha256": "d743984bd0cbccfbbe55a4914979933dc19242fcdf44314287c045761f7e07a3"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/RingTheory/Ideal/Defs.lean",
+      "sha256": "1fa4680ea74c7a27648938ce51ec452baf1b46f548e77092ddebad834dbacfc7"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/RingTheory/Ideal/Basic.lean",
+      "sha256": "2c8c0857a40e53eee02e326531795d123ed3e31c9428cbd2fde64a0c1aa73e4b"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/RingTheory/Ideal/Maximal.lean",
+      "sha256": "553c601583b06822ba1c1a12c1859521abbf5c7f7e5f5232e29f73cba532f706"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/RingTheory/Noetherian/Defs.lean",
+      "sha256": "cc0f109ca518912cd0119aa275f74814c1823e444cb3d6ba938c981f73c2d062"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/SetTheory/Cardinal/Arithmetic.lean",
+      "sha256": "c57173f61b3626bc0766dd579165bab92c9111e60ce13d85d4020bdb8e459424"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/SetTheory/Cardinal/Continuum.lean",
+      "sha256": "127ed3f7c48cfd359f615a3ae5b1b8a3370adf7a6cd775b08b377cba8fe4b6cb"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/SetTheory/Cardinal/SimpleGraph.lean",
+      "sha256": "b73bc9815de5b98d3c5d9afcab8b01f1f7eb9210cf17d4fb05fca2e26ca3b00c"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Tactic/Linter/Term.lean",
+      "sha256": "554b051a1ee2708ab8952e7ba1ba3afd997fb1d7e8460f12e3098e3d97162309"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Topology/AbsoluteNeighborhoodRetract.lean",
+      "sha256": "a9ebad2ae0be39d78b68d7135ab1535ced433525667799c81013b7da624e7ead"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Topology/Algebra/InfiniteSum/Real.lean",
+      "sha256": "4bb4da1a4b79a6d6e9e5a46d0a0ec602710b9804158a3c33c8f524282eee7add"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Topology/Discrete.lean",
+      "sha256": "0d0187df8583d4fac35cf46bbbef6ae760b75e0b7a3cb2e7cd6f0bb5cb9e1ba2"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Topology/GDelta.lean",
+      "sha256": "92a9e36ba871a01dbf54df6b107e59b7efe71bdfa11b16034a3f3ded99c490fd"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Topology/Homogeneous.lean",
+      "sha256": "35a2b39c5a4974a602d2cde3410a6c5ad81248a02469f84e0c2d9f00a63136d7"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Topology/LebesgueCoveringDimension.lean",
+      "sha256": "5b6f6496d6bb0b1f98f628249231f75a9bcbb264617d7f9706587640d35dd204"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib/Topology/MetricSpace/MetricSeparated.lean",
+      "sha256": "2920a3786e10a18b0a9ddc8ded12c87b94aeeab62250a6a4dca6a41235717813"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesForMathlib.lean",
+      "sha256": "b3e59e2d1644a208177a820e4bf26f3690293524f7254c345d584f4de7fcdace"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil/Answer/Syntax.lean",
+      "sha256": "4572fc294df840c091b79350951760f742eb26f890b48cd329a19995a1e2344c"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil/Answer.lean",
+      "sha256": "c8b3b31e9bb25c511e577b1812159a210e9346720f19ec6c6b30905a0802db7a"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil/Attributes/AMS.lean",
+      "sha256": "e5a6b4b0cd42e1ad11e84b75bd89f78a9797a98e5b23d8b956f13190b9078d96"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil/Attributes/Basic.lean",
+      "sha256": "5728a3dc7f4406242031afd7fa821eef7bf91c7a763bfa20e2fa93eba03759b8"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil/Linters/AMSLinter.lean",
+      "sha256": "3bd50213081f1de1188cc152c422c34a7a40520a7121fa51b9d5999f28838e26"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil/Linters/AnswerLinter.lean",
+      "sha256": "039aeb275dcee81fed88b2eb212082fc36a66d10322618ffbb832569433c948d"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil/Linters/CategoryDocstringLinter.lean",
+      "sha256": "bad9060be702f96504c2115a55126473131813bce1cdfd56af83233f0e0ab2dc"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil/Linters/CategoryLinter.lean",
+      "sha256": "a851d20f694e3469d68a983e8cc73f9e0d8e34e69e31eece3b42339a55bb8e3c"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil/Linters/CopyrightLinter.lean",
+      "sha256": "b5654e78a75a46c4b4acf2cfd9381e6e4b1814d369b3936e6e93ec7a4b4c0d23"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil/Linters/ExistsImplicationLinter.lean",
+      "sha256": "1cff361f1479489756fd6d9c978a6f542883ba273f8e4bd62e0a9186471d3cef"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil/Linters/FormalProofLinter.lean",
+      "sha256": "59c42b3def4649b81b98ea94286b1449efcf31befbd5721fb3abbfc0c1bb3396"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil/Linters/ImportLinter.lean",
+      "sha256": "14c58799297836705096bc5f72c2d86b6e474f87c199c174fb2fb030ea83b1b9"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil/Linters/LatexDocstringLinter.lean",
+      "sha256": "5121eb0f472af3c59dd1029f0668c5f2c2829cad66539684cebdd51d397ca806"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil/Linters/ModuleDocstringLinter.lean",
+      "sha256": "8db2f62a69a23b4d8a88f82925cc215c2e9039b9d37089ba4306c06e0ea67612"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil/Linters/NamespaceLinter.lean",
+      "sha256": "3b04b8c5ecb1b02991119da6d43cc55a8023ba9659df2b4e59c0eff80063666e"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil/Linters/StubLinter.lean",
+      "sha256": "294be770ca5c2684192717f3e6de7b47e0afb2deb0168bfe65ec8d7042abecb7"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjecturesUtil.lean",
+      "sha256": "5fba2aae9496dd72d2ef6d7297a04fefba8fa1cd78d797c34c39300a87e70823"
+    },
+    {
+      "path": "baseline/formal-conjectures/FormalConjectures/ErdosProblems/1057.lean",
+      "sha256": "d6e21026808daaba5b5281b1b19b8cbb5a45e27f48cfeb979ea2b81dcbebb88f"
+    },
+    {
+      "path": "modular/src/ExpandedFrontier.lean",
+      "sha256": "d17ca137907271ffcf89557b8bf4679fc28964909ff6ec025e05ca9fe8bebbe5"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Arithmetic/EisensteinCoordinates.lean",
+      "sha256": "b4d0151bfcd912fa991c848ccf1bad5a7eddc42d04e4e3c2ed08c500141ce4e5"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Mellin/ExponentialSmoothing.lean",
+      "sha256": "b288e90ebc3caf0b1f55ffde8a74e3ba128a8e54518747dad548360bf11073d1"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Mellin/LogProfiles.lean",
+      "sha256": "c951d4498fc0c8a4ca6ea3844dc5dc3e61efdb1f9458722c5da272a0bbc278bf"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/ChineseRemainder/AdditiveCharacters.lean",
+      "sha256": "faab90406b9a9982bd194d85f10bbd5bea3901950b9e66e1767813c1f7bd6e36"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Arithmetic/EisensteinIdeals.lean",
+      "sha256": "8e2fd623d5620bc7cbdc1c617d4b23b0e8042bcf47f04c95d555511967f020e1"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Cusp/MatrixPhases.lean",
+      "sha256": "67158780490198625196597bf0331d6c07654073f7b848bf2088d0b39de9cebe"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/FiniteFourier.lean",
+      "sha256": "39e4964ead3a444d55fbc9177ba9984817b5a30f79d8183b7becfc3223057378"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/ChineseRemainder.lean",
+      "sha256": "9cb9ee728d03c9c7c57ddc5466130a13b6070d60acc88c0fa9c63985968d6d7c"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Arithmetic/EisensteinEmbedding.lean",
+      "sha256": "c1da1fe578e3c0c6d065be0d58664b9e03114fc3629ee864dcebaa3006b2b65f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/CubicNormalization.lean",
+      "sha256": "baebca38a785af1f7e58bcb5bd5a0f04e681b05800d35cb7101874f5e68d76a2"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/SexticNormalization.lean",
+      "sha256": "f01973bf5ee57c26a7332b66aabbf61b171f4897854d24e183ac9ebf9ab05551"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/LocalProductAssembly.lean",
+      "sha256": "c7ad47a1e9528e53dd58c505900efd34826075c6646f365b67ccbd7f3085f4ab"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/RamifiedTracePhase.lean",
+      "sha256": "2928d469a01996582b4c0ed9c3795d3ddde5a34c76b636a95616550858bf0ccb"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Arithmetic/LatticeCount.lean",
+      "sha256": "bcb2d1b0ad32fed28220e805fbaa2bb7b758aebb36c2647217560af7e27c97c5"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/QuadraticTrace.lean",
+      "sha256": "0d5e30c4e6790ec857b4d46141caf5c72e22cf4d68b86127ed34e9da582d787a"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/QuadraticNormalization.lean",
+      "sha256": "e4c57f7ce6d93e9542b4e1fd59c13e94c0dd41eb5aaf7292478ca11632dfbf93"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Poisson/BinaryGaussian.lean",
+      "sha256": "582e4a766411b6b9aa3f78a65406a1ddd447b70031b21fea354b5aa81f3d05b0"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/GaussianDualLimit.lean",
+      "sha256": "f665567f3702c04d2a05c64ef2850f7a9eac3e67d6a3ab6f4594892fcda67d91"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/GaussianFiberMass.lean",
+      "sha256": "3a282037cb84afc186e3f2e374369543ca08f14fdd7529d3eddf48d9cf995690"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Poisson/GaussianMoments.lean",
+      "sha256": "92c43b2dd246bf9c8e846b5c348edf39e77886979aff64934fa232bc3dadf129"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Poisson/OscillatoryGaussian.lean",
+      "sha256": "1526d1ea7dbda9dbe5c39cf54e3f9de5f6374d7c37a86074b89abd1302318b9f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/PrimeRows/RationalApproximation.lean",
+      "sha256": "012355cc98f2de5f32ba6d9a09d0f7702f2b17f4b28bfb4c3d09143e416083f6"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/AbelPhaseLimit.lean",
+      "sha256": "53993b78f3b59061c136fbf292f1c1291dac99c0ef9a8378b035f984e66fd78e"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/ThetaLocalRows.lean",
+      "sha256": "73739015df756718583c02c08be7ae97ea6dc0fde5abb61df2cac5ad362e9ac2"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Mellin/LocalNonvanishing.lean",
+      "sha256": "83d39d5da811ac13488953ba6fa1317e4ce25a9926ae5bc2493003d34448e43d"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Arithmetic/NormFiberMellin.lean",
+      "sha256": "0e54c639c7c8fe546eef3f3c01f90157499d431fbcb3e404f23c455cf758a024"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Hecke/NormFiberCharacters.lean",
+      "sha256": "e518818e632023643179df24c7cbf9668512478dd6f500da4721dd9ca0302a1c"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Hecke/LocalEulerIdentities.lean",
+      "sha256": "ec686b05ce9df9194d0c254d4e9e341b3eeeb1f232d1d19a6d073c1d87e02d6b"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Hecke/PrimeExtraction.lean",
+      "sha256": "e6dccc3751f7ee34ede107d56f9a2affb0f39e7cacc2cb221c5e60fe57dd44b7"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/PrimeRows/NormFiberExtraction.lean",
+      "sha256": "d4d795d8290d7fe72b3a995735cc46a2d4d693ae798d5b2a2b13e36e3bdb9c95"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Mellin/FiniteEulerRestoration.lean",
+      "sha256": "842738488dc80f28f61a83d5dd3d213babdf5bacdd3b338112d10ce19fcbdf46"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Hecke/FiniteEulerFactors.lean",
+      "sha256": "f129f77756d45453a5f80be2369d0d305847c9a4944d4dfd6ba618fa0dd8bda0"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Mellin/CompactScale.lean",
+      "sha256": "c42b9c07485c9f46b199058d08e43ec4e5f9b1513b79c2f6f84a3ff54cfa5b3f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Mellin/CompactWeights.lean",
+      "sha256": "0b651fcbe8d070c797f7ba244540aaf1feaee138fdf1c083967574a3e3d9d63a"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/SecondPoissonScale.lean",
+      "sha256": "ae6c36ff1c92b782bd26d043c464b979064a761e474baf6c47db070abf0ba350"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Poisson/EisensteinLattice.lean",
+      "sha256": "34f5268a7c6a29f1e4b364b9d19a780c6e5dde4904a676aff0cb2325042cc126"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/SexticRadialPoisson.lean",
+      "sha256": "1ded9c55265c08213639e1829d78cb38d5709225818eb8b16089a3a6a8b319d2"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/PrimeRows/IdealGenerators.lean",
+      "sha256": "4b5d46af07bf5e8e0c2006880da2904fa79e42d3c86c3a37d6d7b7494fa13e3a"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/PrimeRows/ActiveGaussFactorization.lean",
+      "sha256": "a9e7bede1351a87c82e4bb5b3c6c4ee4a653dd26f47c7cd177ebfeb6af6ab209"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/CubicTrace.lean",
+      "sha256": "203f40a069e20b1066b036d9c2f8789151bc907e4d3a93c050effe5db4550237"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Fourier/PositiveLogProfiles.lean",
+      "sha256": "b2438cbe088739c8ad5377f7384241ea149d77014efd1771b637da615a9a75a9"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/SquarePhaseFactorization.lean",
+      "sha256": "c15bbf9163cba534876567b7b9679cd07a0bb3931a6af0928ca7ab36b655b49c"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Poisson/RadialFourier.lean",
+      "sha256": "e499a2bc6704fc61d1f400741f577d3f49ef014022b02bbf611812a0e94eae43"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/ActiveConductor.lean",
+      "sha256": "5a2ddc65490f7130199bca6156040e8ff3346c56fd6a05616f646fbab5979821"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/MixedConversion.lean",
+      "sha256": "a6dfe9208d7af0583a0a671f12129e0baf2f6a815deece429c7b6bb7505c50e8"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/CrossSeparation.lean",
+      "sha256": "72bef1543c949bed675dc905b8c0643c964aed6807f09b55dca1f8d20df16f53"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Arithmetic/IdealMobius.lean",
+      "sha256": "6550d1069c519397f8fc149f5b19a7b63fa1e53dabf7b9f726529ce2e04ab78d"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/CompletedExpansion.lean",
+      "sha256": "ac9389bb8a581c693df71395c6e2ba20f7ce70cf534291e1ebc6164e0f6d4957"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/RayCharacters.lean",
+      "sha256": "63b6e16531a8e6fa976801b9aed17b32ee6f38b35122b0a9e9fa86028871b4e0"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/CoefficientCancellation.lean",
+      "sha256": "4a4e6bc4e6007d2fc19f8915a0db8cefe2dac5d283dbddf6ce6d64f2c67227fd"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/InitialBound.lean",
+      "sha256": "f7d02f8f1a5f052bfe7f8f808bb5d8e6aac1cee2f282bd9df3de1e79e9aec218"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Mellin/ReflectedKernel.lean",
+      "sha256": "c7f31c50b0339f51a8bac84743fe668b7e85699f17ad8008664faa8d2ec90252"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Arithmetic/SquarefreeDivisors.lean",
+      "sha256": "c7b4f0028de0e4746859b7bcf8fc5dd0dcaa7707b1d8965d9e7d876af3de2c5f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/CubeLabels.lean",
+      "sha256": "316d456a9bcb3765979aa13cb6be765cf2e9b9396d887709b7f6aa17843dd230"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/MainTermDifference.lean",
+      "sha256": "ec5b82d4c7a714de079bc9d8d62a56dcf5502c2365e096ff1ae88281e1b75f2f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Mellin/InverseContour.lean",
+      "sha256": "17dce505d3b9cb270619066c2a5f00e6d830fa868d3200262c100dcb89d00c11"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Mellin/UniformKernelBounds.lean",
+      "sha256": "cfd1a04908ee55dbe46a3d04ef1c93b1663b7843a917ae56a64195541f735b11"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/FiniteOperator.lean",
+      "sha256": "5d8715f8ec7f371be6b9f2b323eea6cca4d1db9e3f55d53c06aa1dddd69ad268"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/CrossFactorization.lean",
+      "sha256": "4f74974a111ab12a37472e196bbb8dc2600bea3a0bdb84384bd43bb7d9d9ca1d"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/CoprimeBilinearBound.lean",
+      "sha256": "64d0934b58a516e770b2246cefc67478cb4fac8bb225735d61eab92052ad7b28"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LocalBrackets.lean",
+      "sha256": "5302df6b3240072875883b09034180a963b0f8a81cda383d6ad93772f2c80e71"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/RayExpansion.lean",
+      "sha256": "19f03e5fed3471e32a547032bd36e928f66164e07ca95d31894c2a8d851b9a11"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/ReflectionBrackets.lean",
+      "sha256": "e5e6110d8d3f7efdb976646171ccd3137a9332d2dda03b3a0643b7be7adbef11"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/IdealQuotients.lean",
+      "sha256": "0d146874b25766b44f37877125f444575c53da5b2e4ee4cbb9bed9e9f1d00229"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/DivisorBlocks.lean",
+      "sha256": "2607a4496d3ca39bc965544a6abbf77bce3b2c2c3422841475181a7b86b5dc67"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Reciprocity/CubicJacobi.lean",
+      "sha256": "97b763fc993f74a8faaed4a67c635d6ac3528fa6681ab9bfdcfce11c11c22a38"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Reciprocity/RamifiedSymbol.lean",
+      "sha256": "6d25a6bae3983707a90d5d932d46ae0b554e440f536460095917c950e73ca4b9"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/KernelEnergy.lean",
+      "sha256": "37e3693d634bd92acccd10573aefad9f3ea599dabc944fffcff8da4a46652ef3"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Poisson/QuadraticProfiles.lean",
+      "sha256": "2b3ca34d23143e1a6c08166ee4cd705f026287cc332c0c081f528f52ed4d5da3"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/FirstPassage.lean",
+      "sha256": "57e115ff688c14ff63546ff8afdb8c9dca792a3c9e48ef403279d1f800de3092"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/RayCoefficients.lean",
+      "sha256": "3e935b9867c493b9fe7de4c48338b7ba196375215d24ab54d3ab8229800676ac"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/SecondPoisson.lean",
+      "sha256": "22322e2108a9eca2eecf2388682d42fdcf165e551fd57eb9fb549ff910291326"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/Rows.lean",
+      "sha256": "1204827001b5b9923b4c9d9ef047c2aebef58c448190eafa554dec53bf5a6fd4"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/PrimitiveRows.lean",
+      "sha256": "0eb69bc281d5d4ba75e7c43e9c005c6d5281249788612b66bda2bfacd5628c3e"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Poisson/PrincipalTruncation.lean",
+      "sha256": "de793e94d62f340fcdf2c7f9aab90b39ac0504855712ff0043b86af625edb59b"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Fourier/FrequencyTwists.lean",
+      "sha256": "c7cbfda7535140c518e594394c90437191b2169a34179e737ca7ebeb5ec36077"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/ChildTransfer.lean",
+      "sha256": "6ddae4757e66100a5df730078c257d8766977d4bc0a191b5cc082db65de5d87d"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/IntegratedTransfer.lean",
+      "sha256": "604fb3bc34572a203bc71e726050a2112ff092e620c1ddeb3a818adff2e12eee"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Fourier/TupleWeights.lean",
+      "sha256": "d13347f9c668247368cc388a11b72696c0b9333d1ffd1cc4e6a93ee22ad0a413"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/GcdReduction.lean",
+      "sha256": "bb2eb9e470dee09b3c8415d08738e5846e9de50159b3b89b70a47615243eb809"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/AnnularRecursion.lean",
+      "sha256": "81aadff10c238ccb277d142f6f1f10507ac9140a73c7ffca6c032976f35e9266"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/HyperbolicSpace.lean",
+      "sha256": "bf952b042990d3c283ffd99f3ca8e144045c0c109dd785a558e97d47af3bc310"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/RowMajorants.lean",
+      "sha256": "06977a6208e087ea4f58575040f73b18a30f4822ec765ee89ea5adbb1087aa26"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/FourierCoefficients.lean",
+      "sha256": "25639d375aa6627802419a274f36bf789282f0e5ee1d9ebf5a374ffb5e01039b"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/PrimePools.lean",
+      "sha256": "75eb549e432f8e5db937df186004178bed9ca4a414507ceec364bed93da7cd3e"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/FrequencyBlocks.lean",
+      "sha256": "c9933bdb823390fd04fa7f2af1d019bab23b1680d93ec82f8ba9f6ccec9e4af7"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/FixedProfiles.lean",
+      "sha256": "40cdd1816079b57db12c5884f85fdb634c80a637e05f6f7bae1a6f05e7f3e92e"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/ConstantTermSupport.lean",
+      "sha256": "15f05ae5900de5cf530c6ad2cd8bbed76ac16e6895a41a8b30ecea844c7b98f2"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/SquareParts.lean",
+      "sha256": "cb79d06e78bb4feb3250518bfd5fdcee068b84cdd27c91620a5a922ea21f95ec"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/ResidualSectors.lean",
+      "sha256": "0a8d52d17380dd1aa19700bd1364f8dfa7ffa1c345a10531cb3194bad4fff473"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/UnrestrictedCharacters.lean",
+      "sha256": "1c095cf08bef56122e84cecf90f070ec1ff1ff877b70806eba3b59a08e0646d5"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/ConjugateProfiles.lean",
+      "sha256": "4fbd2490d66eb1fc10ad1bccf8d50c0a02fe595813ae1afa255e9823604ae694"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/RamifiedNormWeights.lean",
+      "sha256": "62b527da6924683ddb8d27c745f6a83ff667680b9ff0d7c4a6ab95a37fa3dcb4"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/PrincipalTruncation.lean",
+      "sha256": "026ac4439fbdecba45ae8147cb6b1a535e78882ce2a66ccc2ca7c7707532ad83"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/FrequencyCutoffs.lean",
+      "sha256": "a0dcec3701a0fda07997b8eb6cedccc67a8bcdde097dc438a897d00cc70f83aa"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/ConstantDirichletSeries.lean",
+      "sha256": "531a494c599f07464c9ceafa2445c386af0da3ebec44df8e4cd3b26827ef0b13"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/DyadicColumns.lean",
+      "sha256": "98256e7c4ab0180603b013fb47e170d5ed0b4cf55954c7ce7434d3055abd696a"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/TruncatedSecondTransfer.lean",
+      "sha256": "43747f5a41e8b3c92b487ff0b4fe86b22358ae1fed951af9cd638aecc968f338"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Fourier/LogDensity.lean",
+      "sha256": "e0c9f7c1a94aa5dcfd67501053fe4e00705255c9c408312efc9f3ef20e6d8167"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/TwistedProfiles.lean",
+      "sha256": "6f84432aba909b8a746da738cc3218a9ed03158ae5978383972b962481ddd36e"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/PrincipalDifference.lean",
+      "sha256": "aca71da5a7e6dd62139264816e257dcb6695fe33d1b9419b9fd623e98afbb48e"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/SpatialDerivatives.lean",
+      "sha256": "42f02e7e7b43d1b79372388e0b4f6a1520cc29012336f7d16a584e2864da2e9b"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/FirstCoreCutoff.lean",
+      "sha256": "69aa6f6ed2a16be0d7a540a056c68b796353dc7d9c75ab0eea8634c9e1703ed8"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SmoothSummands.lean",
+      "sha256": "073d3c23785743919aa10a2f2947737715dbd272d437689aacb793976cda0807"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Poisson/LatticeEnvelopes.lean",
+      "sha256": "cee87f7a48d2029531d5a489df0a01dff7c1eecc0afb18234b773db3aadaf3e7"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/SupportNorms.lean",
+      "sha256": "5edc623f7eb2a37879bc28ec0ee840f1aa2ec21793cc44a1532e58c75429d888"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/MiddleWindows.lean",
+      "sha256": "7d613c9a02ac7368fda271216673c40f2915778c130d53210b79a8e4410e953b"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/GreenIntegrals.lean",
+      "sha256": "60d3a1d597d36a5d3950e558627b562098dc1ff2722e424921d12539a34f4246"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/GreenIdentity.lean",
+      "sha256": "de1a77363db0f4be1f45affa5d8fcb33e863b49baaa4b1e11a2ec8d349b40274"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LogarithmicTargets.lean",
+      "sha256": "b2ab78f9247fb215882e140b3a3831737249294ee10d364c7db3002295bfc964"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CuspIntegration.lean",
+      "sha256": "3dcac76ebb8f1ed0badf308ba56f89b110a0cc117af1ee39c0555c978d8e86ba"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/DualMiddleExpansion.lean",
+      "sha256": "a0c796ae08af7bd15d6e509c122a744fbc9ab1a677c2654f490f5d6bb2b7987d"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/MaskedPrincipalBounds.lean",
+      "sha256": "8ddac76f0f635fde7bcd65985a6ef91c8bb1cfa64254a71cd00a2ab6a6dfe60d"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/LogarithmicSectors.lean",
+      "sha256": "8f00a851a01de8c88c04eeeb552895141f88f139fdfc5d12a63da55e4daa4f9a"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/SquarefreeTransfer.lean",
+      "sha256": "fc793f0a8d79ad3258f276ffba6d9f0c9f4cab3d422cf328334cefa9697fbc81"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SmoothCuspCutoffs.lean",
+      "sha256": "553c3172b17a815573a20245611792e443ef479ac821d44ddd9d15f9550558c6"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SeedDefects.lean",
+      "sha256": "56a3d04a01076b5120d59da245a47a4cf766ee0f403de63a7a91f34afa98e62c"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/GlobalEncoding.lean",
+      "sha256": "cde1f827409cdf300828f790c752e862f9ddb12dade899225aa1ba1c21989c1d"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/PrincipalNormalization.lean",
+      "sha256": "7ab38ca96329189ab8fb0606403f31dcd8aba6380357d6f711747083a2e303a1"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/PrincipalMajorants.lean",
+      "sha256": "14d51d368d984d0bc1587e077701c1dd99cfe4b7d0efd78c5c2e3987d4d92ef1"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/RetainedDualBounds.lean",
+      "sha256": "8ed049e5c757becb8bfcb221776617b7ddb78bb0b0438d5942e298131b97a3ce"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/PrincipalDensity.lean",
+      "sha256": "949d2fbfd5d217881bba540bdf77cf7ad2906a7f311559bccc29386454347013"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/CuspCoercivity.lean",
+      "sha256": "f72c320bfa2ee8fe0d3cba83ee94699279fd6f4cbddd42bad896067abffa0af2"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/CommonMasks.lean",
+      "sha256": "7a2842afebfd4b25db4ee87cb0681cb9cdd5c7a6649a2decb47284731ecf445c"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/HighKernelGeometry.lean",
+      "sha256": "f4dbef9650973fda6cfda71e44c44e6cf84df713facd8017d7f5337c1eec8a48"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/QuotientTopology.lean",
+      "sha256": "8b69edca47e468ae4341f6aef38a9ab0a481447d5f878f56e7112a4ef327ada6"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/ScaleCaps.lean",
+      "sha256": "d4f7cca1a1bc484619abbd0eda3d90a0414942def2c828899907c471ec87129f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/PoissonComparison.lean",
+      "sha256": "569e4936b08720762d81e0fa662963052db4fd08bff0c1c6b7ccf92e8c58a80c"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/ArithmeticBins.lean",
+      "sha256": "ee417b06743296bdcfdd7e8adeb6fd35e353c0f195ec2658d6324e8866c2b597"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/HyperbolicVolume.lean",
+      "sha256": "507ee722edc6b060aa5f1366585899e470033b0ec9f55032a357e9d06a97e373"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/UniformTransfer.lean",
+      "sha256": "f391433da48cc21955d2b4bdc6eb96ca83c6adef1c1f126c2351e03114ac35a4"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/GlobalBinLoss.lean",
+      "sha256": "acb869429b338405aa8daede7d1a631ca5dbe47da37774d9b601a1ffca795678"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/FundamentalDomain.lean",
+      "sha256": "fc7e18199471554a472c911c5524021c3f6796187fa0ee0482e81374aa3e991d"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/GlobalScales.lean",
+      "sha256": "08ec7b9f268287d649eab0a293a50332eb0708b3031fd98147bae6262dcf4a7e"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/AnnularLifting.lean",
+      "sha256": "816cd611ae9d4922c2f4725e7ebc45a2d414d77bb26a372863697d9f79d7de2f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/PoissonConstants.lean",
+      "sha256": "4497ff707d46e78cdc0f7be48c2ecee875ca8074359f0364c9b3a1bda92e4de5"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/SelectedExponents.lean",
+      "sha256": "fcbfdf2a3b14a5da1fd86607d3c8aed50353a6375c48d7b75f760ea2477f6ff1"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/LogarithmicLoss.lean",
+      "sha256": "a8664ed5d95012cbd1938627e34003e8a3f2fe00c31c3f68980d2b55d00158dc"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CompactProfiles.lean",
+      "sha256": "86d7b7183600debe1141ef12a9876ffe534d930b5bf448d6774368d52c0b64b4"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LiteralSources.lean",
+      "sha256": "b78dfd52e0ee8d7a3031aa26428d5e77c59aa5114f9dc284a2a9f7d28326b6aa"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/PooledRows.lean",
+      "sha256": "7bc1f1ba0074f6bded8a7635c36b523bd36a7ed62a75bfc6dc161e4dccbe64d4"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/TransformedColumns.lean",
+      "sha256": "8f947df9f2e207853fe2e60d0a2a7a6c4235ed9bf72d7c558fe2c67bf09e3548"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/ProductColumns.lean",
+      "sha256": "5ee1869267fe0254537bcf39609995f84f3ff72afe9c33ff1f3eb286a6fb9e2d"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/QuadraticSieve/UniformTailBounds.lean",
+      "sha256": "c965317635a186cbffa4c6e2a117797abfc77f8183b487c57d693042903b6cc8"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/CubeBlocks.lean",
+      "sha256": "d0354574d91e9b6987c81d3176d1c0a4782832fb6633f0ff719fd002e318b695"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/PowerfulParts.lean",
+      "sha256": "ff5473fe04ba916ebb4eabcad7e40732dc1038e4c0898a22656e36cc612917db"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/SourceTransfer.lean",
+      "sha256": "605e7f2de8179eda1da7e28197c5ba7d36d168904ad4309575f9b02d6b2fc4d3"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/LogarithmicBins.lean",
+      "sha256": "e7bb45e2d9e6ec15dbd810c581a5ab2007712f8a334bc362e728431bc4cb37e3"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/RowCaps.lean",
+      "sha256": "9a10943d493772a7957068d59a06bed6b240d4292b7bdc94886e2ef51929ed65"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SmoothTests.lean",
+      "sha256": "96f0d999dec82cd3d372ce9aa6e34382a79b487ebdc4070354e124b69b0d2f88"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/DivisorTargets.lean",
+      "sha256": "4fb80bf633b0cdb7fc34e9df22c4ed088a2215c8c5f286f5d31cefc3d1791814"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/NormalizedMass.lean",
+      "sha256": "320f34e2d40e2e17dc5e4fcf819ebf88b32fa6f612b11cea9e8d810bfbff368e"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/ReflectedBranches.lean",
+      "sha256": "810107b3f9e1969b30d0911a0c6f21b70e6912181b4a78dccbe6c914000392a9"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/DirichletForm.lean",
+      "sha256": "4c99585d25160d2ce13ef46e23aa792b15ae953b2d60de35ba7ad6f857045053"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/InputEnergy.lean",
+      "sha256": "495eaea6a3bd5ac654c61db88cbe595598af7b54b5ec8a06798de14fa9ff07cd"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/OutsideIdeals.lean",
+      "sha256": "ca74e28745616afe8371e48565decb45ba65c07a523ce508563f6a14de024a2d"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/PoissonSource.lean",
+      "sha256": "b9d972f48bf8cfecccf8755988bbdc9398976bcddd45fe8483e086776da6b429"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/QuantitativePassage.lean",
+      "sha256": "9e5fd81866d39acc6b04bfaf10e81360e69c98a5ad17162b4985cbab942df3f4"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/DyadicKernel.lean",
+      "sha256": "e5881f145be5fef82ecabdbbfd7e8073911b5a26a5a1d9475107df0eef550e00"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/ReflectedDyadicSeries.lean",
+      "sha256": "50a899f6eec898c07178cd370f0ccf56f37b1300a86d71e8f15870dda6170c46"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/BranchScaling.lean",
+      "sha256": "c3bd1e25d603e046fd62882bc3f006cb209eff75ea80ee4e2de632886fe62a6b"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/LocalCutoffs.lean",
+      "sha256": "a6f6d6ad14bd7dac69c0584a803ed070a9724c35d625fb8e7e23b7629a4071f5"
+    },
+    {
+      "path": "modular/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/H1.lean",
+      "sha256": "03b4fc0e96c9a3966b5cc2c905271ab64cb7086120c4e24b445ededa1266995d"
+    },
+    {
+      "path": "modular/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/Translation.lean",
+      "sha256": "28041bd62ec665c8adfe90c596242f2fe4aeecb0649cfd7c9460aca73400e887"
+    },
+    {
+      "path": "modular/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/TranslationEstimate.lean",
+      "sha256": "7dad4463c514c5d3ce36f3a6694998728535817a56c0d2d4342b2c29e258ba75"
+    },
+    {
+      "path": "modular/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/TranslationEstimateL2.lean",
+      "sha256": "01ea1cbfddee5d72e2097d28d1f0d9ef43b69bf9921da645416c1a225a225394"
+    },
+    {
+      "path": "modular/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/TranslationEstimateH1.lean",
+      "sha256": "e378e56bc13cd452b46380b87ff8756cc0be54dfe555a17d031dcaeea9d43717"
+    },
+    {
+      "path": "modular/src/RellichKondrachov/MeasureTheory/Function/LpSpace/Restrict.lean",
+      "sha256": "481877b5f297a98b1c8e3d7b8efc1864d0c92f3b9f8ec43faf90f44112330f87"
+    },
+    {
+      "path": "modular/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Smoothing.lean",
+      "sha256": "0104410bc7733a06fd77d7462d252b376a0d7c9078898b723332f9888a59bcea"
+    },
+    {
+      "path": "modular/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Approximation.lean",
+      "sha256": "72bfcc75a2a5861077f74d54c9a615d2d9f83248622eb6d5f89597fab28fe7d6"
+    },
+    {
+      "path": "modular/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Compactness.lean",
+      "sha256": "9ebd78b38895fd4133874bcd0fdcef02cc2b3fadc2cfaccc89361874e80e9390"
+    },
+    {
+      "path": "modular/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/ArzelaAscoli.lean",
+      "sha256": "baea67a58a81c49ae792647953fd5a487e854281280b997feda5447f10ca56d7"
+    },
+    {
+      "path": "modular/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Transfer.lean",
+      "sha256": "4b443a9199f855ced7b2a2b7ba3fa0b2b9e9cbc7869dbd1d7b1a1bf8a4f831c2"
+    },
+    {
+      "path": "modular/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/FrechetKolmogorov.lean",
+      "sha256": "fcb7a5f1d1740296be11e532d4a004b58e677609d079ebc85fb8795b32245186"
+    },
+    {
+      "path": "modular/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Kernels.lean",
+      "sha256": "b0659d0520ed53171bc5164c5074a10520d2cee845ea2eda7b236a986b41282a"
+    },
+    {
+      "path": "modular/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/TranslationIntegral.lean",
+      "sha256": "99180af034467efdaa77435e254bb609a823c949a388fba922ed7d28a4f9ee30"
+    },
+    {
+      "path": "modular/src/RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/Rellich.lean",
+      "sha256": "e8199338d827d5863e4ae3b4341c84710a815c49127ea57fafdf9c3ef102b5e5"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/RadialWindows.lean",
+      "sha256": "cc12a547a1f2ff6f93d5b88a89c512b7c6f5aba589b44ca15871ead08f700809"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/HarmonicAggregation.lean",
+      "sha256": "7b50da1bb8680f6f55f3fb3c5e5b7e699d396a2332a44313f01b9a9808ad88d4"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/PaddedPassage.lean",
+      "sha256": "787d5416a008af896cb79fa00204ee8131df6585e70ba21861f0c776f408bc78"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/VariationalLaplacian.lean",
+      "sha256": "973c0bc8d455fad6dd106ead320d82aba8716fd7d00f02d122b87ad1f9d36719"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/CompletedDyadicRows.lean",
+      "sha256": "0e50b969e412f7330dac86fccffe4354d0fc23e9759f84e0d30655ceacf4b34f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/DiagonalDensity.lean",
+      "sha256": "59840172b09e6a47f00893085f48386858fbc6dbab8301594ea2fe1d86d873ad"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/HighRadialBounds.lean",
+      "sha256": "7a91de260f2046db4ac64074b05ff302f42fa9b23d6afa6a919dcbe33dfc8af8"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/SourceRemainders.lean",
+      "sha256": "ae539db6df4ca3764f51f6e34c7f24ee3c9690d080fe4e7443476dbda3aaf414"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/DualZeroMode.lean",
+      "sha256": "858ed34f183bf7425895418e1aa8815a53401aa753f4dfd52b48feaea98abc5c"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/CanonicalDensity.lean",
+      "sha256": "14ef3cce503275297f910cc7704edb8665b560cd5e2e7311c8f0c6289f3d3b91"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/RetainedDensity.lean",
+      "sha256": "b81c11b3d80e95f0fe9f3c6d3b2fe2b8ee748f84bba3e938f3fbfdb94f9f4567"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/CanonicalTailBounds.lean",
+      "sha256": "88707e4b64e7bb9c4a96a840b9f9fe41962139a7509a9e367922a52743f02775"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/ReopenedFibers.lean",
+      "sha256": "c15a86de2d69d51acdb8d8f38547e28c0ab413b13c1e819573bb9bd6c5fb19a6"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CompactEnergyFamilies.lean",
+      "sha256": "8d19a253a437e0178b66a4d51101320dec27a942fc21a5f29b793734abd0c1b1"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/RowCompletion/SupportBounds.lean",
+      "sha256": "10b3e2d1873ade65a1c01c9e7430e41e489824b5849a762449af52474c484756"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/ReopeningSeparation.lean",
+      "sha256": "955b9e1b16131fe2c017c27327dfc803ca28aa86fa489d07fc4c8d0bbee1a20e"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/LogSeparation.lean",
+      "sha256": "0857047a55691ba6ecd2ee29c9ff6f73b0d4e602f7cc369ed66545294c17447f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/RowCompletion/PolynomialHeight.lean",
+      "sha256": "29d585c0321fe77bba90c8536f349164d8b3177a910bbed5fc3adcd896950970"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/PolynomialHeight.lean",
+      "sha256": "6bf23030f5a7ba3e25777948593640c186d4fed25b1fcae3a1251542594d8663"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/RadialProfiles.lean",
+      "sha256": "5a14f8c4e088c77b9c97e0332ed1010665f7ab020fcde0fd3c243e07b78c4692"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/CanonicalLogEnergy.lean",
+      "sha256": "790bbdb61fb9e3ee16dba86cb47f21ae62a9e44287190bd239d5c256c7529d58"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CoordinateLaplacian.lean",
+      "sha256": "da8301f840f0454827d085279e4b9bc3482959c433440a5a91c67d33979b1c7f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/DensityBudgets.lean",
+      "sha256": "b224ab7eb9792f98e48480d507ec0d00a744c5f3dae6737da6881f08e7a08fbd"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/RankMargins.lean",
+      "sha256": "812dff65126baa8e2d967e0917cbb9def4e56959a3dc791d1128fd0603741a18"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/UniformPolynomialHeight.lean",
+      "sha256": "10128a349bb32ce4767b9b95e2506ba5f874fdc610303218732b41a9130bfffd"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/UnitRows.lean",
+      "sha256": "b6f34d86a55eebc1d3e472eae3648c4f0f6db3d070a9f1a17f9a646a65b7e53c"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CuspHeight.lean",
+      "sha256": "19b7ee7a8b8286df765ba88a61d6b9611172be91e578966d998bd35017fca39f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/BarrierPotential.lean",
+      "sha256": "38c9b60426c0cfeef56df1f01ade813a057e383e2858daec38ed208de46d591b"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/ReopeningBounds.lean",
+      "sha256": "0e4916f45815d26aa3d37366e2b3625f4c0286b72340f635ac17c1581fd5ddb0"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/CutoffOrders.lean",
+      "sha256": "03ed4bd87574c8090361ab1b7c77e3f0e2b4a11795a44c191ca214beba08d32c"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/CubicSieve/ClosedRecursion.lean",
+      "sha256": "3f3fb35f8599f3f457d4cf644d482ae0dfc37ef3e40c361408c36ec7af1ae7d2"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/FredholmAlternative.lean",
+      "sha256": "767d4f5ccb69de704116bc854787727d4cebd360073bf1c9f3d878aefdd4ea06"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/UnitNormalization.lean",
+      "sha256": "3144097153888743a161b3ddfd9d775230225e72b9e15ca0fc8475cc2aa7513f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/RowCompletion/CubicReopening.lean",
+      "sha256": "55ab15be5e68ced86e640d123c7b759e5dd07c3bb8153273e2131b5e3c328be2"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/RowCompletion/CompletedEnergy.lean",
+      "sha256": "92c050140c22352f61546df8824e7938edf34820427be07e8f4cf5a895556e4c"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/RowCompletion/DensityTransfer.lean",
+      "sha256": "1b8e27ec14cf45f8131562c530da9551b5bd372d74fbf3ed7069fea50fc47aef"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/MeromorphicResolvent.lean",
+      "sha256": "e005b6495e1f6410c3d994b7e3970b9d44c0beeab8349a59f5b9463ef3d49c08"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SeedHeight.lean",
+      "sha256": "dac59208d550f352a305f60bf9f8e11258b19d6ffcb40e2f3f9d5827e9d6b105"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/RowCompletion/InitialDensity.lean",
+      "sha256": "679d986707e32ee97a71db867ecdf2c8378a9c5dadeaf45a05abb7caa0410a66"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/MeanSquare/ThetaDensity.lean",
+      "sha256": "4c1918a36c7a32c63b866eb26d72b406f37486d24e1aa64d79ce65c18277e59f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Mellin/SixthPowerAverage.lean",
+      "sha256": "e812035a60eaf9e04d2c0341bf1c25ac91bf3c19ec49a777d5a941f77b7ec864"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Hecke/MobiusEulerCorrection.lean",
+      "sha256": "f56900f4d27341b04650db39345e83457569b2d242c29bb5eee0609673fb2bbd"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/RowCompletion/ThetaNonvanishing.lean",
+      "sha256": "2efd43a641e6ef73e1de0d4d20a4456e0cbd028a38e80549144fe8bb604b961c"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CutoffApproximation.lean",
+      "sha256": "e75f154440f45236ec7adecb4e95987c4fe7a7644595c381835f2dfa278282f3"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CuspResidues.lean",
+      "sha256": "9ecbf0f92b7b7f67b832c202cf20cefaa8438fa66dfedb2905a58e86074d9d04"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/ConjugateLevelAction.lean",
+      "sha256": "5ff31f3e674b6532f303d76afd02f706e690f47b3c792760838f020be1e45d98"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/ScatteringCoefficients.lean",
+      "sha256": "116f605602134461b84daa0588b30f6e767d6b5851aafbd96b5a71ae3affc0e8"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/WhittakerContinuation.lean",
+      "sha256": "001a98f24d46a934fde1d8e0a41523b5617fc5f7214f242196a07d1dffaa963a"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/GaussFactorization.lean",
+      "sha256": "0d122ba19c1d11d8e82206d06582f05c2324f863cda57b0b1abe96c260c15917"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/RamifiedGaussSeries.lean",
+      "sha256": "440779731c1d477028ea9f29289b9a59628dc6db1e09708a34df1d697d7fe2c5"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Reciprocity/KubotaCharacter.lean",
+      "sha256": "8a73769868eb22737d6560492d002ddaee3845f30e4be8fbe5adf42926e5aa45"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SourceProjection.lean",
+      "sha256": "2ef51c482caabe4c1aa2c80639860f6ff25425b07834e49b8468019f03ea35cf"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/ResidualFourierBounds.lean",
+      "sha256": "bda5e3cf01c9aff0acaf32060d4dfd062d6356ab06347045c2e3ba244e84b940"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/ResidualFourierSeries.lean",
+      "sha256": "0bea81b53ba65b7ab4b51ab26f1fb2a4494b942746945f3b8f60d99277d75b77"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/ScatteringResidues.lean",
+      "sha256": "bf34b9cfed2a2ad368167b33cdbec86b86c05ad09d071e2820ea36441b7824e0"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SourceQuotient.lean",
+      "sha256": "4a8b3d8b9a6c45086f86028aa16781b5a3fcef41ee20bfeb6d655b077447e9a1"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/OppositeCusp.lean",
+      "sha256": "830674eb938a1667e1ecf8e3bfc8cc4e39b2de3b7d9fa9a4bf0e76520b30f015"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/ResidualFourierExpansion.lean",
+      "sha256": "0cbb7598361eb20f5204ac8cd9e9935dd83c904de836e6b1bff2764023bcda5b"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/ArbitraryCuspPullback.lean",
+      "sha256": "eb825abbe8339ffa949130092951b7e150f69f7ec91d222b5b21a502cd3e504c"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/RationalTranslations.lean",
+      "sha256": "7f05dd510ad19de825cc30737a7251a554e8a33c413859f44928c866de251f75"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CuspAverage.lean",
+      "sha256": "78290721bc27dc88f8bd438491e48be4d2c45ee3ceb216f7ed25bc25409eedd2"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/BesselMellinTransform.lean",
+      "sha256": "c9131df2de18a578a4cc7ea164862cbd0c91a9f4ad585a158956bdb22e20f9bd"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/TranslatedFourierResidues.lean",
+      "sha256": "f142ee58a20766d743bb511eecff225e1588fa7e9590a41e0b03181f114d4a68"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/ResidualCuspDecay.lean",
+      "sha256": "f6f17d98fdbcc397255bde3e50f20fc1d4e0577eec9e5f17de0eb4d1df6a6c0b"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/PrimePowerGaussSums.lean",
+      "sha256": "02786ae65018497685baf6c4b7793cc658a3d4bb74bd33e5a1cc97ca399b7b97"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SourceBesselExpansion.lean",
+      "sha256": "ee8214fd4a922f72967c77249047500ede96f0379687b0aaf03fc7bc223f10df"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/BesselDerivatives.lean",
+      "sha256": "cc9960990e42007720add17c60adcf0531cfee4053871e26b23c3a5dbade9da7"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCuspCoordinates.lean",
+      "sha256": "03f85aa2c00351d91f3efe7c37fced181833777c3f817f731e878020d8300e12"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/ReflectedCuspMellin.lean",
+      "sha256": "d895c724ef4fcd530f6af4e41b1fe8de239074f878f5496e618c9a413e4f4716"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Reciprocity/CubeCorrespondence.lean",
+      "sha256": "b9cefe91ccd4bd8520f63fb6cd7c32ec553a512e48fa53b0ea3f7b443463b8a8"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/ConjugateCuspProfiles.lean",
+      "sha256": "afd2576e0bb7d0735fbe2e3a025b713eaca826baf7df80daa560ae3b94c5863b"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CuspDilation.lean",
+      "sha256": "c596c6469673f0464a81774d37b6486652c95caf3ee507d46afc9faca075c0e4"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Cusp/ResiduesModThree.lean",
+      "sha256": "54952348a67fb1314c2e8ad56d2737b621a7bb940bc3f7d7ecb285c63b1d60d1"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Reciprocity/PrimaryCongruences.lean",
+      "sha256": "f505632370745c6ab6cf1ab5afd13c66960877c5b60ab45962e9bdf0034a33a7"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CubeResidueStrata.lean",
+      "sha256": "ff8524bdadfa91fe2b795f0555d805ea68224de64d2a850dfdfbb859b41bb8d0"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Reciprocity/RamifiedCuspPhases.lean",
+      "sha256": "21558674f02e608a2ee12969e7c909c10e7caaded1cf4cc4e5c642f175d3dc2f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/AffineCuspFourier.lean",
+      "sha256": "3a18ffbcb1fa7b5ad40674f00faf6c00890bacecce91d424b3a5b214d2a016b8"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/IntegralCover.lean",
+      "sha256": "624f2d2ce81f9b0f2fb257185412d68fa891fd192c94acb206894620654695a2"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CoverTrace.lean",
+      "sha256": "6ad84504083874a36684e5b005c90cf56a38b1d2774230d78b5bf71d7870fd35"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CubeCuspAverage.lean",
+      "sha256": "c3db48fc533075bb0c0246742ce92a32fb4c8850978477b76958ab1889714665"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/InverseCorrespondence.lean",
+      "sha256": "e31bb84b9d8e174e175d14c7c1339f0a184529122798e14050c94a0d16f1332f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CorrespondenceTests.lean",
+      "sha256": "f41bfbcc3d0bdb542f95bd69e0459e442ecadbcc92b8c3756ae0b9220aff1c23"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CorrespondencePullback.lean",
+      "sha256": "11a65e507d0f92bfb7f78428aee9edf609feb0267e167b0b70fdd521c65f6ffc"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/RamifiedSixBranches.lean",
+      "sha256": "9ba9f320ecb3122b62095155fbaa1ab26f9ce3b2b3d163cc1523ba55854d84af"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CorrespondenceAdjoint.lean",
+      "sha256": "f2e0a8f75760c223d2ae083ec5eab19fa734056953ddddf03d0ea48a6ab93ebf"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CorrespondenceEnergy.lean",
+      "sha256": "4b063ca2d237f5a608d4aea76b4e688fea60194330cc37ad78752412a1b37dd8"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/CubeEigenrelation.lean",
+      "sha256": "8b11f016f5570c36e508063339e128494f004c80b4b150803a507481bae8a4c7"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/ResidualOrthogonality.lean",
+      "sha256": "698d83c997a870907f5dfc32141718a94e051c22d35e605dcff41959363dab71"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/PrimeRecurrence.lean",
+      "sha256": "a57e2aa96d15d211e85425b21940c35bdacd1ed9b2d875c92438c2ef303bc696"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/PrimeGaussFactors.lean",
+      "sha256": "0dc98eb256d8ef8ffb8999539cbcd325b101366cce3584d04d0c57b4a709a1cc"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SquarefreeCoefficients.lean",
+      "sha256": "1761adc0d7a3a175a6f8233dad3b2a6ebc78154e0103fde6812e7c389d836ba9"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SourceMellinInversion.lean",
+      "sha256": "7a1e8746214d1838d7ba7c3bb0811d59023dc0278a50e647520f1622aa6d1eea"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Mellin/VerticalContourShift.lean",
+      "sha256": "4069007f377de2684d3641f17017a720c51cc8d29876e47165f253f7eeef7a66"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/BesselReflection.lean",
+      "sha256": "664f765e2114b90efa2fc1e7b07f9eab88e68ee4652ec421d03816b2cde1459a"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/MellinSupport.lean",
+      "sha256": "d10929908f2b31a8a12ccd6a2ec0a0d6ac03fc888b8b3d2d9abffad98a84c538"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/DualKernelSummability.lean",
+      "sha256": "cced056f41bf5076141c17e8259f89dc157f73ac16cfa4531cab0c3be78e67be"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/FiniteTranslations.lean",
+      "sha256": "54148412fb7a168e28630dd6238d3d2f4254f19665c3cd37eedb51ecc906a59a"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/RamifiedTransform.lean",
+      "sha256": "2128f2e8d5668fcd1e3f34b9e5f4edde360a380e1a5690d290c8c61be6e4088d"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/EntireMellinProfile.lean",
+      "sha256": "cbe40d0cdef6db8630ed373f880205f1a3cde9c66dd6507ded197a64ec6404da"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/RamifiedValuation.lean",
+      "sha256": "b1ec6314fd54d59ae2813881ff5c24b1ed0d8a373cbaf165157f0e79c86a59ea"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/SourceCuspKernels.lean",
+      "sha256": "f5832dda2bc55bca6404734f20adee9f3407b3f367681dc6627494d1cfb995f1"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/FullFrequencyExpansion.lean",
+      "sha256": "b917f291a2b22e3fa21dd71c3480aadf593dc62e8876aabe51a87ba546346374"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedCuspArrays.lean",
+      "sha256": "f36d85424ce47b8fcf5ce96041d9110d5e2475daf05768c49a76b9fba9503e57"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Cusp/WeylRepresentatives.lean",
+      "sha256": "20a3da6ee66875659f6a048129b00e45e960baa97ef2b87a492ec79f1c682974"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/ChineseRemainder/PrimaryCompletions.lean",
+      "sha256": "a1713a35c02213285f24b33352384db1a36d5739a65186c2c61e2cfb1c776d14"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Cusp/ResiduePhases.lean",
+      "sha256": "61305acbd2b653a710ee5e7d5f2643912cf77be81f03503de4679f4e02efb7e8"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/ChineseRemainder/FrequencyLifts.lean",
+      "sha256": "4469622f6560feb80b0d66995ea91a38431d9cb18d950bda400c3bc45d33346d"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/RowCompletion/PeriodicRows.lean",
+      "sha256": "e802784106ce36671244e9c7a24c3a0d59e12a766d910bacd5545bdd22ffd82f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/ReflectionPool.lean",
+      "sha256": "036acfb5b96d3ee30507348b7769df553d2c4f24c990255f1a7c17d9585d8095"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedConductor.lean",
+      "sha256": "9ddaadb1db1dff278442e7a911130e37c161cacbdbbf6660dc066247c4bb7ba9"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/RowCompletion/FixedCuspBranches.lean",
+      "sha256": "92740500bc45a47d8c8886c6ac0e548d25cbf25de9d4f03165683a2b78122a61"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Cusp/StaticReflectionPhases.lean",
+      "sha256": "70f4f3b191deee7478d25afc1f53a8d5ba27d7a97a9a84a00650e0e432633597"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedFrequencyExpansion.lean",
+      "sha256": "d9aab68e865a1a7f4f0c7928a01b6b479cf1573ac6d05ee99f09f33d775ac812"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/FixedThetaTwists.lean",
+      "sha256": "779900bd4ecc2b9660dae76c8fe2c0cdb333e837b3f919f60ac9f64c1c248dd9"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/FixedRayFibers.lean",
+      "sha256": "5e2048de17352ad71440498ba07972cdc7d5504fe15c184195787c41ab39f2e4"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/Eisenstein/ReflectionFibers.lean",
+      "sha256": "937c5d832d42b73c57ce8dc617ba0a3c1adfeb298ae68abe5fc5577cbf9f0a6d"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/RowCompletion/ControlledPrimeStrata.lean",
+      "sha256": "71d0c01c1569d8c08b2eb8555c9311a35fa6c012dafff8ecde4c7c4f2c92d6ab"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/RowCompletion/FreePrimePools.lean",
+      "sha256": "870bcc84d4b8ca0725dc60a399b646913cdb53a04d9eb89ca2f7b1a1a539f185"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/ResidualEquivalence.lean",
+      "sha256": "f5767774077e920fd9f54314cea571e0d1e6b0bc02c23c44d2115f4862e4637b"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/RowCompletion/RowAmplitudes.lean",
+      "sha256": "0ad382260b09753a0013e62720d832aef3a7091c7d55bc33041a45f1027828ca"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/GaussSum/ActiveReindexing.lean",
+      "sha256": "c5f942b0b2b3f181e2fba713a71da3a921b84d725c8f963da36d706e8486a28f"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/RowCompletion/ReflectedFibers.lean",
+      "sha256": "28efee470337d7d9418bda7b96e8e7246a8a7712c02a8fbcb9fba35c009b4a94"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/RowCompletion/BranchDecoding.lean",
+      "sha256": "1a5020d31bb5dd82637888073d5acc45de98e42e04ac258eefecb706e48e489a"
+    },
+    {
+      "path": "modular/src/OAI/NumberTheory/DirichletL/RowCompletion/ZeroFreeRegion.lean",
+      "sha256": "49a349762463841bc60e7356354e81a9124befe266a77588950e7b5aea470c84"
+    },
+    {
+      "path": "modular/src/PinnedNonprincipal.lean",
+      "sha256": "d2fd6a8cb593cdd60cbe5dddca01bab8c5c76fc21f931087b9f035d9210ead16"
+    },
+    {
+      "path": "modular/src/WeakCandidateTarget.lean",
+      "sha256": "2ceaa276c19c79b4eedb038482b4688147dc99e726ffe0fc4e3cbdd67536836e"
+    },
+    {
+      "path": "modular/src/WeakAnalyticLeaves.lean",
+      "sha256": "763375097eb4f8caf0fb5ec3947c147cc5aec94e090c771566f5612a31ab1814"
+    },
+    {
+      "path": "modular/src/WeakActualLocalEnergy.lean",
+      "sha256": "d28a816fda614b7c5f6f247781171b65f6a2e3f8174383f8b96692e4afe630b7"
+    },
+    {
+      "path": "modular/src/WeakActualOriginalDecay.lean",
+      "sha256": "ffd32eb3674458edb2230deea920f861ae6c15e120d3c9f22523b28905b99a1d"
+    },
+    {
+      "path": "modular/src/WeakActualComparisonDecay.lean",
+      "sha256": "e8d1c3363ab1a22bbf55998299aa511bd0a9a3c697f88bd757ddbe37ae09a381"
+    },
+    {
+      "path": "modular/src/WeakUniformWindowDecay.lean",
+      "sha256": "478064226c3b54fcfe7c3d2d98f219a926d6caa104eed4adb3cf7a1184f36d22"
+    },
+    {
+      "path": "modular/src/WeakActualRawBlocks.lean",
+      "sha256": "437c11ba21af7dbe85f7a9d2da4dc7c74d22fe627b6a1484ec08163c9ebb53e3"
+    },
+    {
+      "path": "modular/src/ConditionalSelectedTarget.lean",
+      "sha256": "8bb575b81338e98be915867e9f670c82f62c0f4e76021ca66e9127dec84cfaf5"
+    },
+    {
+      "path": "modular/src/WeakSelectedResidueTransfer.lean",
+      "sha256": "9907b9b76006033b2fa16132f6faa739cf29911dcee614f998980bb1965514dd"
+    },
+    {
+      "path": "modular/src/ActualAnalyticExports.lean",
+      "sha256": "1574a8a03d9796d52618f8ed51d64f519ac70868dd5355a69909cd95169593de"
+    },
+    {
+      "path": "modular/src/ActualRealizedRootPrimeExports.lean",
+      "sha256": "406706b108003679d87148431704ec1676a53c05804180101f0d28f11bc1a393"
+    },
+    {
+      "path": "modular/src/ActualSelectedInputs.lean",
+      "sha256": "acf3047a5c008fac4fc5b16ae7c141129cc7837df3f98de1da4cb025680644a4"
+    },
+    {
+      "path": "modular/src/ActualSelectedFoundation.lean",
+      "sha256": "23e8afd045f71cd3705d3a7fe9e708b8c2a54913f74553c702748c32217a5c8e"
+    },
+    {
+      "path": "modular/src/ActualSelectedResidueCore.lean",
+      "sha256": "db46ad55d90ccdd76ada48ccd97399b08811e1eafc36c27964cc0e6a44c134f0"
+    },
+    {
+      "path": "modular/src/ActualCandidateNumberedInputs.lean",
+      "sha256": "045e92bf425508d48c07349eac7cd0ca2f3c1015b66894e6aa47e780205c63e1"
+    },
+    {
+      "path": "modular/src/ActualSelectedHighRank.lean",
+      "sha256": "eac0b4f5c2eb69a0fda932732e4dbfcbb43e36d17c7cda3863d772f2301ac847"
+    },
+    {
+      "path": "modular/src/ActualErdos1057Target.lean",
+      "sha256": "a3f5ba99a0f09c377930da49d8a65ea3adbf0f25ae743b0265fa432f5c3a72e6"
+    },
+    {
+      "path": "baseline/TaskSupport.lean",
+      "sha256": "58a80a223dbd7383d92eb2a57b1ec207c0991131a1a1bf24585a4452777c257e"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+theorem verification_probe (n : Nat) : Eq (HAdd.hAdd n (OfNat.ofNat 0)) n := _
+

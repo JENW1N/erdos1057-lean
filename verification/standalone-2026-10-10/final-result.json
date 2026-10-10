@@ -1,0 +1,102 @@
+{
+  "status": "SOURCE_BUILD_AXIOMS_KERNEL_AND_NANODA_PASSED",
+  "checked_proof_commit": "a95a41e18d13474150be7b127a4231e8c4c0e3af",
+  "source_sha256": "20df80a9cba8503fe6cfceeccc6de2e7b7db94beb0532eed064ca1e2a65ff667",
+  "source_build_result": "result.json",
+  "started_utc": "2026-10-10T05:13:36.747808+00:00",
+  "commands": [
+    {
+      "label": "audit-fresh",
+      "argv": [
+        "/usr/bin/sandbox-exec",
+        "-f",
+        "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/sandbox.sb",
+        "/Users/jenwin/.elan/toolchains/leanprover--lean4---v4.35.0-rc2/bin/lean",
+        "--trust=0",
+        "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/source/Audit.lean"
+      ],
+      "exit_code": 0,
+      "seconds": 4.323,
+      "output": "logs/audit-fresh.log",
+      "sha256": "02ed7435b864e13610306c218118b7f17baedf8d2d249d7628e689054c54bd12",
+      "bytes": 528
+    },
+    {
+      "label": "independent-bridge",
+      "argv": [
+        "/usr/bin/sandbox-exec",
+        "-f",
+        "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/sandbox.sb",
+        "/Users/jenwin/.elan/toolchains/leanprover--lean4---v4.35.0-rc2/bin/lean",
+        "--trust=0",
+        "-o",
+        "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/objects/Independent1057.olean",
+        "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/source/Independent1057.lean"
+      ],
+      "exit_code": 0,
+      "seconds": 3.903,
+      "output": "logs/independent-bridge.log",
+      "sha256": "2e5ec177f39525fb012d8185da8f8b221046f5ee795b8918b51b129969bd0369",
+      "bytes": 1119
+    },
+    {
+      "label": "kernel-replay",
+      "argv": [
+        "/usr/bin/sandbox-exec",
+        "-f",
+        "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/sandbox.sb",
+        "/Users/jenwin/.elan/toolchains/leanprover--lean4---v4.35.0-rc2/bin/leanchecker",
+        "--verbose",
+        "Challenge"
+      ],
+      "exit_code": 0,
+      "seconds": 139.282,
+      "output": "logs/kernel-replay.log",
+      "sha256": "b6194fe2c26989fbe31ff7392a43a439708900cbc70d677708bfc1a6f91cdb86",
+      "bytes": 20
+    },
+    {
+      "label": "export-targets",
+      "argv": [
+        "/usr/bin/sandbox-exec",
+        "-f",
+        "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/sandbox.sb",
+        "/Users/jenwin/.elan/toolchains/leanprover--lean4---v4.35.0-rc2/bin/leanexport",
+        "Independent1057",
+        "--",
+        "Bounty.target",
+        "checked1057"
+      ],
+      "exit_code": 0,
+      "seconds": 56.908,
+      "output": "Erdos1057.ndjson",
+      "sha256": "eb7e83867a9b752970650e1221dd04812b182f9bfb6b398e481bc141f93aaf64",
+      "bytes": 1618760355
+    },
+    {
+      "label": "nanoda",
+      "argv": [
+        "/usr/bin/sandbox-exec",
+        "-f",
+        "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/sandbox.sb",
+        "/Users/jenwin/.elan/toolchains/leanprover--lean4---v4.35.0-rc2/bin/nanoda_bin",
+        "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/nanoda.json"
+      ],
+      "exit_code": 0,
+      "seconds": 206.394,
+      "output": "logs/nanoda.log",
+      "sha256": "eac0af491c19ca0196036c2f98dea6a30acf46087a7537005870c2e61fa9a4e5",
+      "bytes": 766
+    }
+  ],
+  "tool_sha256": {
+    "lean": "d1d9c26a539f54fe839d2aa7760bf1ac1dd76a30b26e2c9684bebf2900038fcf",
+    "leanchecker": "41662275cb7d624d0f0fdf8cb3dc7d5c15e99b233be3ebec576a5c38df181844",
+    "leanexport": "f533d8829d2f6507816a3c784055bf2eb8f9a7e53a3134affbe320eba5dc27c1",
+    "nanoda_bin": "85daddc584afe0d8fa28e18d4c566219bc3c8ddd8b0d43b90285a8f5b35faf2c"
+  },
+  "completed_utc": "2026-10-10T05:20:28.167990+00:00",
+  "source_unchanged": true,
+  "export_sha256": "eb7e83867a9b752970650e1221dd04812b182f9bfb6b398e481bc141f93aaf64",
+  "export_bytes": 1618760355
+}

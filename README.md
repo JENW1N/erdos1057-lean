@@ -16,8 +16,7 @@ where C(x) counts Carmichael numbers at most x. It is not merely an existence pr
 
 ## Submitted proof version and evidence
 
-The October 9 single-file revision is now available at [standalone/Challenge.lean](standalone/Challenge.lean), together with its successful source compile and exact-target audit logs. Its SHA-256 is `20df80a9cba8503fe6cfceeccc6de2e7b7db94beb0532eed064ca1e2a65ff667`. See the [standalone build and verification guide](standalone/BUILD.md) for the version distinction, reproducible commands, and the checks actually performed. The October 8 public modular snapshot and its evidence below remain preserved.
-
+The October 9 single-file revision is available at [standalone/Challenge.lean](standalone/Challenge.lean), SHA-256 `20df80a9cba8503fe6cfceeccc6de2e7b7db94beb0532eed064ca1e2a65ff667`. Both that revision and the original October 8 modular version were rebuilt and checked separately on October 10. The [full verification report](verification/standalone-2026-10-10/report.md) records exact-target checks, standard axiom dependencies, Lean kernel replay and independent Nanoda checks, including a checker built from pinned source. See the [standalone build guide](standalone/BUILD.md) for the recipe and [original-version report](verification/modular-2026-10-10/report.md) for the earlier proof. Prize review remains pending.
 
 The selected modular source is the complete 320-module `joined0f0e-reviewed-320` snapshot exported on 8 October 2026 at 16:45:17 UTC. The source owner's recorded Lean audit completed at 16:44:16 UTC. It reports the exact parameter-free target, with only `propext`, `Classical.choice`, and `Quot.sound` in its axiom closure. Extraction rechecked all 320 source hashes and all 993 entries of the original export certificate. The evidence and its scope are described in [VERIFICATION.md](VERIFICATION.md).
 

@@ -20,10 +20,15 @@ The subsequent [audit](../verification/standalone-2026-10-09/audit.log) and
 exact challenge-type check, a direct statement check, and the transitive axiom
 check. The only axioms are `propext`, `Classical.choice`, and `Quot.sound`.
 
-Those are existing author-side records, not JSP acceptance. On October 10 the
-source and log hashes were independently matched to these records, and a fresh
-isolated source rebuild was started. Its completed result will be recorded
-separately; no success for that new run is asserted by this snapshot.
+Those are existing author-side records. A separate October 10 source rebuild,
+exact-target audit, explicit-count bridge, Lean kernel replay and independent
+Nanoda checks also passed. The standalone source compilation took 726.120
+seconds. All 189 baseline modules and the support file were freshly compiled;
+pinned standard dependency caches were reused. See the [complete report and
+logs](../verification/standalone-2026-10-10/report.md). The [original October 8
+modular version](../verification/modular-2026-10-10/report.md) was checked
+separately, with all 320 custom modules freshly compiled. These checks do not
+constitute JSP acceptance.
 
 ## Reproduce
 
@@ -52,7 +57,7 @@ python3 tools/reproduce_standalone.py \
 
 The dependency root must contain `.lake/packages` at every locked commit, with
 unchanged tracked sources. All custom proof objects and baseline objects are
-still rebuilt. The October 10 check uses this cache-reuse method with equivalent
+still rebuilt. The October 10 check used this cache-reuse method with equivalent
 explicit compiler commands, recorded separately. Rebuilding all Mathlib sources
 is not claimed.
 
@@ -61,7 +66,7 @@ writes are confined to the new run directory, and user-home contents are denied
 except the specified toolchain and read-only dependencies. On other platforms,
 run inside a prepared isolated environment and pass `--external-sandbox`; that
 flag is a declaration by the caller, not an isolation mechanism. If using Elan,
-pass the concrete `lean` and `lake` binaries from the pinned toolchain if necessary.
+pass the concrete `lean` binary with `--lean` if necessary. The updated launcher resolves the matching toolchain before creating its isolated HOME.
 
 Logs, commands, source hashes, versions and the final status are written in the
 new directory. No `.olean` files are supplied as proof evidence in this repository.

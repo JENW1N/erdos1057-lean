@@ -1,0 +1,34 @@
+{
+  "repository": "https://github.com/ammkrn/nanoda_lib",
+  "commit": "3a2407216ee84a75f9e1aead6803d0578be06ae7",
+  "commands": [
+    {
+      "label": "fetch",
+      "argv": [
+        "/Users/jenwin/.rustup/toolchains/nightly-2026-08-18-aarch64-apple-darwin/bin/cargo",
+        "fetch",
+        "--locked"
+      ],
+      "exit_code": 0,
+      "seconds": 2.511
+    },
+    {
+      "label": "build",
+      "argv": [
+        "/usr/bin/sandbox-exec",
+        "-f",
+        "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification-tools/sandbox.sb",
+        "/Users/jenwin/.rustup/toolchains/nightly-2026-08-18-aarch64-apple-darwin/bin/cargo",
+        "build",
+        "--release",
+        "--locked",
+        "--offline"
+      ],
+      "exit_code": 0,
+      "seconds": 15.317
+    }
+  ],
+  "version": "0.4.19",
+  "binary_sha256": "a966ff9ab4e8431faa1ab1c0a84d24693be1cf3c2a01425d39bcd2da1ac947e0",
+  "status": "SOURCE_BUILD_PASSED"
+}

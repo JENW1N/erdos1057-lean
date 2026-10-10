@@ -1,0 +1,30 @@
+{
+  "ready_for_target_checks": false,
+  "issues": [
+    "toolchain_file_mismatch_or_missing",
+    "lake_config_missing",
+    "dependency_lock_missing",
+    "tracked_worktree_changes"
+  ],
+  "head": "a95a41e18d13474150be7b127a4231e8c4c0e3af",
+  "git_status": "M standalone/BUILD.md\n M tools/reproduce_standalone.py",
+  "toolchain_file": null,
+  "file_sha256": {
+    "lake-manifest.json": null,
+    "lakefile.lean": null,
+    "lakefile.toml": null,
+    "lean-toolchain": null,
+    "standalone/Challenge.lean": "20df80a9cba8503fe6cfceeccc6de2e7b7db94beb0532eed064ca1e2a65ff667"
+  },
+  "manual_preconditions": [
+    "isolation and resource limits established",
+    "clean source build and trusted cache provenance recorded",
+    "actual dependency SHAs match fixed evidence",
+    "tool binaries are trusted and match the pinned toolchain",
+    "all untracked inputs and module/source mappings reviewed"
+  ],
+  "checker_compatibility": "not_probed; inspect pinned checker separately",
+  "manifest_sha256": "30316bf0d9499e47c3edae3e4eaa49ab7f5cad4edd0b6da881bac891b06440a1",
+  "script_sha256": "5db45dddcb4d588bc27e7c7161fbca5cedaa3e73e1c40843d21f5a214323cd07",
+  "exit_code": 2
+}

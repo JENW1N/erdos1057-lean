@@ -1,0 +1,20 @@
+{
+  "checker": "nanoda_lib 0.4.19",
+  "repository": "https://github.com/ammkrn/nanoda_lib",
+  "source_commit": "3a2407216ee84a75f9e1aead6803d0578be06ae7",
+  "binary_sha256": "a966ff9ab4e8431faa1ab1c0a84d24693be1cf3c2a01425d39bcd2da1ac947e0",
+  "cargo_lock_sha256": "9b921e794ce5ed515eb31db9ada0c2f34df999b6c9b5135ad308a412872e42be",
+  "argv": [
+    "/usr/bin/sandbox-exec",
+    "-f",
+    "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/sandbox.sb",
+    "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification-tools/target/release/nanoda_bin",
+    "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/nanoda.json"
+  ],
+  "cwd": "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original",
+  "exit_code": 0,
+  "seconds": 189.337,
+  "log": "logs/nanoda-0.4.19.log",
+  "log_sha256": "dacf79c5c697d150af8994d540341259f4c5b7810b91911e463e782e8515a04d",
+  "checked_utc": "2026-10-10T05:39:00.826510+00:00"
+}

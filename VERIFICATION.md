@@ -1,5 +1,7 @@
 # Verification evidence and limits
 
+A separate October 10 check rebuilt all 320 custom modules of the original public commit and checked its exact target, axioms, Lean kernel replay and independent Nanoda export. See the [original-version report](verification/modular-2026-10-10/report.md). The later standalone revision has its own [report](verification/standalone-2026-10-10/report.md) and [build guide](standalone/BUILD.md). The historical records below retain their original scope; the portable full dependency-from-source recipe itself was not run.
+
 The selected 320-module source snapshot was audited by its source-owning proof task before this publication task extracted it. The recorded audit used Lean 4.35.0-rc2 (compiler commit `11acb17ec6b07a8f9e9173e6845197929540936b`), the pinned challenge baseline, `--trust=0`, `-Dweak.google.answer=always_true`, and `-DElab.async=false`.
 
 The recorded output is:

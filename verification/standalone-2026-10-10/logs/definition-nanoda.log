@@ -1,0 +1,20 @@
+def ExplicitCarmichael (a._@._internal._hyg.0 : Nat) : Sort 0 :=
+  And (LT.lt (OfNat.ofNat 1) a._@._internal._hyg.0)
+    (And (Not (Nat.Prime a._@._internal._hyg.0))
+      (forall (b : Nat),
+      LE.le (OfNat.ofNat 1) b → Nat.Coprime a._@._internal._hyg.0 b → Nat.ProbablePrime a._@._internal._hyg.0 b))
+
+theorem carmichael_definition_iff (n : Nat) : Iff (IsCarmichael n) (ExplicitCarmichael n) := _
+
+theorem explicit_carmichael_count (x : Real) :
+  Eq (Erdos1057.carmichaelCounting x)
+    (Nat.cast (Set.ncard (Set.ofPred (fun (n : Nat) => And (ExplicitCarmichael n) (LE.le (Nat.cast n) x))))) :=
+  _
+
+axiom propext {a b : Sort 0} : Iff a b → Eq a b
+
+axiom Quot.sound.{u} {α : Sort u} {r : α → α → Sort 0} {a b : α} : r a b → Eq (Quot.mk r a) (Quot.mk r b)
+
+axiom Classical.choice.{u} {α : Sort u} : Nonempty α → α
+
+Checked 8791 declarations with no errors

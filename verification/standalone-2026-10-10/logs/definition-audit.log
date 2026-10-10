@@ -1,0 +1,30 @@
+carmichael_definition_iff : ∀ (n : ℕ), IsCarmichael n ↔ ExplicitCarmichael n
+theorem carmichael_definition_iff : ∀ (n : ℕ), IsCarmichael n ↔ ExplicitCarmichael n :=
+fun n =>
+  {
+    mp := fun h =>
+      have h1 :=
+        h 1 (Decidable.byContradiction fun a => carmichael_definition_iff._proof_1_1 a)
+          (of_eq_true (Nat.coprime_one_right_eq_true n));
+      ⟨h1.right.right, ⟨h1.right.left, fun b hb hc => (h b hb hc).left⟩⟩,
+    mpr := fun h b hb hc => ⟨h.right.right b hb hc, ⟨h.right.left, h.left⟩⟩ }
+'carmichael_definition_iff' depends on axioms: [propext, Quot.sound]
+explicit_carmichael_count : ∀ (x : ℝ), Erdos1057.carmichaelCounting x = ↑{n | ExplicitCarmichael n ∧ ↑n ≤ x}.ncard
+theorem explicit_carmichael_count : ∀ (x : ℝ),
+  Erdos1057.carmichaelCounting x = ↑{n | ExplicitCarmichael n ∧ ↑n ≤ x}.ncard :=
+fun x =>
+  of_eq_true
+    (Eq.trans
+      (congrFun'
+        (congrArg Eq
+          (congrArg Nat.cast
+            (congrArg Set.ncard
+              (congrArg Set.ofPred
+                (funext fun n => congrFun' (congrArg And (explicit_carmichael_count._simp_1_2 n)) (↑n ≤ x))))))
+        ↑{n | ExplicitCarmichael n ∧ ↑n ≤ x}.ncard)
+      (eq_self ↑{n | ExplicitCarmichael n ∧ ↑n ≤ x}.ncard))
+'explicit_carmichael_count' depends on axioms: [propext, Classical.choice, Quot.sound]
+def Nat.ProbablePrime : ℕ → ℕ → Prop :=
+fun n b => n ∣ b ^ (n - 1) - 1
+def Nat.FermatPsp : ℕ → ℕ → Prop :=
+fun n b => n.ProbablePrime b ∧ ¬Nat.Prime n ∧ 1 < n

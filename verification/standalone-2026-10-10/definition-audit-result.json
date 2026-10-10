@@ -1,0 +1,45 @@
+{
+  "argv": [
+    "/usr/bin/sandbox-exec",
+    "-f",
+    "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/sandbox.sb",
+    "/Users/jenwin/.elan/toolchains/leanprover--lean4---v4.35.0-rc2/bin/lean",
+    "--trust=0",
+    "-o",
+    "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/objects/DefinitionAudit1057.olean",
+    "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/source/DefinitionAudit1057.lean"
+  ],
+  "exit_code": 0,
+  "seconds": 4.681315375,
+  "source_sha256": "9d33d4a87f16b995180f00f45099c6d2abc501db50436938b2e822b5ace20f16",
+  "checks": [
+    {
+      "label": "export",
+      "argv": [
+        "/usr/bin/sandbox-exec",
+        "-f",
+        "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/sandbox.sb",
+        "/Users/jenwin/.elan/toolchains/leanprover--lean4---v4.35.0-rc2/bin/leanexport",
+        "DefinitionAudit1057",
+        "--",
+        "carmichael_definition_iff",
+        "explicit_carmichael_count"
+      ],
+      "exit_code": 0,
+      "seconds": 3.7221392079999998
+    },
+    {
+      "label": "nanoda-0.4.19",
+      "argv": [
+        "/usr/bin/sandbox-exec",
+        "-f",
+        "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/sandbox.sb",
+        "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification-tools/target/release/nanoda_bin",
+        "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057/definition-nanoda.json"
+      ],
+      "exit_code": 0,
+      "seconds": 0.822504167
+    }
+  ],
+  "export_sha256": "01278b991a1ae138ca15d8be4b819f536ea72de6e92bf89d73d54a7fc7b2e6ec"
+}

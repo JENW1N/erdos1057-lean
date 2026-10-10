@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "project": {
+    "repository": "https://github.com/JENW1N/erdos1057-lean",
+    "root": "/private/var/folders/rh/rg0dlt911dl_2c1zyw9vhj4r0000gn/T/jsp-submission-update-l0t85s6o/verification1057-original/source",
+    "commit": "55fe0f1cd4d8e63b417eb122067ab3e307b39f32",
+    "toolchain": "leanprover/lean4:v4.35.0-rc2"
+  },
+  "problems": [
+    {
+      "id": "erdos1057",
+      "source": "https://www.erdosproblems.com/1057; JSP-000877",
+      "requirements": [
+        {
+          "id": "objects",
+          "description": "C(x) counts all standard Carmichael natural numbers at most a real x",
+          "targets": [
+            "target"
+          ],
+          "coverage": "full",
+          "evidence": "Independent1057 expands the source counting function to the cardinality of standard IsCarmichael values"
+        },
+        {
+          "id": "limit",
+          "description": "log C(x) / log x tends to one for every sufficiently large real bound",
+          "targets": [
+            "target"
+          ],
+          "coverage": "full",
+          "evidence": "The exact parameter-free Tendsto statement, not a finite witness, subsequence or fixed smaller exponent"
+        },
+        {
+          "id": "unconditional",
+          "description": "No additional unproved number-theoretic hypotheses",
+          "targets": [
+            "target"
+          ],
+          "coverage": "full",
+          "evidence": "Parameter-free theorem and transitive axiom audit; source proof closure and kernel replay checked separately"
+        }
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "id": "target",
+      "problem": "erdos1057",
+      "role": "theorem",
+      "module": "ActualErdos1057Target",
+      "source": "modular/src/ActualErdos1057Target.lean",
+      "declaration": "Bounty.target"
+    }
+  ],
+  "execution_note": "The original public commit is checked through immutable git archive source extraction. Baseline source bytes match the separately rebuilt baseline from this same review; custom modules are all freshly compiled in a separate sandbox. Equivalent manual target audit for this non-Lake layout."
+}

@@ -1,5 +1,7 @@
 # Reproduce the modular proof
 
+A separate October 10 check rebuilt all 320 custom modules of the original public commit and checked its exact target, axioms, Lean kernel replay and independent Nanoda export. See the [original-version report](verification/modular-2026-10-10/report.md). The later standalone revision has its own [report](verification/standalone-2026-10-10/report.md) and [build guide](standalone/BUILD.md). The historical records below retain their original scope; the portable full dependency-from-source recipe itself was not run.
+
 The historical modular build and target audit passed in the recorded environment. **This portable clean-build recipe has not been executed.** Its Python syntax and source-only checks were tested; those checks are not a new proof verification.
 
 Requirements: Python 3.10 or later, Git, network access to the pinned GitHub dependencies, a working Lean/Lake toolchain `leanprover/lean4:v4.35.0-rc2`, and that toolchain's native build prerequisites. The required Lean commit is `11acb17ec6b07a8f9e9173e6845197929540936b`.
