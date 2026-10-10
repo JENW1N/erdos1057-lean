@@ -1,0 +1,97 @@
+ERDOS 1057 / JSP-000877: REBUILD AND PRIORITY REVIEW
+Review date: 10 October 2026
+
+CONCLUSION
+The supplied Challenge.lean has a successful fresh standalone compilation record and matching logs. The independent target audit rerun in this review also passed. No earlier public complete unconditional proof of C(x)=x^(1-o(1)) was located in the literature and submission search. Priority remains a plausible claim subject to organizer verification and review, not an awarded entitlement.
+
+BUILD EVIDENCE
+Source: /Users/jenwin/Documents/Codex/2026-10-07/p/outputs/Challenge.lean
+SHA-256: 20df80a9cba8503fe6cfceeccc6de2e7b7db94beb0532eed064ca1e2a65ff667
+Bytes: 17716380
+Compilation: 9 October 2026, 16:30:18–17:00:19 UTC; exit 0; Lean 4.35.0-rc2; --trust=0.
+The source, compiler, compiled module, compile log, audit source and audit log hashes were recomputed and matched their receipts. The JSON compile log contained no error or sorry messages.
+Independent rerun: exact challenge type and explicit logarithmic limit both checked; exit 0. Axiom closure: propext, Classical.choice, Quot.sound only.
+The full 30-minute source compilation was not rerun during this review. Its existing output and logs were inspected, and the target/axiom audit was rerun against the matching compiled module.
+Build scope: fresh standalone proof compilation using existing pinned Mathlib/Formal Conjectures dependency artifacts. This is not evidence that every dependency was rebuilt from source in that run.
+
+VERSION AND PUBLIC PRIORITY
+The prize PR selects commit 55fe0f1cd4d8e63b417eb122067ab3e307b39f32. Its GitHub release was published at 2026-10-08T18:29:25Z; the PR was created three seconds later.
+The attached October 9 file comes from a later source snapshot: 297 of 320 module source hashes match that public commit, and 23 differ. This comparison does not certify semantic equivalence of the changed modules. The newer successful build does not by itself establish that the exact older public commit was freshly rebuilt.
+The public October 8 snapshot retains its separate modular-build and target-audit evidence. Preserve that public snapshot and timestamp even when publishing later verification.
+The PR remains open and unmerged. No review comments or award determination were observed.
+
+LITERATURE AND CLAIM COMPARISON
+The target is a count valid for every sufficiently large bound, equivalent to log C(x)/log x tending to 1. A finite list, infinitude alone, a fixed smaller power lower bound, or a conditional proof does not settle that target.
+
+1. Alford, Granville, Pomerance (1994), There are infinitely many Carmichael numbers
+Classical infinitude and power lower bounds; does not establish the full exponent-one target unconditionally.
+https://math.dartmouth.edu/~carlp/PDF/paper95.pdf
+
+2. Lichtman (2022), Primes in arithmetic progressions to large moduli and shifted primes without large prime factors
+Corollary 1.2 states at least x^0.3389 Carmichael numbers up to x. Also explains the Harman predecessor bound.
+https://arxiv.org/html/2211.09641
+
+3. Runbo Li, The number of primes in short intervals and numerical calculations for Harman’s sieve, v8 (2025)
+Theorem 10 claims C(x)>x^0.34. Even accepting it, this is a partial lower bound, not exponent one; no independent verification of its sieve calculations in this review.
+https://arxiv.org/html/2308.04458v8
+
+4. Wright (2020), A conditional density for Carmichael numbers
+Near-linear exponent under a strong least-prime-in-arithmetic-progressions assumption; conditional.
+https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/conditional-density-for-carmichael-numbers/E732DD46A7CF3D0EE22BB21D16D72645
+
+5. Larsen (2021/2023), Bertrand’s Postulate for Carmichael Numbers
+At least exp(log(x)/(log log(x))^(2+delta)) Carmichael numbers in certain short intervals; not the exponent-one global count.
+https://arxiv.org/abs/2111.06963
+
+6. Larsen (2025), Carmichael Numbers in All Possible Arithmetic Progressions
+Infinitude or emptiness criterion in all arithmetic progressions, and a totient-ratio consequence; not the full counting target.
+https://arxiv.org/abs/2504.09056
+
+7. Larsen and Wright (2025), Carmichael Numbers with a Specified Number of Prime Factors
+Existence with exactly R prime factors for every sufficiently large R; does not give the requested global count.
+https://arxiv.org/html/2510.16632
+
+8. Bharadwaj and Rodgers (2024 preprint / 2026 publication), Large prime factors of well-distributed sequences
+Poisson–Dirichlet law under level-one distribution; relevant background, not an unconditional Carmichael counting solution.
+https://arxiv.org/abs/2402.11884
+
+9. Wright (2026), (a,a)-Carmichael numbers and greatest common divisors of p-a
+Near-linear generalized counting bound still assumes a strong conjecture about the first prime in an arithmetic progression.
+https://arxiv.org/abs/2607.02738
+
+10. jdb19937/carmichael (September 2026), deterministic construction manuscript
+Claims a deterministic construction of a Carmichael number beyond n in quasipolynomial time; construction is not an exponent-one counting theorem. Correctness not independently adjudicated here.
+https://github.com/jdb19937/carmichael/blob/main/carmichael.tex
+
+11. Gupta, Webster and Webster (October 1, 2026), The Prime Wavelet Tree: Compressing the Carmichael Numbers
+Compression of a finite Carmichael tabulation, not an asymptotic density proof.
+https://arxiv.org/abs/2610.02550
+
+12. OpenAI (September 2026), Weighted dilation graphs, smooth shifted primes and totient fibers
+Prior smooth-prime ingredient used by the submitted work; introduction notes a separate progression-distribution input for the classical Carmichael construction. It does not itself state the full Carmichael-counting conclusion.
+https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Weighted-Dilation-Graphs-Smooth-Shifted-Primes-and-Totient-Fibers-September-24-2026/build/sections/00-introduction.tex
+
+13. OpenAI (September 2026), The Quasi-Riemann Hypothesis
+Prior zero-free ingredient used by the submitted development. No Carmichael statement found in this manuscript. The current submitted mathematical account uses the formal 23/24 zero-free route rather than copying its stronger prose statement.
+https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/The-Quasi-Riemann-Hypothesis-September-30-2026/build/paper.tex
+
+14. Polson, Sokolov and Zantedeschi (2026), Erdős Problems via Bayesian Computation, II
+Abstract inspected; discusses AGP density and a remaining derandomisation gap. Full paper could not be fetched (HTTP 403), so it was not cleared by full-text review.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6913501
+
+EARLIER PRS
+Seven catalog PRs for JSP-000877 were found. The six others reviewed concerned finite witnesses (including 561, 1105 and 1729), a duplicate witness submission, or a mismatched Erdős 877 statement. They do not establish earlier priority for the full Erdős 1057 theorem.
+Examples: https://github.com/TheJustinSunPrize/awards/pull/1094 and https://github.com/TheJustinSunPrize/awards/pull/4847
+
+PRIORITY ASSESSMENT
+Mathematical-solution priority and Lean-formalization priority are separate questions. The favorable evidence is a dated public full-target submission and successful machine-check evidence. The literature search located only partial, conditional, or different-target predecessors.
+OpenAI’s analytic and smooth-prime inputs, Larsen’s strategy, and Mathlib are prior work and require attribution. A claim to the new full conclusion or to the submitted formal completion does not confer authorship of those ingredients.
+The strongest defensible wording is: No earlier complete unconditional proof of the exact target was located in this search. It is not defensible yet to assert guaranteed first priority or a guaranteed reward.
+Official rules: https://www.hejustinsun.com/prize/rules
+Operational process: https://github.com/TheJustinSunPrize/awards/blob/main/docs/award-process.md
+
+PRACTICAL SUBMISSION IMPROVEMENT
+Publish the October 9 build evidence together with the exact source or a commit containing it; explain its relation to the already-public October 8 submission. Retain the earlier pinned release and its original verification evidence. This review did not publish, modify or send anything to GitHub.
+
+LIMITS
+This is a bounded public-source and artifact review. Private work, unindexed publications, and later repository updates may be missed. It is not an independent line-by-line mathematical referee report. The SSRN work listed above was screened only at abstract level because its full text was unavailable.

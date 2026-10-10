@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "exit_code": 0,
+  "checked_at": "2026-10-09T17:00:29.948666+00:00",
+  "elapsed_seconds": 7.952886250000001,
+  "command": [
+    "/Users/jenwin/.elan/toolchains/leanprover--lean4---v4.35.0-rc2/bin/lean",
+    "--trust=0",
+    "-Dweak.google.answer=always_true",
+    "-DElab.async=false",
+    "-j8",
+    "/Users/jenwin/Documents/Codex/2026-10-07/p/work/standalone-final-02/Audit.lean"
+  ],
+  "source_sha256": "20df80a9cba8503fe6cfceeccc6de2e7b7db94beb0532eed064ca1e2a65ff667",
+  "compiled_module_sha256": "19925efc85dfcc7976bd532ebb06f2371736b4403fffc1b28a4bddce8a3eb758",
+  "audit_source_sha256": "d2eb4a23032bcaeebf48c22fd8d6ea90997ec884d65a140fc482ad5f870ca634",
+  "log_sha256": "38fe4fb18ae1d378866af936cf75e571a319b997954c9e4db129b1840c01fb73",
+  "allowed_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "exact_target_checked": true,
+  "explicit_mathematical_statement_checked": true
+}

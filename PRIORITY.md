@@ -38,3 +38,13 @@ The preserved one-file candidate exceeds the current task's uncompressed 10 MiB 
 ## Attribution correction
 
 The 8 October 2026 [attribution update](ATTRIBUTION-UPDATE.md) adds Will Howe and Grant Huffman to the mathematical solver credits. It changes no proof source, verification result, or selected proof commit. The initial proof publication is still `55fe0f1cd4d8e63b417eb122067ab3e307b39f32`; its original checksum manifest and timestamp receipt are preserved in `provenance/` and in that commit. A later attribution date is not presented as a new proof-completion date or backdated disclosure.
+
+## October 9 source revision and October 10 evidence update
+
+The first public modular proof remains commit `55fe0f1cd4d8e63b417eb122067ab3e307b39f32`, with GitHub release [v2026.10.08](https://github.com/JENW1N/erdos1057-lean/releases/tag/v2026.10.08) published on **8 October 2026 at 18:29:25 UTC**. The existing [Prize PR 4874](https://github.com/TheJustinSunPrize/awards/pull/4874) was opened immediately afterward. Updating that same PR preserves its history.
+
+The new single-file source has SHA-256 `20df80a9cba8503fe6cfceeccc6de2e7b7db94beb0532eed064ca1e2a65ff667`. Its recorded successful compile ended on 9 October at 17:00:19 UTC, and its target audit passed immediately afterward. These are author-side execution timestamps. Publication of the file and logs on October 10 does not backdate public availability of this revised file to October 9.
+
+The new assembly originated from 320 modules: 297 source hashes match the earlier modular snapshot, while 23 differ. No byte-for-byte or blanket semantic-equivalence claim is made for the revisions. The old source, original release, notices and earlier verification remain accessible. Each version's evidence applies to that version.
+
+A bounded literature search on October 10 found no earlier unconditional full proof of the exact Carmichael counting limit. It found classical and newer fixed-exponent lower bounds, conditional near-linear counts, existence results, finite computations, and the credited OpenAI analytic and smooth-prime inputs. This supports submitting the priority evidence for review; it is not a certification of first priority. See [literature review](verification/literature-2026-10-10.txt) for sources and access limits.

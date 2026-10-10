@@ -10,8 +10,8 @@ authors:
     given-names: Liam
     website: "https://github.com/lkruer"
 repository-code: "https://github.com/JENW1N/erdos1057-lean"
-version: "2026-10-08-attribution.1"
-date-released: 2026-10-08
+version: "2026-10-10-standalone"
+date-released: 2026-10-10
 keywords:
   - Erdős 1057
   - Carmichael numbers

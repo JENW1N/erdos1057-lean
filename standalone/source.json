@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "source": "standalone/Challenge.lean",
+  "source_sha256": "20df80a9cba8503fe6cfceeccc6de2e7b7db94beb0532eed064ca1e2a65ff667",
+  "source_bytes": 17716380,
+  "snapshot_date": "2026-10-09",
+  "target": "Bounty.target",
+  "lean_toolchain": "leanprover/lean4:v4.35.0-rc2",
+  "lean_commit": "11acb17ec6b07a8f9e9173e6845197929540936b",
+  "mathlib_commit": "065356127b1dc0016f66b7283ce0ce2c4055aa55",
+  "relation_to_original_modular_snapshot": {
+    "unchanged_module_source_hashes": 297,
+    "changed_module_source_hashes": 23,
+    "total_modules": 320,
+    "semantic_equivalence_certified": false
+  },
+  "original_public_proof_commit": "55fe0f1cd4d8e63b417eb122067ab3e307b39f32",
+  "original_github_release_published_at": "2026-10-08T18:29:25Z",
+  "audit_sha256": "d2eb4a23032bcaeebf48c22fd8d6ea90997ec884d65a140fc482ad5f870ca634"
+}

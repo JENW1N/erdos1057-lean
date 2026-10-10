@@ -1,0 +1,49 @@
+{
+  "status": "compiled",
+  "started_at": "2026-10-09T16:30:18.506341+00:00",
+  "source": "/Users/jenwin/Documents/Codex/2026-10-07/p/work/standalone-final-02/Challenge.lean",
+  "source_sha256": "20df80a9cba8503fe6cfceeccc6de2e7b7db94beb0532eed064ca1e2a65ff667",
+  "source_bytes": 17716380,
+  "compiler_sha256": "d1d9c26a539f54fe839d2aa7760bf1ac1dd76a30b26e2c9684bebf2900038fcf",
+  "command": [
+    "/Users/jenwin/.elan/toolchains/leanprover--lean4---v4.35.0-rc2/bin/lean",
+    "--json",
+    "--trust=0",
+    "-Dweak.google.answer=always_true",
+    "-DElab.async=true",
+    "-j8",
+    "--profile",
+    "-o",
+    "/Users/jenwin/Documents/Codex/2026-10-07/p/work/standalone-final-02/Challenge.olean",
+    "/Users/jenwin/Documents/Codex/2026-10-07/p/work/standalone-final-02/Challenge.lean"
+  ],
+  "lean_path": [
+    "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/mathlib/.lake/build/lib/lean",
+    "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/plausible/.lake/build/lib/lean",
+    "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/LeanSearchClient/.lake/build/lib/lean",
+    "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/importGraph/.lake/build/lib/lean",
+    "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/proofwidgets/.lake/build/lib/lean",
+    "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/aesop/.lake/build/lib/lean",
+    "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/Qq/.lake/build/lib/lean",
+    "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/packages/batteries/.lake/build/lib/lean",
+    "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline/formal-conjectures/.lake/build/lib/lean",
+    "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline",
+    "/Users/jenwin/Documents/Codex/2026-10-07/p/work/current-official-baseline"
+  ],
+  "runtime": {
+    "LEAN_NUM_THREADS": "8",
+    "LEAN_ABORT_ON_PANIC": "1"
+  },
+  "parallel_elaboration": true,
+  "explicit_lean_threads": 8,
+  "size_limits_applied": false,
+  "custom_helper_import_paths_present": false,
+  "pid": 68023,
+  "elapsed_seconds": 1800.8659823330001,
+  "log_bytes": 3604142,
+  "exit_code": 0,
+  "ended_at": "2026-10-09T17:00:19.399675+00:00",
+  "source_unchanged": true,
+  "log_sha256": "376f68cd0629bb6eaeacdb764e2d6fab4a2e6b8fb32ada51c7201432ed26bfc4",
+  "olean_sha256": "19925efc85dfcc7976bd532ebb06f2371736b4403fffc1b28a4bddce8a3eb758"
+}
